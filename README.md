@@ -14,8 +14,8 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 - To start training and testing, go to GMPNN or MPNNR folder and run:
 
   ```shell
-  python gmpnn.py --data WP-IND --agg max --log True
-  python mpnnr.py --data cora --split 1 --log True
+  python gmpnn.py --data WP-IND --agg max --log False
+  python mpnnr.py --data cora --split 1 --log False
 
   ```
 
