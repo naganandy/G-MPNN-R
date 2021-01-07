@@ -5,13 +5,10 @@
 Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs**
 
 
-### Notes:
-- Please use requirements.txt to install dependencies.
-- All datasets used in the paper are included in the data directory
 
 ### Model Usage:
 
-- To start training and testing, go to GMPNN or MPNNR folder and run:
+- Please use requirements.txt to install dependencies. To start training and testing, go to GMPNN or MPNNR folder and run:
 
   ```shell
   python gmpnn.py --data WP-IND --agg max --log False
@@ -21,7 +18,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 
   - `--data` denotes the dataset to use
   - `--log` indicates whether to log results (and dump checkpoints)
-  - `--agg` denotes the type of aggregation for G-MPNN (max / mean / sum)
+  - `--agg` denotes the type of aggregation for GMPNN (max / mean / sum)
   - `--split` is the split number to use for MPNNR
 
   
