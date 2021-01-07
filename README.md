@@ -15,7 +15,7 @@ Source code for [NeurIPS 2020](https://www.cikm2020.org/) paper: **Neural Messag
 
   ```shell
   python gmpnn.py --data WP-IND --agg max --log True
-  python mpnrr.py --data cora --split 1 --log True
+  python mpnnr.py --data cora --split 1 --log True
 
   ```
 
