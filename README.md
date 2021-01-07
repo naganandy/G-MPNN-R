@@ -2,7 +2,7 @@
 
 [![Conference](http://img.shields.io/badge/NeurIPS-2020-4b44ce.svg)](https://nips.cc/) 
 
-Source code for [NeurIPS 2020](https://www.cikm2020.org/) paper: **Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs**
+Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs**
 
 
 ### Notes:
