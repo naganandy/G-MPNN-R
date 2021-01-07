@@ -11,7 +11,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 
 ### Model Usage:
 
-- To start training and testing run:
+- To start training and testing, go to GMPNN or MPNNR folder and run:
 
   ```shell
   python gmpnn.py --data WP-IND --agg max --log True
