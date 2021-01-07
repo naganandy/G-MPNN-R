@@ -8,7 +8,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 
 ### Model Usage:
 
-- Please use requirements.txt to install dependencies. To start training and testing, go to GMPNN or MPNNR folder and run:
+- Please use requirements.txt to install dependencies. To start training, run the following in GMPNN or MPNN folder.
 
   ```shell
   python gmpnn.py --data WP-IND --agg max --log False
