@@ -1,4 +1,4 @@
-# NHP: Neural Hypergraph Link Prediction
+# Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs
 
 [![Conference](http://img.shields.io/badge/NeurIPS-2020-4b44ce.svg)](https://nips.cc/) 
 
