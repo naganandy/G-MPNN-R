@@ -1,0 +1,12 @@
+0	Music_Genre_Subgenre
+1	Country_Genre_Language
+2	Music_Artist_Place
+3	Ethnicity_Language_Person
+4	Country_Genre_Language
+5	Country_Olympics_Sport
+6	Type_Singer_Instrument
+7	Country_Medal_Olympics
+8	Drug_Drug_Medicine
+9	Team_Team_NFL
+10	Agency_Government_Jurisdiction
+11	Century_Philosopher_Expertise

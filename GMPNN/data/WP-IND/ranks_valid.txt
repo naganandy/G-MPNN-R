@@ -1,0 +1,3452 @@
+Player	Team	Acquisition
+Reto_Ziegler	Unione_Sportiva_Sassuolo_Calcio	loan		
+197
+
+Player	Team	Acquisition
+Reto_Ziegler	Unione_Sportiva_Sassuolo_Calcio	loan		
+129
+
+Player	Team	Acquisition
+Reto_Ziegler	Unione_Sportiva_Sassuolo_Calcio	loan		
+1
+
+Player	Team	Acquisition
+Reto_Ziegler	Hamburger_SV	loan		
+208
+
+Player	Team	Acquisition
+Reto_Ziegler	Hamburger_SV	loan		
+188
+
+Player	Team	Acquisition
+Reto_Ziegler	Hamburger_SV	loan		
+1
+
+Member	Membership	Role
+Hermann_Heimpel	Saxon_Academy_of_Sciences	corresponding_member		
+30
+
+Member	Membership	Role
+Hermann_Heimpel	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Member	Membership	Role
+Hermann_Heimpel	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Person	Birthplace	Country
+Maria_Goeppert_Mayer	Katowice	German_Empire		
+7
+
+Person	Birthplace	Country
+Maria_Goeppert_Mayer	Katowice	German_Empire		
+179
+
+Person	Birthplace	Country
+Maria_Goeppert_Mayer	Katowice	German_Empire		
+25
+
+Person	Relative	Kinship
+William_the_Silent	Amalia_of_Solms-Braunfels	daughter-in-law		
+57
+
+Person	Relative	Kinship
+William_the_Silent	Amalia_of_Solms-Braunfels	daughter-in-law		
+137
+
+Person	Relative	Kinship
+William_the_Silent	Amalia_of_Solms-Braunfels	daughter-in-law		
+20
+
+Politician	Position	Predecessor	Successor
+Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Lord_President_of_the_Council	Alec_Douglas-Home	Herbert_Bowden,_Baron_Aylestone	
+155
+
+Politician	Position	Predecessor	Successor
+Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Lord_President_of_the_Council	Alec_Douglas-Home	Herbert_Bowden,_Baron_Aylestone	
+16
+
+Politician	Position	Predecessor	Successor
+Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Lord_President_of_the_Council	Alec_Douglas-Home	Herbert_Bowden,_Baron_Aylestone	
+187
+
+Politician	Position	Predecessor	Successor
+Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Lord_President_of_the_Council	Alec_Douglas-Home	Herbert_Bowden,_Baron_Aylestone	
+243
+
+Politician	Position	Object
+Louis_Jacques_Thénard	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Louis_Jacques_Thénard	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Louis_Jacques_Thénard	Collège_de_France	professor		
+2
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Atlética_Portuguesa	loan		
+103
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Atlética_Portuguesa	loan		
+598
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Atlética_Portuguesa	loan		
+1
+
+Member	Membership	Role
+Wolfgang_Schadewaldt	Saxon_Academy_of_Sciences	ordinary_member		
+34
+
+Member	Membership	Role
+Wolfgang_Schadewaldt	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Member	Membership	Role
+Wolfgang_Schadewaldt	Saxon_Academy_of_Sciences	ordinary_member		
+3
+
+Person	Relative	Kinship
+Walter_Hochmuth	Marcus_Cyron	great-grandson		
+277
+
+Person	Relative	Kinship
+Walter_Hochmuth	Marcus_Cyron	great-grandson		
+78
+
+Person	Relative	Kinship
+Walter_Hochmuth	Marcus_Cyron	great-grandson		
+28
+
+Person	Relative	Kinship
+Dorothea_of_Brandenburg	Christina_of_Saxony	daughter-in-law		
+98
+
+Person	Relative	Kinship
+Dorothea_of_Brandenburg	Christina_of_Saxony	daughter-in-law		
+135
+
+Person	Relative	Kinship
+Dorothea_of_Brandenburg	Christina_of_Saxony	daughter-in-law		
+28
+
+Person	Birthplace	Country
+Constantin_Scriabine	Saint_Petersburg	Russian_Empire		
+121
+
+Person	Birthplace	Country
+Constantin_Scriabine	Saint_Petersburg	Russian_Empire		
+4
+
+Person	Birthplace	Country
+Constantin_Scriabine	Saint_Petersburg	Russian_Empire		
+1
+
+Student	University	Major
+Dimitrios_Gounaris	Leipzig_University	jurisprudence		
+1
+
+Student	University	Major
+Dimitrios_Gounaris	Leipzig_University	jurisprudence		
+6
+
+Student	University	Major
+Dimitrios_Gounaris	Leipzig_University	jurisprudence		
+1
+
+Person	Relative	Kinship
+Archduchess_Louise_of_Austria	Princess_Maria_Antonia_of_the_Two_Sicilies	paternal_grandmother		
+245
+
+Person	Relative	Kinship
+Archduchess_Louise_of_Austria	Princess_Maria_Antonia_of_the_Two_Sicilies	paternal_grandmother		
+154
+
+Person	Relative	Kinship
+Archduchess_Louise_of_Austria	Princess_Maria_Antonia_of_the_Two_Sicilies	paternal_grandmother		
+43
+
+Player	Team	Specialty
+Shaquille_O'Neal	Boston_Celtics	center		
+26
+
+Player	Team	Specialty
+Shaquille_O'Neal	Boston_Celtics	center		
+25
+
+Player	Team	Specialty
+Shaquille_O'Neal	Boston_Celtics	center		
+2
+
+Person	Relative	Kinship
+Donald_Trump	Jared_Kushner	son-in-law		
+213
+
+Person	Relative	Kinship
+Donald_Trump	Jared_Kushner	son-in-law		
+93
+
+Person	Relative	Kinship
+Donald_Trump	Jared_Kushner	son-in-law		
+4
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Portuguesa_de_Desportos	loan		
+82
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Portuguesa_de_Desportos	loan		
+122
+
+Player	Team	Acquisition
+Zé_Eduardo	Associação_Portuguesa_de_Desportos	loan		
+1
+
+Person	Sibling	Kinship
+Liu_Ji	Princess_Pingyang	paternal_half-sister		
+3
+
+Person	Sibling	Kinship
+Liu_Ji	Princess_Pingyang	paternal_half-sister		
+1
+
+Person	Sibling	Kinship
+Liu_Ji	Princess_Pingyang	paternal_half-sister		
+1
+
+Person	Relative	Kinship
+Eva_Braun	Paula_Hitler	sister-in-law		
+35
+
+Person	Relative	Kinship
+Eva_Braun	Paula_Hitler	sister-in-law		
+28
+
+Person	Relative	Kinship
+Eva_Braun	Paula_Hitler	sister-in-law		
+1
+
+Politician	Position	Object
+Frédéric_Joliot-Curie	Collège_de_France	professor		
+751
+
+Politician	Position	Object
+Frédéric_Joliot-Curie	Collège_de_France	professor		
+15
+
+Politician	Position	Object
+Frédéric_Joliot-Curie	Collège_de_France	professor		
+10
+
+Student	University	Degree
+Paul_Samuelson	Harvard_University	master's_degree		
+1028
+
+Student	University	Degree
+Paul_Samuelson	Harvard_University	master's_degree		
+267
+
+Student	University	Degree
+Paul_Samuelson	Harvard_University	master's_degree		
+429
+
+Politician	Position	Object
+Pierre_Bourdieu	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Pierre_Bourdieu	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Pierre_Bourdieu	Collège_de_France	professor		
+2
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Ferdinand_II	grandson		
+155
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Ferdinand_II	grandson		
+293
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Ferdinand_II	grandson		
+4
+
+Nominee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+136
+
+Nominee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+537
+
+Nominee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+390
+
+Nominee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+176
+
+Player	Team	Acquisition
+Peter_Barnes	Stockport_County_F.C.	loan		
+113
+
+Player	Team	Acquisition
+Peter_Barnes	Stockport_County_F.C.	loan		
+117
+
+Player	Team	Acquisition
+Peter_Barnes	Stockport_County_F.C.	loan		
+1
+
+Person	Relative	Kinship
+Frederick,_Landgrave_of_Hesse-Eschwege	Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	great-granddaughter		
+160
+
+Person	Relative	Kinship
+Frederick,_Landgrave_of_Hesse-Eschwege	Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	great-granddaughter		
+195
+
+Person	Relative	Kinship
+Frederick,_Landgrave_of_Hesse-Eschwege	Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	great-granddaughter		
+31
+
+Participant	Event	Status
+Norman_D._Vaughan	1976_Iditarod	scratched		
+7
+
+Participant	Event	Status
+Norman_D._Vaughan	1976_Iditarod	scratched		
+29
+
+Participant	Event	Status
+Norman_D._Vaughan	1976_Iditarod	scratched		
+1
+
+Politician	Position	Object
+Adam_Mickiewicz	Collège_de_France	professor		
+570
+
+Politician	Position	Object
+Adam_Mickiewicz	Collège_de_France	professor		
+4
+
+Politician	Position	Object
+Adam_Mickiewicz	Collège_de_France	professor		
+4
+
+Person	Relative	Kinship
+Theodor_Mommsen	Ulrich_von_Wilamowitz-Moellendorff	son-in-law		
+43
+
+Person	Relative	Kinship
+Theodor_Mommsen	Ulrich_von_Wilamowitz-Moellendorff	son-in-law		
+4
+
+Person	Relative	Kinship
+Theodor_Mommsen	Ulrich_von_Wilamowitz-Moellendorff	son-in-law		
+7
+
+Person	Birthplace	Country
+Vsevolod_Vishnevsky	Saint_Petersburg	Russian_Empire		
+121
+
+Person	Birthplace	Country
+Vsevolod_Vishnevsky	Saint_Petersburg	Russian_Empire		
+4
+
+Person	Birthplace	Country
+Vsevolod_Vishnevsky	Saint_Petersburg	Russian_Empire		
+1
+
+Person	Relative	Kinship
+Anna_of_Brandenburg	Catherine_of_Brandenburg-Küstrin	niece		
+1228
+
+Person	Relative	Kinship
+Anna_of_Brandenburg	Catherine_of_Brandenburg-Küstrin	niece		
+1014
+
+Person	Relative	Kinship
+Anna_of_Brandenburg	Catherine_of_Brandenburg-Küstrin	niece		
+650
+
+Deceased	Place	Country
+Yevgeni_Lebedev	Saint_Petersburg	Russia		
+246
+
+Deceased	Place	Country
+Yevgeni_Lebedev	Saint_Petersburg	Russia		
+7
+
+Deceased	Place	Country
+Yevgeni_Lebedev	Saint_Petersburg	Russia		
+22
+
+Person	Relative	Kinship
+Frederick_Henry	Elizabeth_Charlotte_of_the_Palatinate	niece		
+14
+
+Person	Relative	Kinship
+Frederick_Henry	Elizabeth_Charlotte_of_the_Palatinate	niece		
+10
+
+Person	Relative	Kinship
+Frederick_Henry	Elizabeth_Charlotte_of_the_Palatinate	niece		
+5
+
+Person	Birthplace	Country
+Raúl_González	Madrid	Spain		
+357
+
+Person	Birthplace	Country
+Raúl_González	Madrid	Spain		
+2
+
+Person	Birthplace	Country
+Raúl_González	Madrid	Spain		
+41
+
+Person	Birthplace	Country
+Dmitry_Likhachov	Saint_Petersburg	Russian_Empire		
+150
+
+Person	Birthplace	Country
+Dmitry_Likhachov	Saint_Petersburg	Russian_Empire		
+5
+
+Person	Birthplace	Country
+Dmitry_Likhachov	Saint_Petersburg	Russian_Empire		
+1
+
+Politician	Position	Object
+Antoine_Meillet	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Antoine_Meillet	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Antoine_Meillet	Collège_de_France	professor		
+2
+
+Person	Sibling	Kinship
+Sukehito-shinnō	Sōchō-joō	paternal_half-sister		
+77
+
+Person	Sibling	Kinship
+Sukehito-shinnō	Sōchō-joō	paternal_half-sister		
+4
+
+Person	Sibling	Kinship
+Sukehito-shinnō	Sōchō-joō	paternal_half-sister		
+1
+
+Politician	Position	Object
+Jean-François_Champollion	Collège_de_France	professor		
+77
+
+Politician	Position	Object
+Jean-François_Champollion	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jean-François_Champollion	Collège_de_France	professor		
+1
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Leo_Rudolf_Raubal	great-grandson		
+77
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Leo_Rudolf_Raubal	great-grandson		
+180
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Leo_Rudolf_Raubal	great-grandson		
+30
+
+Student	University	Degree	Major
+Álvares_de_Azevedo	Law_School,_University_of_São_Paulo	bachelor's_degree	law	
+153
+
+Student	University	Degree	Major
+Álvares_de_Azevedo	Law_School,_University_of_São_Paulo	bachelor's_degree	law	
+180
+
+Student	University	Degree	Major
+Álvares_de_Azevedo	Law_School,_University_of_São_Paulo	bachelor's_degree	law	
+1
+
+Student	University	Degree	Major
+Álvares_de_Azevedo	Law_School,_University_of_São_Paulo	bachelor's_degree	law	
+2
+
+Politician	Position	Object
+Jacques_Monod	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Jacques_Monod	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jacques_Monod	Collège_de_France	professor		
+2
+
+Awardee	Award	Event
+Lauren_Bacall	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+1709
+
+Awardee	Award	Event
+Lauren_Bacall	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+807
+
+Awardee	Award	Event
+Lauren_Bacall	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+1775
+
+Deceased	Place	Territory	Country
+Nicholas_Marr	Saint_Petersburg	Russian_Soviet_Federative_Socialist_Republic	Soviet_Union	
+51
+
+Deceased	Place	Territory	Country
+Nicholas_Marr	Saint_Petersburg	Russian_Soviet_Federative_Socialist_Republic	Soviet_Union	
+12
+
+Deceased	Place	Territory	Country
+Nicholas_Marr	Saint_Petersburg	Russian_Soviet_Federative_Socialist_Republic	Soviet_Union	
+1
+
+Deceased	Place	Territory	Country
+Nicholas_Marr	Saint_Petersburg	Russian_Soviet_Federative_Socialist_Republic	Soviet_Union	
+3
+
+Politician	Position	Predecessor	Successor
+Gaston_Doumergue	Co-Prince_of_Andorra	Alexandre_Millerand	Paul_Doumer	
+4
+
+Politician	Position	Predecessor	Successor
+Gaston_Doumergue	Co-Prince_of_Andorra	Alexandre_Millerand	Paul_Doumer	
+14
+
+Politician	Position	Predecessor	Successor
+Gaston_Doumergue	Co-Prince_of_Andorra	Alexandre_Millerand	Paul_Doumer	
+3
+
+Politician	Position	Predecessor	Successor
+Gaston_Doumergue	Co-Prince_of_Andorra	Alexandre_Millerand	Paul_Doumer	
+31
+
+Member	Membership	Role
+Matthias_Jakob_Schleiden	Saxon_Academy_of_Sciences	foreign_member		
+144
+
+Member	Membership	Role
+Matthias_Jakob_Schleiden	Saxon_Academy_of_Sciences	foreign_member		
+2
+
+Member	Membership	Role
+Matthias_Jakob_Schleiden	Saxon_Academy_of_Sciences	foreign_member		
+5
+
+Person	Relative	Kinship
+Andrea_Hitler	Anna_Maria_Göschl	great-grandmother		
+93
+
+Person	Relative	Kinship
+Andrea_Hitler	Anna_Maria_Göschl	great-grandmother		
+182
+
+Person	Relative	Kinship
+Andrea_Hitler	Anna_Maria_Göschl	great-grandmother		
+29
+
+Person	Relative	Kinship
+Angela_Hitler	Anna_Maria_Göschl	great-grandmother		
+171
+
+Person	Relative	Kinship
+Angela_Hitler	Anna_Maria_Göschl	great-grandmother		
+277
+
+Person	Relative	Kinship
+Angela_Hitler	Anna_Maria_Göschl	great-grandmother		
+87
+
+Person	Sibling	Kinship
+Angela_Hitler	Gustav_Hitler	paternal_half-brother		
+36
+
+Person	Sibling	Kinship
+Angela_Hitler	Gustav_Hitler	paternal_half-brother		
+18
+
+Person	Sibling	Kinship
+Angela_Hitler	Gustav_Hitler	paternal_half-brother		
+3
+
+Player	Team	Acquisition
+Iván_Kaviedes	F.C._Porto	loan		
+52
+
+Player	Team	Acquisition
+Iván_Kaviedes	F.C._Porto	loan		
+77
+
+Player	Team	Acquisition
+Iván_Kaviedes	F.C._Porto	loan		
+1
+
+Deceased	Place	Country
+Olga_Ulyanova	Saint_Petersburg	Russian_Empire		
+229
+
+Deceased	Place	Country
+Olga_Ulyanova	Saint_Petersburg	Russian_Empire		
+3
+
+Deceased	Place	Country
+Olga_Ulyanova	Saint_Petersburg	Russian_Empire		
+1
+
+Person	Relative	Kinship
+Paula_Hitler	Theresia_Pfeisinger	great-grandmother		
+2
+
+Person	Relative	Kinship
+Paula_Hitler	Theresia_Pfeisinger	great-grandmother		
+1
+
+Person	Relative	Kinship
+Paula_Hitler	Theresia_Pfeisinger	great-grandmother		
+18
+
+Student	University	Major	Degree
+W._H._Auden	University_of_Oxford	English_studies	Bachelor_of_Arts	
+142
+
+Student	University	Major	Degree
+W._H._Auden	University_of_Oxford	English_studies	Bachelor_of_Arts	
+78
+
+Student	University	Major	Degree
+W._H._Auden	University_of_Oxford	English_studies	Bachelor_of_Arts	
+20
+
+Student	University	Major	Degree
+W._H._Auden	University_of_Oxford	English_studies	Bachelor_of_Arts	
+5
+
+Player	Team	Acquisition
+Daniel_Fernandes	Panthrakikos_F.C.	loan		
+29
+
+Player	Team	Acquisition
+Daniel_Fernandes	Panthrakikos_F.C.	loan		
+585
+
+Player	Team	Acquisition
+Daniel_Fernandes	Panthrakikos_F.C.	loan		
+1
+
+Politician	Position	Object
+Pierre-Louis_Lions	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Pierre-Louis_Lions	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Pierre-Louis_Lions	Collège_de_France	professor		
+2
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Chancellor_of_the_Exchequer	Hugh_Gaitskell	Harold_Macmillan	
+21
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Chancellor_of_the_Exchequer	Hugh_Gaitskell	Harold_Macmillan	
+12
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Chancellor_of_the_Exchequer	Hugh_Gaitskell	Harold_Macmillan	
+118
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Chancellor_of_the_Exchequer	Hugh_Gaitskell	Harold_Macmillan	
+58
+
+Awardee	Award	Conferrer
+Luis_Walter_Alvarez	honorary_degree	University_of_Chicago		
+4098
+
+Awardee	Award	Conferrer
+Luis_Walter_Alvarez	honorary_degree	University_of_Chicago		
+4104
+
+Awardee	Award	Conferrer
+Luis_Walter_Alvarez	honorary_degree	University_of_Chicago		
+3701
+
+Politician	Position	Object
+Walter_Van_Gerven	Catholic_University_of_Louvain	Flemish_professor_ordinarius		
+8
+
+Politician	Position	Object
+Walter_Van_Gerven	Catholic_University_of_Louvain	Flemish_professor_ordinarius		
+45
+
+Politician	Position	Object
+Walter_Van_Gerven	Catholic_University_of_Louvain	Flemish_professor_ordinarius		
+229
+
+Awardee	Award	Work
+José_Ángel_Sánchez_Asiaín	doctor_honoris_causa	University_of_Valladolid		
+37
+
+Awardee	Award	Work
+José_Ángel_Sánchez_Asiaín	doctor_honoris_causa	University_of_Valladolid		
+1
+
+Awardee	Award	Work
+José_Ángel_Sánchez_Asiaín	doctor_honoris_causa	University_of_Valladolid		
+38
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	41st_Tony_Awards		
+3
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	41st_Tony_Awards		
+6
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	41st_Tony_Awards		
+44
+
+Deceased	Place	Country
+Dmitri_Mendeleev	Saint_Petersburg	Russian_Empire		
+229
+
+Deceased	Place	Country
+Dmitri_Mendeleev	Saint_Petersburg	Russian_Empire		
+3
+
+Deceased	Place	Country
+Dmitri_Mendeleev	Saint_Petersburg	Russian_Empire		
+1
+
+Player	Team	Acquisition
+Luther_Blissett	West_Bromwich_Albion_F.C.	loan		
+128
+
+Player	Team	Acquisition
+Luther_Blissett	West_Bromwich_Albion_F.C.	loan		
+40
+
+Player	Team	Acquisition
+Luther_Blissett	West_Bromwich_Albion_F.C.	loan		
+1
+
+Person	Relative	Kinship
+Therese_Schmidt	Paula_Hitler	niece		
+27
+
+Person	Relative	Kinship
+Therese_Schmidt	Paula_Hitler	niece		
+28
+
+Person	Relative	Kinship
+Therese_Schmidt	Paula_Hitler	niece		
+29
+
+Member	Membership	Role
+James_Chadwick	Saxon_Academy_of_Sciences	corresponding_member		
+130
+
+Member	Membership	Role
+James_Chadwick	Saxon_Academy_of_Sciences	corresponding_member		
+3
+
+Member	Membership	Role
+James_Chadwick	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Player	Team	Acquisition
+Exodus_Geohaghon	Mansfield_Town_F.C.	loan		
+285
+
+Player	Team	Acquisition
+Exodus_Geohaghon	Mansfield_Town_F.C.	loan		
+605
+
+Player	Team	Acquisition
+Exodus_Geohaghon	Mansfield_Town_F.C.	loan		
+1
+
+Participant	Event	Part
+Michael_Meister	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+4
+
+Participant	Event	Part
+Michael_Meister	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+1
+
+Participant	Event	Part
+Michael_Meister	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Anna_of_Saxony,_Electress_of_Brandenburg	aunt		
+1
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Anna_of_Saxony,_Electress_of_Brandenburg	aunt		
+54
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Anna_of_Saxony,_Electress_of_Brandenburg	aunt		
+10
+
+Awardee	Award	Co-winner	Co-winner
+Pierre_Curie	Nobel_Prize_in_Physics	Henri_Becquerel	Marie_Curie	
+72
+
+Awardee	Award	Co-winner	Co-winner
+Pierre_Curie	Nobel_Prize_in_Physics	Henri_Becquerel	Marie_Curie	
+2
+
+Awardee	Award	Co-winner	Co-winner
+Pierre_Curie	Nobel_Prize_in_Physics	Henri_Becquerel	Marie_Curie	
+72
+
+Awardee	Award	Co-winner	Co-winner
+Pierre_Curie	Nobel_Prize_in_Physics	Henri_Becquerel	Marie_Curie	
+13
+
+Student	University	Major	Degree
+Sarvepalli_Radhakrishnan	Madras_Christian_College	philosophy	master's_degree	
+43
+
+Student	University	Major	Degree
+Sarvepalli_Radhakrishnan	Madras_Christian_College	philosophy	master's_degree	
+183
+
+Student	University	Major	Degree
+Sarvepalli_Radhakrishnan	Madras_Christian_College	philosophy	master's_degree	
+2
+
+Student	University	Major	Degree
+Sarvepalli_Radhakrishnan	Madras_Christian_College	philosophy	master's_degree	
+19
+
+Person	Birthplace	Country
+Samson_Kutateladze	Saint_Petersburg	Russian_Empire		
+121
+
+Person	Birthplace	Country
+Samson_Kutateladze	Saint_Petersburg	Russian_Empire		
+4
+
+Person	Birthplace	Country
+Samson_Kutateladze	Saint_Petersburg	Russian_Empire		
+1
+
+Member	Membership	Role
+Dmitry_Shirkov	Saxon_Academy_of_Sciences	corresponding_member		
+106
+
+Member	Membership	Role
+Dmitry_Shirkov	Saxon_Academy_of_Sciences	corresponding_member		
+4
+
+Member	Membership	Role
+Dmitry_Shirkov	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Broadcast_Film_Critics_Association_Award_for_Best_Cast	Chicago		
+304
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Broadcast_Film_Critics_Association_Award_for_Best_Cast	Chicago		
+639
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Broadcast_Film_Critics_Association_Award_for_Best_Cast	Chicago		
+987
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	33rd_Tony_Awards		
+158
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	33rd_Tony_Awards		
+32
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	33rd_Tony_Awards		
+105
+
+Player	Team	Acquisition
+Alex_Pederzoli	A.S.D._Manfredonia_Calcio_1932	loan		
+192
+
+Player	Team	Acquisition
+Alex_Pederzoli	A.S.D._Manfredonia_Calcio_1932	loan		
+600
+
+Player	Team	Acquisition
+Alex_Pederzoli	A.S.D._Manfredonia_Calcio_1932	loan		
+1
+
+Player	Team	Acquisition
+Alberto_Quadri	Mantova_1911_S.S.D.	loan		
+156
+
+Player	Team	Acquisition
+Alberto_Quadri	Mantova_1911_S.S.D.	loan		
+582
+
+Player	Team	Acquisition
+Alberto_Quadri	Mantova_1911_S.S.D.	loan		
+1
+
+Nominee	Award	Event
+Christopher_Plummer	Tony_Award_for_Best_Actor_in_a_Play	13th_Tony_Awards		
+12
+
+Nominee	Award	Event
+Christopher_Plummer	Tony_Award_for_Best_Actor_in_a_Play	13th_Tony_Awards		
+1
+
+Nominee	Award	Event
+Christopher_Plummer	Tony_Award_for_Best_Actor_in_a_Play	13th_Tony_Awards		
+9
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Adolf_Hitler	great-grandson		
+18
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Adolf_Hitler	great-grandson		
+1
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Adolf_Hitler	great-grandson		
+26
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	48th_Tony_Awards		
+24
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	48th_Tony_Awards		
+4
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	48th_Tony_Awards		
+22
+
+Politician	Position	Predecessor	Successor
+John_Major	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Geoffrey_Howe	Douglas_Hurd	
+13
+
+Politician	Position	Predecessor	Successor
+John_Major	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Geoffrey_Howe	Douglas_Hurd	
+4
+
+Politician	Position	Predecessor	Successor
+John_Major	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Geoffrey_Howe	Douglas_Hurd	
+97
+
+Politician	Position	Predecessor	Successor
+John_Major	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Geoffrey_Howe	Douglas_Hurd	
+23
+
+Person	Relative	Kinship
+Maximilian_I	Albert_IV,_Duke_of_Bavaria	brother-in-law		
+21
+
+Person	Relative	Kinship
+Maximilian_I	Albert_IV,_Duke_of_Bavaria	brother-in-law		
+69
+
+Person	Relative	Kinship
+Maximilian_I	Albert_IV,_Duke_of_Bavaria	brother-in-law		
+3
+
+Person	Relative	Kinship
+Countess_Louise_Henriette_of_Nassau	Frederick_V	first_cousin		
+78
+
+Person	Relative	Kinship
+Countess_Louise_Henriette_of_Nassau	Frederick_V	first_cousin		
+122
+
+Person	Relative	Kinship
+Countess_Louise_Henriette_of_Nassau	Frederick_V	first_cousin		
+5
+
+Person	Sibling	Kinship
+Richū-joō	Meishō	paternal_half-sister		
+55
+
+Person	Sibling	Kinship
+Richū-joō	Meishō	paternal_half-sister		
+91
+
+Person	Sibling	Kinship
+Richū-joō	Meishō	paternal_half-sister		
+1
+
+Player	Team	Specialty
+Charles_Barkley	Philadelphia_76ers	power_forward		
+211
+
+Player	Team	Specialty
+Charles_Barkley	Philadelphia_76ers	power_forward		
+34
+
+Player	Team	Specialty
+Charles_Barkley	Philadelphia_76ers	power_forward		
+7
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	34th_Tony_Awards		
+2
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	34th_Tony_Awards		
+11
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	34th_Tony_Awards		
+23
+
+Person	Sibling	Kinship
+Otto_Hitler	Angela_Hitler	paternal_half-sister		
+13
+
+Person	Sibling	Kinship
+Otto_Hitler	Angela_Hitler	paternal_half-sister		
+52
+
+Person	Sibling	Kinship
+Otto_Hitler	Angela_Hitler	paternal_half-sister		
+1
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Gustav_Hitler	great-grandson		
+49
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Gustav_Hitler	great-grandson		
+9
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Gustav_Hitler	great-grandson		
+38
+
+Person	Sibling	Kinship
+Richū-joō	Tsuneko-naishinnō	paternal_half-sister		
+4
+
+Person	Sibling	Kinship
+Richū-joō	Tsuneko-naishinnō	paternal_half-sister		
+11
+
+Person	Sibling	Kinship
+Richū-joō	Tsuneko-naishinnō	paternal_half-sister		
+1
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Cruzeiro_E.C.	loan		
+256
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Cruzeiro_E.C.	loan		
+453
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Cruzeiro_E.C.	loan		
+1
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	ordinary_member		
+48
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Picture	Fargo	69th_Academy_Awards	
+3
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Picture	Fargo	69th_Academy_Awards	
+4
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Picture	Fargo	69th_Academy_Awards	
+8
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Picture	Fargo	69th_Academy_Awards	
+134
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Sophie_of_Brandenburg-Ansbach-Kulmbach	niece		
+20
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Sophie_of_Brandenburg-Ansbach-Kulmbach	niece		
+41
+
+Person	Relative	Kinship
+John,_Elector_of_Saxony	Sophie_of_Brandenburg-Ansbach-Kulmbach	niece		
+21
+
+Nominee	Award	Event
+Ethel_Merman	Tony_Award_for_Best_Actress_in_a_Musical	14th_Tony_Awards		
+131
+
+Nominee	Award	Event
+Ethel_Merman	Tony_Award_for_Best_Actress_in_a_Musical	14th_Tony_Awards		
+8
+
+Nominee	Award	Event
+Ethel_Merman	Tony_Award_for_Best_Actress_in_a_Musical	14th_Tony_Awards		
+6
+
+Person	Relative	Kinship
+Ferdinand_II_of_Aragon	Henry_VIII_of_England	son-in-law		
+59
+
+Person	Relative	Kinship
+Ferdinand_II_of_Aragon	Henry_VIII_of_England	son-in-law		
+6
+
+Person	Relative	Kinship
+Ferdinand_II_of_Aragon	Henry_VIII_of_England	son-in-law		
+2
+
+Person	Relative	Kinship
+Adolf_Hitler	Geli_Raubal	niece		
+14
+
+Person	Relative	Kinship
+Adolf_Hitler	Geli_Raubal	niece		
+75
+
+Person	Relative	Kinship
+Adolf_Hitler	Geli_Raubal	niece		
+29
+
+Nominee	Award	Work
+Ethan_Coen	Golden_Globe_Award_for_Best_Screenplay	Fargo		
+11
+
+Nominee	Award	Work
+Ethan_Coen	Golden_Globe_Award_for_Best_Screenplay	Fargo		
+75
+
+Nominee	Award	Work
+Ethan_Coen	Golden_Globe_Award_for_Best_Screenplay	Fargo		
+1
+
+Player	Team	Acquisition
+Trevor_Benjamin	Rushden_&_Diamonds_F.C.	loan		
+42
+
+Player	Team	Acquisition
+Trevor_Benjamin	Rushden_&_Diamonds_F.C.	loan		
+124
+
+Player	Team	Acquisition
+Trevor_Benjamin	Rushden_&_Diamonds_F.C.	loan		
+1
+
+Politician	Position	Predecessor	Successor
+Camille_Chautemps	President_of_the_Council	Albert_Sarraut	Édouard_Daladier	
+2
+
+Politician	Position	Predecessor	Successor
+Camille_Chautemps	President_of_the_Council	Albert_Sarraut	Édouard_Daladier	
+1
+
+Politician	Position	Predecessor	Successor
+Camille_Chautemps	President_of_the_Council	Albert_Sarraut	Édouard_Daladier	
+92
+
+Politician	Position	Predecessor	Successor
+Camille_Chautemps	President_of_the_Council	Albert_Sarraut	Édouard_Daladier	
+3
+
+Person	Relative	Kinship
+Klara_Hitler	Eduard_Schmidt	nephew		
+116
+
+Person	Relative	Kinship
+Klara_Hitler	Eduard_Schmidt	nephew		
+56
+
+Person	Relative	Kinship
+Klara_Hitler	Eduard_Schmidt	nephew		
+7
+
+Player	Team	Acquisition
+Carlos_Bueno	Sporting_CP	loan		
+302
+
+Player	Team	Acquisition
+Carlos_Bueno	Sporting_CP	loan		
+596
+
+Player	Team	Acquisition
+Carlos_Bueno	Sporting_CP	loan		
+1
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Real_Betis_Balompié	loan		
+139
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Real_Betis_Balompié	loan		
+435
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Real_Betis_Balompié	loan		
+1
+
+Member	Membership	Role
+Ulrich_Wilcken	Saxon_Academy_of_Sciences	ordinary_member		
+50
+
+Member	Membership	Role
+Ulrich_Wilcken	Saxon_Academy_of_Sciences	ordinary_member		
+5
+
+Member	Membership	Role
+Ulrich_Wilcken	Saxon_Academy_of_Sciences	ordinary_member		
+6
+
+Awardee	Award	Work	Event
+Nino_Rota	Academy_Award_for_Best_Original_Dramatic_Score	The_Godfather_Part_II	47th_Academy_Awards	
+580
+
+Awardee	Award	Work	Event
+Nino_Rota	Academy_Award_for_Best_Original_Dramatic_Score	The_Godfather_Part_II	47th_Academy_Awards	
+34
+
+Awardee	Award	Work	Event
+Nino_Rota	Academy_Award_for_Best_Original_Dramatic_Score	The_Godfather_Part_II	47th_Academy_Awards	
+29
+
+Awardee	Award	Work	Event
+Nino_Rota	Academy_Award_for_Best_Original_Dramatic_Score	The_Godfather_Part_II	47th_Academy_Awards	
+35
+
+Deceased	Place	Country
+Fyodor_Uglov	Saint_Petersburg	Russia		
+246
+
+Deceased	Place	Country
+Fyodor_Uglov	Saint_Petersburg	Russia		
+7
+
+Deceased	Place	Country
+Fyodor_Uglov	Saint_Petersburg	Russia		
+22
+
+Student	Degree	University
+John_R._Pierce	Doctor_of_Science	Yale_University		
+4
+
+Student	Degree	University
+John_R._Pierce	Doctor_of_Science	Yale_University		
+5
+
+Student	Degree	University
+John_R._Pierce	Doctor_of_Science	Yale_University		
+82
+
+Person	Birthplace	Country
+Martin_Karplus	Vienna	Austria		
+513
+
+Person	Birthplace	Country
+Martin_Karplus	Vienna	Austria		
+141
+
+Person	Birthplace	Country
+Martin_Karplus	Vienna	Austria		
+269
+
+Deceased	Place	Country
+Vuk_Karadžić	Vienna	Austrian_Empire		
+306
+
+Deceased	Place	Country
+Vuk_Karadžić	Vienna	Austrian_Empire		
+12
+
+Deceased	Place	Country
+Vuk_Karadžić	Vienna	Austrian_Empire		
+33
+
+Player	Team	Acquisition
+Trevor_Benjamin	Swindon_Town_F.C.	loan		
+13
+
+Player	Team	Acquisition
+Trevor_Benjamin	Swindon_Town_F.C.	loan		
+7
+
+Player	Team	Acquisition
+Trevor_Benjamin	Swindon_Town_F.C.	loan		
+1
+
+Awardee	Award	Work	Event
+James_Horner	Academy_Award_for_Best_Original_Dramatic_Score	Titanic	70th_Academy_Awards	
+12
+
+Awardee	Award	Work	Event
+James_Horner	Academy_Award_for_Best_Original_Dramatic_Score	Titanic	70th_Academy_Awards	
+20
+
+Awardee	Award	Work	Event
+James_Horner	Academy_Award_for_Best_Original_Dramatic_Score	Titanic	70th_Academy_Awards	
+11
+
+Awardee	Award	Work	Event
+James_Horner	Academy_Award_for_Best_Original_Dramatic_Score	Titanic	70th_Academy_Awards	
+265
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	45th_Tony_Awards		
+57
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	45th_Tony_Awards		
+2
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	45th_Tony_Awards		
+59
+
+Player	Team	Acquisition
+Zé_Eduardo	Robur_Siena	loan		
+103
+
+Player	Team	Acquisition
+Zé_Eduardo	Robur_Siena	loan		
+598
+
+Player	Team	Acquisition
+Zé_Eduardo	Robur_Siena	loan		
+1
+
+Awardee	Award	Conferrer
+Janet_Yellen	honorary_degree	Brown_University		
+1197
+
+Awardee	Award	Conferrer
+Janet_Yellen	honorary_degree	Brown_University		
+311
+
+Awardee	Award	Conferrer
+Janet_Yellen	honorary_degree	Brown_University		
+466
+
+Member	Membership	Role
+Karl_Friedrich_Bonhoeffer	Saxon_Academy_of_Sciences	corresponding_member		
+130
+
+Member	Membership	Role
+Karl_Friedrich_Bonhoeffer	Saxon_Academy_of_Sciences	corresponding_member		
+3
+
+Member	Membership	Role
+Karl_Friedrich_Bonhoeffer	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Student	University	Degree
+Ryōji_Noyori	Kyoto_University	master's_degree		
+21
+
+Student	University	Degree
+Ryōji_Noyori	Kyoto_University	master's_degree		
+25
+
+Student	University	Degree
+Ryōji_Noyori	Kyoto_University	master's_degree		
+49
+
+Person	Sibling	Kinship
+Teruko-naishinnō	Tsuneko-naishinnō	paternal_half-sister		
+5
+
+Person	Sibling	Kinship
+Teruko-naishinnō	Tsuneko-naishinnō	paternal_half-sister		
+7
+
+Person	Sibling	Kinship
+Teruko-naishinnō	Tsuneko-naishinnō	paternal_half-sister		
+1
+
+Player	Team	Acquisition
+Marco_Borriello	Juventus_FC	loan		
+229
+
+Player	Team	Acquisition
+Marco_Borriello	Juventus_FC	loan		
+583
+
+Player	Team	Acquisition
+Marco_Borriello	Juventus_FC	loan		
+1
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Estudiantes_Tecos	loan		
+83
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Estudiantes_Tecos	loan		
+366
+
+Player	Team	Acquisition
+Robert_de_Pinho_de_Souza	Estudiantes_Tecos	loan		
+1
+
+Person	Relative	Kinship
+Joachim_Frederick,_Elector_of_Brandenburg	Marie_Eleonore_of_Cleves	mother-in-law		
+202
+
+Person	Relative	Kinship
+Joachim_Frederick,_Elector_of_Brandenburg	Marie_Eleonore_of_Cleves	mother-in-law		
+154
+
+Person	Relative	Kinship
+Joachim_Frederick,_Elector_of_Brandenburg	Marie_Eleonore_of_Cleves	mother-in-law		
+21
+
+Player	Team	Acquisition
+George_Best	Stockport_County_F.C.	loan		
+104
+
+Player	Team	Acquisition
+George_Best	Stockport_County_F.C.	loan		
+10
+
+Player	Team	Acquisition
+George_Best	Stockport_County_F.C.	loan		
+1
+
+Nominee	Award	Work
+Joel_Coen	BAFTA_Award_for_Best_Film	Fargo		
+2
+
+Nominee	Award	Work
+Joel_Coen	BAFTA_Award_for_Best_Film	Fargo		
+6
+
+Nominee	Award	Work
+Joel_Coen	BAFTA_Award_for_Best_Film	Fargo		
+1
+
+Student	University	Major	Degree
+Linus_Torvalds	University_of_Helsinki	computer_science	master's_degree	
+611
+
+Student	University	Major	Degree
+Linus_Torvalds	University_of_Helsinki	computer_science	master's_degree	
+610
+
+Student	University	Major	Degree
+Linus_Torvalds	University_of_Helsinki	computer_science	master's_degree	
+1647
+
+Student	University	Major	Degree
+Linus_Torvalds	University_of_Helsinki	computer_science	master's_degree	
+800
+
+Person	Relative	Kinship
+Klara_Hitler	Johann_Georg_Hiedler	husband's_father		
+101
+
+Person	Relative	Kinship
+Klara_Hitler	Johann_Georg_Hiedler	husband's_father		
+28
+
+Person	Relative	Kinship
+Klara_Hitler	Johann_Georg_Hiedler	husband's_father		
+25
+
+Person	Birthplace	Country
+Mario_Gómez	Riedlingen	West_Germany		
+889
+
+Person	Birthplace	Country
+Mario_Gómez	Riedlingen	West_Germany		
+441
+
+Person	Birthplace	Country
+Mario_Gómez	Riedlingen	West_Germany		
+268
+
+Politician	Position	Object
+Jacques_Hadamard	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Jacques_Hadamard	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jacques_Hadamard	Collège_de_France	professor		
+2
+
+Awardee	Award	Work
+Víctor_García_de_la_Concha	doctor_honoris_causa	University_of_Valladolid		
+7
+
+Awardee	Award	Work
+Víctor_García_de_la_Concha	doctor_honoris_causa	University_of_Valladolid		
+1
+
+Awardee	Award	Work
+Víctor_García_de_la_Concha	doctor_honoris_causa	University_of_Valladolid		
+16
+
+Person	Relative	Kinship
+Johann_Baptist_Pölzl	Alois_Hitler	son-in-law		
+2
+
+Person	Relative	Kinship
+Johann_Baptist_Pölzl	Alois_Hitler	son-in-law		
+4
+
+Person	Relative	Kinship
+Johann_Baptist_Pölzl	Alois_Hitler	son-in-law		
+9
+
+Person	Relative	Kinship
+Elizabeth_Charlotte_of_the_Palatinate	Sophia_of_Hanover	niece		
+42
+
+Person	Relative	Kinship
+Elizabeth_Charlotte_of_the_Palatinate	Sophia_of_Hanover	niece		
+66
+
+Person	Relative	Kinship
+Elizabeth_Charlotte_of_the_Palatinate	Sophia_of_Hanover	niece		
+22
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	18th_Tony_Awards		
+31
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	18th_Tony_Awards		
+4
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Play	18th_Tony_Awards		
+3
+
+Player	Team	Acquisition
+Alberto_Quadri	U.S._Avellino_1912	loan		
+276
+
+Player	Team	Acquisition
+Alberto_Quadri	U.S._Avellino_1912	loan		
+598
+
+Player	Team	Acquisition
+Alberto_Quadri	U.S._Avellino_1912	loan		
+1
+
+Player	Team	Acquisition
+Andy_Marriott	Blackburn_Rovers_F.C.	loan		
+245
+
+Player	Team	Acquisition
+Andy_Marriott	Blackburn_Rovers_F.C.	loan		
+517
+
+Player	Team	Acquisition
+Andy_Marriott	Blackburn_Rovers_F.C.	loan		
+1
+
+Awardee	Award	Event
+Lea_Salonga	Tony_Award_for_Best_Actress_in_a_Musical	45th_Tony_Awards		
+780
+
+Awardee	Award	Event
+Lea_Salonga	Tony_Award_for_Best_Actress_in_a_Musical	45th_Tony_Awards		
+24
+
+Awardee	Award	Event
+Lea_Salonga	Tony_Award_for_Best_Actress_in_a_Musical	45th_Tony_Awards		
+80
+
+Politician	Position	Predecessor	Successor
+Francis_Ford_Coppola	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Isabelle_Adjani	
+26
+
+Politician	Position	Predecessor	Successor
+Francis_Ford_Coppola	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Isabelle_Adjani	
+5
+
+Politician	Position	Predecessor	Successor
+Francis_Ford_Coppola	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Isabelle_Adjani	
+32
+
+Politician	Position	Predecessor	Successor
+Francis_Ford_Coppola	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Isabelle_Adjani	
+315
+
+Person	Relative	Kinship
+Frederick_V	George_William,_Elector_of_Brandenburg	brother-in-law		
+23
+
+Person	Relative	Kinship
+Frederick_V	George_William,_Elector_of_Brandenburg	brother-in-law		
+290
+
+Person	Relative	Kinship
+Frederick_V	George_William,_Elector_of_Brandenburg	brother-in-law		
+3
+
+Player	Team	Specialty
+Shaquille_O'Neal	Phoenix_Suns	center		
+42
+
+Player	Team	Specialty
+Shaquille_O'Neal	Phoenix_Suns	center		
+527
+
+Player	Team	Specialty
+Shaquille_O'Neal	Phoenix_Suns	center		
+4
+
+Person	Birthplace	Country
+Richard_Adolf_Zsigmondy	Vienna	Germany		
+13
+
+Person	Birthplace	Country
+Richard_Adolf_Zsigmondy	Vienna	Germany		
+17
+
+Person	Birthplace	Country
+Richard_Adolf_Zsigmondy	Vienna	Germany		
+3
+
+Person	Sibling	Kinship
+Edmund_Hitler	Angela_Hitler	paternal_half-sister		
+3
+
+Person	Sibling	Kinship
+Edmund_Hitler	Angela_Hitler	paternal_half-sister		
+30
+
+Person	Sibling	Kinship
+Edmund_Hitler	Angela_Hitler	paternal_half-sister		
+1
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	42nd_Tony_Awards		
+1
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	42nd_Tony_Awards		
+7
+
+Nominee	Award	Event
+Tony_Walton	Tony_Award_for_Best_Scenic_Design	42nd_Tony_Awards		
+38
+
+Person	Sibling	Kinship
+Angela_Hitler	Adolf_Hitler	paternal_half-brother		
+80
+
+Person	Sibling	Kinship
+Angela_Hitler	Adolf_Hitler	paternal_half-brother		
+23
+
+Person	Sibling	Kinship
+Angela_Hitler	Adolf_Hitler	paternal_half-brother		
+5
+
+Deceased	Place	Country
+Mikhail_Miloradovich	Saint_Petersburg	Russian_Empire		
+65
+
+Deceased	Place	Country
+Mikhail_Miloradovich	Saint_Petersburg	Russian_Empire		
+2
+
+Deceased	Place	Country
+Mikhail_Miloradovich	Saint_Petersburg	Russian_Empire		
+2
+
+Nominee	Award	Event
+Harold_Prince	Tony_Award_for_Best_Direction_of_a_Musical	32nd_Tony_Awards		
+5
+
+Nominee	Award	Event
+Harold_Prince	Tony_Award_for_Best_Direction_of_a_Musical	32nd_Tony_Awards		
+2
+
+Nominee	Award	Event
+Harold_Prince	Tony_Award_for_Best_Direction_of_a_Musical	32nd_Tony_Awards		
+13
+
+Person	Birthplace	Country
+James_Franck	Hamburg	German_Empire		
+18
+
+Person	Birthplace	Country
+James_Franck	Hamburg	German_Empire		
+29
+
+Person	Birthplace	Country
+James_Franck	Hamburg	German_Empire		
+40
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	29th_Tony_Awards		
+124
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	29th_Tony_Awards		
+53
+
+Awardee	Award	Event
+Angela_Lansbury	Tony_Award_for_Best_Actress_in_a_Musical	29th_Tony_Awards		
+106
+
+Awardee	Award	Work
+Philippa_Boyens	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+15
+
+Awardee	Award	Work
+Philippa_Boyens	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+32
+
+Awardee	Award	Work
+Philippa_Boyens	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+8
+
+Person	Birthplace	Country
+Peter_Brook	London	United_Kingdom		
+270
+
+Person	Birthplace	Country
+Peter_Brook	London	United_Kingdom		
+429
+
+Person	Birthplace	Country
+Peter_Brook	London	United_Kingdom		
+72
+
+Player	Team	Acquisition
+Daniel_Fernandes	Iraklis_F.C.	loan		
+47
+
+Player	Team	Acquisition
+Daniel_Fernandes	Iraklis_F.C.	loan		
+410
+
+Player	Team	Acquisition
+Daniel_Fernandes	Iraklis_F.C.	loan		
+1
+
+Member	Membership	Role
+Peter_Debye	Saxon_Academy_of_Sciences	ordinary_member		
+97
+
+Member	Membership	Role
+Peter_Debye	Saxon_Academy_of_Sciences	ordinary_member		
+3
+
+Member	Membership	Role
+Peter_Debye	Saxon_Academy_of_Sciences	ordinary_member		
+3
+
+Student	University	Major
+Constantin_Carathéodory	Technical_University_of_Berlin	mathematics		
+73
+
+Student	University	Major
+Constantin_Carathéodory	Technical_University_of_Berlin	mathematics		
+12
+
+Student	University	Major
+Constantin_Carathéodory	Technical_University_of_Berlin	mathematics		
+3
+
+Person	Relative	Kinship
+Sophia_Charlotte_of_Hanover	Frederick_II_of_Prussia	grandson		
+62
+
+Person	Relative	Kinship
+Sophia_Charlotte_of_Hanover	Frederick_II_of_Prussia	grandson		
+15
+
+Person	Relative	Kinship
+Sophia_Charlotte_of_Hanover	Frederick_II_of_Prussia	grandson		
+1
+
+Deceased	Place	Country
+Alexander_Borodin	Saint_Petersburg	Russian_Empire		
+65
+
+Deceased	Place	Country
+Alexander_Borodin	Saint_Petersburg	Russian_Empire		
+2
+
+Deceased	Place	Country
+Alexander_Borodin	Saint_Petersburg	Russian_Empire		
+2
+
+Person	Relative	Kinship
+Gustav_Hitler	Anna_Maria_Göschl	great-grandmother		
+28
+
+Person	Relative	Kinship
+Gustav_Hitler	Anna_Maria_Göschl	great-grandmother		
+149
+
+Person	Relative	Kinship
+Gustav_Hitler	Anna_Maria_Göschl	great-grandmother		
+12
+
+Nominee	Award	Work
+Fran_Walsh	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+2
+
+Nominee	Award	Work
+Fran_Walsh	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+21
+
+Nominee	Award	Work
+Fran_Walsh	Nebula_Award_for_Best_Script	The_Lord_of_the_Rings:_The_Two_Towers		
+8
+
+Student	University	Major	Degree
+David_Levering_Lewis	Columbia_University	history	Master_of_Arts	
+7
+
+Student	University	Major	Degree
+David_Levering_Lewis	Columbia_University	history	Master_of_Arts	
+10
+
+Student	University	Major	Degree
+David_Levering_Lewis	Columbia_University	history	Master_of_Arts	
+39
+
+Student	University	Major	Degree
+David_Levering_Lewis	Columbia_University	history	Master_of_Arts	
+9
+
+Student	University	Major	Degree
+John_Hope_Franklin	Harvard_University	history	Doctor_of_Philosophy	
+735
+
+Student	University	Major	Degree
+John_Hope_Franklin	Harvard_University	history	Doctor_of_Philosophy	
+26
+
+Student	University	Major	Degree
+John_Hope_Franklin	Harvard_University	history	Doctor_of_Philosophy	
+174
+
+Student	University	Major	Degree
+John_Hope_Franklin	Harvard_University	history	Doctor_of_Philosophy	
+104
+
+Nominee	Award	Event
+Warren_Beatty	Tony_Award_for_Best_Featured_Actor_in_a_Play	14th_Tony_Awards		
+91
+
+Nominee	Award	Event
+Warren_Beatty	Tony_Award_for_Best_Featured_Actor_in_a_Play	14th_Tony_Awards		
+13
+
+Nominee	Award	Event
+Warren_Beatty	Tony_Award_for_Best_Featured_Actor_in_a_Play	14th_Tony_Awards		
+10
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	Polytechnic_University_of_Valencia		
+6
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	Polytechnic_University_of_Valencia		
+1
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	Polytechnic_University_of_Valencia		
+79
+
+Person	Sibling	Kinship
+Tsuneko-naishinnō	Niinomiya	paternal_half-sister		
+27
+
+Person	Sibling	Kinship
+Tsuneko-naishinnō	Niinomiya	paternal_half-sister		
+125
+
+Person	Sibling	Kinship
+Tsuneko-naishinnō	Niinomiya	paternal_half-sister		
+1
+
+Nominee	Award	Event
+Mike_Nichols	Tony_Award_for_Best_Direction_of_a_Play	32nd_Tony_Awards		
+35
+
+Nominee	Award	Event
+Mike_Nichols	Tony_Award_for_Best_Direction_of_a_Play	32nd_Tony_Awards		
+9
+
+Nominee	Award	Event
+Mike_Nichols	Tony_Award_for_Best_Direction_of_a_Play	32nd_Tony_Awards		
+50
+
+Participant	Event	Part
+Wolfgang_Schäuble	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+22
+
+Participant	Event	Part
+Wolfgang_Schäuble	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+2
+
+Participant	Event	Part
+Wolfgang_Schäuble	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+10
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Lord_Privy_Seal	Harry_Crookshank,_1st_Viscount_Crookshank	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+56
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Lord_Privy_Seal	Harry_Crookshank,_1st_Viscount_Crookshank	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+5
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Lord_Privy_Seal	Harry_Crookshank,_1st_Viscount_Crookshank	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+361
+
+Politician	Position	Predecessor	Successor
+Rab_Butler	Lord_Privy_Seal	Harry_Crookshank,_1st_Viscount_Crookshank	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+18
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	honorary_member		
+122
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	honorary_member		
+7
+
+Member	Membership	Role
+Bartel_Leendert_van_der_Waerden	Saxon_Academy_of_Sciences	honorary_member		
+2
+
+Member	Membership	Role
+Hans_Spemann	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+121
+
+Member	Membership	Role
+Hans_Spemann	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+1
+
+Member	Membership	Role
+Hans_Spemann	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+7
+
+Awardee	Award	Co-winner	Co-winner
+Eugene_Wigner	Nobel_Prize_in_Physics	Maria_Goeppert_Mayer	J._Hans_D._Jensen	
+80
+
+Awardee	Award	Co-winner	Co-winner
+Eugene_Wigner	Nobel_Prize_in_Physics	Maria_Goeppert_Mayer	J._Hans_D._Jensen	
+2
+
+Awardee	Award	Co-winner	Co-winner
+Eugene_Wigner	Nobel_Prize_in_Physics	Maria_Goeppert_Mayer	J._Hans_D._Jensen	
+1
+
+Awardee	Award	Co-winner	Co-winner
+Eugene_Wigner	Nobel_Prize_in_Physics	Maria_Goeppert_Mayer	J._Hans_D._Jensen	
+15
+
+Person	Relative	Kinship
+Margaret_of_Austria	Frederick_I	husband's_father		
+74
+
+Person	Relative	Kinship
+Margaret_of_Austria	Frederick_I	husband's_father		
+87
+
+Person	Relative	Kinship
+Margaret_of_Austria	Frederick_I	husband's_father		
+25
+
+Participant	Event	Part
+Arnold_Vaatz	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+32
+
+Participant	Event	Part
+Arnold_Vaatz	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+2
+
+Participant	Event	Part
+Arnold_Vaatz	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+11
+
+Person	Relative	Kinship
+Ferdinand_II	Ferdinand_I,_Holy_Roman_Emperor	grandfather		
+269
+
+Person	Relative	Kinship
+Ferdinand_II	Ferdinand_I,_Holy_Roman_Emperor	grandfather		
+145
+
+Person	Relative	Kinship
+Ferdinand_II	Ferdinand_I,_Holy_Roman_Emperor	grandfather		
+16
+
+Student	University	Degree	Major
+David_Brion_Davis	Harvard_University	Doctor_of_Philosophy	history	
+4101
+
+Student	University	Degree	Major
+David_Brion_Davis	Harvard_University	Doctor_of_Philosophy	history	
+4438
+
+Student	University	Degree	Major
+David_Brion_Davis	Harvard_University	Doctor_of_Philosophy	history	
+4457
+
+Student	University	Degree	Major
+David_Brion_Davis	Harvard_University	Doctor_of_Philosophy	history	
+4405
+
+Politician	Position	Predecessor	Successor
+Tennessee_Williams	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Roberto_Rossellini	
+809
+
+Politician	Position	Predecessor	Successor
+Tennessee_Williams	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Roberto_Rossellini	
+78
+
+Politician	Position	Predecessor	Successor
+Tennessee_Williams	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Roberto_Rossellini	
+122
+
+Politician	Position	Predecessor	Successor
+Tennessee_Williams	President_of_the_Jury_at_the_Cannes_Festival	Jeanne_Moreau	Roberto_Rossellini	
+980
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Deportivo_Universidad_Católica	loan		
+302
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Deportivo_Universidad_Católica	loan		
+596
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Deportivo_Universidad_Católica	loan		
+1
+
+Member	Membership	Role
+Ludwig_Aschoff	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+121
+
+Member	Membership	Role
+Ludwig_Aschoff	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+1
+
+Member	Membership	Role
+Ludwig_Aschoff	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+7
+
+Player	Team	Acquisition
+Iván_Kaviedes	Puebla_F.C.	loan		
+282
+
+Player	Team	Acquisition
+Iván_Kaviedes	Puebla_F.C.	loan		
+609
+
+Player	Team	Acquisition
+Iván_Kaviedes	Puebla_F.C.	loan		
+1
+
+Person	Relative	Kinship
+Joachim_II_Hector,_Elector_of_Brandenburg	Albrecht_III_Achilles,_Elector_of_Brandenburg	great-grandfather		
+110
+
+Person	Relative	Kinship
+Joachim_II_Hector,_Elector_of_Brandenburg	Albrecht_III_Achilles,_Elector_of_Brandenburg	great-grandfather		
+39
+
+Person	Relative	Kinship
+Joachim_II_Hector,_Elector_of_Brandenburg	Albrecht_III_Achilles,_Elector_of_Brandenburg	great-grandfather		
+17
+
+Politician	Position	Object
+Jean_Baptiste_Armand_Louis_Léonée_Elie_de_Beaumont	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Jean_Baptiste_Armand_Louis_Léonée_Elie_de_Beaumont	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jean_Baptiste_Armand_Louis_Léonée_Elie_de_Beaumont	Collège_de_France	professor		
+2
+
+Politician	Position	Object
+Marcellin_Berthelot	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Marcellin_Berthelot	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Marcellin_Berthelot	Collège_de_France	professor		
+2
+
+Person	Relative	Kinship
+Frederick_I_of_Prussia	Elizabeth_Charlotte_of_the_Palatinate	paternal_grandmother		
+124
+
+Person	Relative	Kinship
+Frederick_I_of_Prussia	Elizabeth_Charlotte_of_the_Palatinate	paternal_grandmother		
+94
+
+Person	Relative	Kinship
+Frederick_I_of_Prussia	Elizabeth_Charlotte_of_the_Palatinate	paternal_grandmother		
+28
+
+Participant	Event	Part
+Maria_Böhmer	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+4
+
+Participant	Event	Part
+Maria_Böhmer	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+1
+
+Participant	Event	Part
+Maria_Böhmer	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Person	Birthplace	Country
+Nicholas_II_of_Russia	Saint_Petersburg	Russian_Empire		
+87
+
+Person	Birthplace	Country
+Nicholas_II_of_Russia	Saint_Petersburg	Russian_Empire		
+29
+
+Person	Birthplace	Country
+Nicholas_II_of_Russia	Saint_Petersburg	Russian_Empire		
+1
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Adolf_Hitler	great-grandson		
+26
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Adolf_Hitler	great-grandson		
+1
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Adolf_Hitler	great-grandson		
+32
+
+Player	Team	Acquisition
+Marco_Borriello	Unione_Triestina_2012_S.S.D.	loan		
+265
+
+Player	Team	Acquisition
+Marco_Borriello	Unione_Triestina_2012_S.S.D.	loan		
+508
+
+Player	Team	Acquisition
+Marco_Borriello	Unione_Triestina_2012_S.S.D.	loan		
+1
+
+Awardee	Award	Work	Event
+James_Cameron	Academy_Award_for_Best_Picture	Titanic	70th_Academy_Awards	
+59
+
+Awardee	Award	Work	Event
+James_Cameron	Academy_Award_for_Best_Picture	Titanic	70th_Academy_Awards	
+12
+
+Awardee	Award	Work	Event
+James_Cameron	Academy_Award_for_Best_Picture	Titanic	70th_Academy_Awards	
+22
+
+Awardee	Award	Work	Event
+James_Cameron	Academy_Award_for_Best_Picture	Titanic	70th_Academy_Awards	
+382
+
+Person	Relative	Kinship
+Paula_Hitler	Eva_Braun	sister-in-law		
+23
+
+Person	Relative	Kinship
+Paula_Hitler	Eva_Braun	sister-in-law		
+36
+
+Person	Relative	Kinship
+Paula_Hitler	Eva_Braun	sister-in-law		
+1
+
+Person	Relative	Kinship
+Johanna_Hiedler	Paula_Hitler	granddaughter		
+9
+
+Person	Relative	Kinship
+Johanna_Hiedler	Paula_Hitler	granddaughter		
+64
+
+Person	Relative	Kinship
+Johanna_Hiedler	Paula_Hitler	granddaughter		
+17
+
+Politician	Position	Object
+Henry_Louis_Le_Châtelier	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Henry_Louis_Le_Châtelier	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Henry_Louis_Le_Châtelier	Collège_de_France	professor		
+2
+
+Nominee	Award	Work	Event
+Robert_De_Niro	Academy_Award_for_Best_Supporting_Actor	The_Godfather_Part_II	47th_Academy_Awards	
+1017
+
+Nominee	Award	Work	Event
+Robert_De_Niro	Academy_Award_for_Best_Supporting_Actor	The_Godfather_Part_II	47th_Academy_Awards	
+388
+
+Nominee	Award	Work	Event
+Robert_De_Niro	Academy_Award_for_Best_Supporting_Actor	The_Godfather_Part_II	47th_Academy_Awards	
+485
+
+Nominee	Award	Work	Event
+Robert_De_Niro	Academy_Award_for_Best_Supporting_Actor	The_Godfather_Part_II	47th_Academy_Awards	
+533
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Film_Editing	Fargo	69th_Academy_Awards	
+400
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Film_Editing	Fargo	69th_Academy_Awards	
+398
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Film_Editing	Fargo	69th_Academy_Awards	
+511
+
+Nominee	Award	Work	Event
+Ethan_Coen	Academy_Award_for_Best_Film_Editing	Fargo	69th_Academy_Awards	
+1123
+
+Person	Relative	Kinship
+Frederick_V	Sophia_Dorothea_of_Hanover	great-granddaughter		
+58
+
+Person	Relative	Kinship
+Frederick_V	Sophia_Dorothea_of_Hanover	great-granddaughter		
+85
+
+Person	Relative	Kinship
+Frederick_V	Sophia_Dorothea_of_Hanover	great-granddaughter		
+22
+
+Student	University	Degree	Major
+Cathleen_Synge_Morawetz	Massachusetts_Institute_of_Technology	master's_degree	mathematics	
+335
+
+Student	University	Degree	Major
+Cathleen_Synge_Morawetz	Massachusetts_Institute_of_Technology	master's_degree	mathematics	
+86
+
+Student	University	Degree	Major
+Cathleen_Synge_Morawetz	Massachusetts_Institute_of_Technology	master's_degree	mathematics	
+213
+
+Student	University	Degree	Major
+Cathleen_Synge_Morawetz	Massachusetts_Institute_of_Technology	master's_degree	mathematics	
+58
+
+Nominee	Award	Work
+Ethan_Coen	BAFTA_Award_for_Best_Film	True_Grit		
+10
+
+Nominee	Award	Work
+Ethan_Coen	BAFTA_Award_for_Best_Film	True_Grit		
+20
+
+Nominee	Award	Work
+Ethan_Coen	BAFTA_Award_for_Best_Film	True_Grit		
+47
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Angela_Hitler	great-granddaughter		
+10
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Angela_Hitler	great-granddaughter		
+42
+
+Person	Relative	Kinship
+Johann_Schicklgruber	Angela_Hitler	great-granddaughter		
+25
+
+Player	Team	Acquisition
+Zé_Eduardo	Fortaleza_E.C.	loan		
+97
+
+Player	Team	Acquisition
+Zé_Eduardo	Fortaleza_E.C.	loan		
+496
+
+Player	Team	Acquisition
+Zé_Eduardo	Fortaleza_E.C.	loan		
+1
+
+Politician	Position	Object
+Harald_Weinrich	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Harald_Weinrich	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Harald_Weinrich	Collège_de_France	professor		
+2
+
+Person	Relative	Kinship
+Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+116
+
+Person	Relative	Kinship
+Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+108
+
+Person	Relative	Kinship
+Elisabeth_Christine_of_Brunswick-Wolfenbüttel,_Crown_Princess_of_Prussia	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+9
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Angela_Hitler	granddaughter		
+15
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Angela_Hitler	granddaughter		
+117
+
+Person	Relative	Kinship
+Maria_Schicklgruber	Angela_Hitler	granddaughter		
+20
+
+Participant	Event	Part
+Edmund_Stoiber	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Participant	Event	Part
+Edmund_Stoiber	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+1
+
+Participant	Event	Part
+Edmund_Stoiber	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Student	University	Degree	Major
+Indra_Nooyi	Yale_School_of_Management	master's_degree	management	
+64
+
+Student	University	Degree	Major
+Indra_Nooyi	Yale_School_of_Management	master's_degree	management	
+238
+
+Student	University	Degree	Major
+Indra_Nooyi	Yale_School_of_Management	master's_degree	management	
+99
+
+Student	University	Degree	Major
+Indra_Nooyi	Yale_School_of_Management	master's_degree	management	
+267
+
+Person	Relative	Kinship
+Albrecht_III_Achilles,_Elector_of_Brandenburg	Barbara_of_Brandenburg	niece		
+22
+
+Person	Relative	Kinship
+Albrecht_III_Achilles,_Elector_of_Brandenburg	Barbara_of_Brandenburg	niece		
+32
+
+Person	Relative	Kinship
+Albrecht_III_Achilles,_Elector_of_Brandenburg	Barbara_of_Brandenburg	niece		
+24
+
+Member	Membership	Role
+Georg_Hermann_Quincke	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+99
+
+Member	Membership	Role
+Georg_Hermann_Quincke	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+3
+
+Member	Membership	Role
+Georg_Hermann_Quincke	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+10
+
+Person	Sibling	Kinship
+Liu_Shun	Princess_Pingyang	paternal_half-sister		
+48
+
+Person	Sibling	Kinship
+Liu_Shun	Princess_Pingyang	paternal_half-sister		
+1
+
+Person	Sibling	Kinship
+Liu_Shun	Princess_Pingyang	paternal_half-sister		
+1
+
+Player	Team	Acquisition
+Paul_Rachubka	Milton_Keynes_Dons_F.C.	loan		
+80
+
+Player	Team	Acquisition
+Paul_Rachubka	Milton_Keynes_Dons_F.C.	loan		
+583
+
+Player	Team	Acquisition
+Paul_Rachubka	Milton_Keynes_Dons_F.C.	loan		
+1
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Attica		
+99
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Attica		
+3
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Attica		
+69
+
+Person	Birthplace	Country
+Erwin_Schrödinger	Vienna	Austria-Hungary		
+135
+
+Person	Birthplace	Country
+Erwin_Schrödinger	Vienna	Austria-Hungary		
+8
+
+Person	Birthplace	Country
+Erwin_Schrödinger	Vienna	Austria-Hungary		
+11
+
+Member	Membership	Role
+Friedrich_Hund	Saxon_Academy_of_Sciences	ordinary_member		
+122
+
+Member	Membership	Role
+Friedrich_Hund	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Member	Membership	Role
+Friedrich_Hund	Saxon_Academy_of_Sciences	ordinary_member		
+4
+
+Person	Relative	Kinship
+Catherine_of_Brandenburg-Küstrin	Joachim_Frederick,_Elector_of_Brandenburg	nephew		
+15
+
+Person	Relative	Kinship
+Catherine_of_Brandenburg-Küstrin	Joachim_Frederick,_Elector_of_Brandenburg	nephew		
+45
+
+Person	Relative	Kinship
+Catherine_of_Brandenburg-Küstrin	Joachim_Frederick,_Elector_of_Brandenburg	nephew		
+7
+
+Student	Degree	University
+Lars_Onsager	Doktor_Nauk_in_Chemistry	Yale_University		
+162
+
+Student	Degree	University
+Lars_Onsager	Doktor_Nauk_in_Chemistry	Yale_University		
+129
+
+Student	Degree	University
+Lars_Onsager	Doktor_Nauk_in_Chemistry	Yale_University		
+13
+
+Person	Relative	Kinship
+Eva_Braun	Angela_Hitler	sister-in-law		
+17
+
+Person	Relative	Kinship
+Eva_Braun	Angela_Hitler	sister-in-law		
+41
+
+Person	Relative	Kinship
+Eva_Braun	Angela_Hitler	sister-in-law		
+1
+
+Politician	Position	Object
+Jean-Pierre_Serre	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Jean-Pierre_Serre	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jean-Pierre_Serre	Collège_de_France	professor		
+2
+
+Person	Sibling	Kinship
+Paula_Hitler	Angela_Hitler	paternal_half-sister		
+10
+
+Person	Sibling	Kinship
+Paula_Hitler	Angela_Hitler	paternal_half-sister		
+21
+
+Person	Sibling	Kinship
+Paula_Hitler	Angela_Hitler	paternal_half-sister		
+1
+
+Member	Membership	Role
+Carl_Brockelmann	Saxon_Academy_of_Sciences	ordinary_member		
+90
+
+Member	Membership	Role
+Carl_Brockelmann	Saxon_Academy_of_Sciences	ordinary_member		
+4
+
+Member	Membership	Role
+Carl_Brockelmann	Saxon_Academy_of_Sciences	ordinary_member		
+6
+
+Deceased	Place	Country
+Sergey_Sergeyevich_Averintsev	Vienna	Austria		
+97
+
+Deceased	Place	Country
+Sergey_Sergeyevich_Averintsev	Vienna	Austria		
+15
+
+Deceased	Place	Country
+Sergey_Sergeyevich_Averintsev	Vienna	Austria		
+84
+
+Politician	Position	Object
+Jacques-Louis_Lions	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Jacques-Louis_Lions	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Jacques-Louis_Lions	Collège_de_France	professor		
+2
+
+Person	Relative	Kinship
+Angela_Hitler	Johann_Schicklgruber	great-grandfather		
+58
+
+Person	Relative	Kinship
+Angela_Hitler	Johann_Schicklgruber	great-grandfather		
+16
+
+Person	Relative	Kinship
+Angela_Hitler	Johann_Schicklgruber	great-grandfather		
+10
+
+Person	Relative	Kinship
+Adolph_of_Cleves,_Lord_of_Ravenstein	Mary_of_Burgundy	niece		
+2
+
+Person	Relative	Kinship
+Adolph_of_Cleves,_Lord_of_Ravenstein	Mary_of_Burgundy	niece		
+70
+
+Person	Relative	Kinship
+Adolph_of_Cleves,_Lord_of_Ravenstein	Mary_of_Burgundy	niece		
+13
+
+Politician	Position	Predecessor	Successor
+Anthony_Crosland	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	James_Callaghan	David_Owen	
+4
+
+Politician	Position	Predecessor	Successor
+Anthony_Crosland	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	James_Callaghan	David_Owen	
+4
+
+Politician	Position	Predecessor	Successor
+Anthony_Crosland	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	James_Callaghan	David_Owen	
+26
+
+Politician	Position	Predecessor	Successor
+Anthony_Crosland	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	James_Callaghan	David_Owen	
+123
+
+Politician	Position	Predecessor	Successor
+Albert_François_Lebrun	president_of_the_French_Republic	Paul_Doumer	Vincent_Auriol	
+10
+
+Politician	Position	Predecessor	Successor
+Albert_François_Lebrun	president_of_the_French_Republic	Paul_Doumer	Vincent_Auriol	
+22
+
+Politician	Position	Predecessor	Successor
+Albert_François_Lebrun	president_of_the_French_Republic	Paul_Doumer	Vincent_Auriol	
+43
+
+Politician	Position	Predecessor	Successor
+Albert_François_Lebrun	president_of_the_French_Republic	Paul_Doumer	Vincent_Auriol	
+2
+
+Awardee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+16
+
+Awardee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+16
+
+Awardee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+303
+
+Awardee	Award	Work	Event
+Juliette_Binoche	Academy_Award_for_Best_Supporting_Actress	The_English_Patient	69th_Academy_Awards	
+26
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Alois_Hitler,_Jr.	great-grandson		
+23
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Alois_Hitler,_Jr.	great-grandson		
+1
+
+Person	Relative	Kinship
+Theresia_Pfeisinger	Alois_Hitler,_Jr.	great-grandson		
+24
+
+Student	Degree	University
+Santiago_Grisolía_García	Doctor	University_of_Madrid		
+32
+
+Student	Degree	University
+Santiago_Grisolía_García	Doctor	University_of_Madrid		
+3
+
+Student	Degree	University
+Santiago_Grisolía_García	Doctor	University_of_Madrid		
+4
+
+Deceased	Place	Country
+Kurt_Alder	Cologne	West_Germany		
+637
+
+Deceased	Place	Country
+Kurt_Alder	Cologne	West_Germany		
+225
+
+Deceased	Place	Country
+Kurt_Alder	Cologne	West_Germany		
+137
+
+Person	Relative	Kinship
+Margaret_of_Bavaria,_Marchioness_of_Mantua	Isabella_d'Este	daughter-in-law		
+459
+
+Person	Relative	Kinship
+Margaret_of_Bavaria,_Marchioness_of_Mantua	Isabella_d'Este	daughter-in-law		
+294
+
+Person	Relative	Kinship
+Margaret_of_Bavaria,_Marchioness_of_Mantua	Isabella_d'Este	daughter-in-law		
+32
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	57th_Tony_Awards		
+1
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	57th_Tony_Awards		
+12
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	57th_Tony_Awards		
+32
+
+Politician	Position	Object
+Henri_Victor_Regnault	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Henri_Victor_Regnault	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Henri_Victor_Regnault	Collège_de_France	professor		
+2
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Vladislaus_II_of_Bohemia_and_Hungary	father-in-law		
+46
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Vladislaus_II_of_Bohemia_and_Hungary	father-in-law		
+136
+
+Person	Relative	Kinship
+Ferdinand_I,_Holy_Roman_Emperor	Vladislaus_II_of_Bohemia_and_Hungary	father-in-law		
+14
+
+Participant	Event	Part
+Ursula_von_der_Leyen	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Participant	Event	Part
+Ursula_von_der_Leyen	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+1
+
+Participant	Event	Part
+Ursula_von_der_Leyen	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Politician	Position	Predecessor	Successor
+Geoffrey_Howe	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Francis_Pym,_Baron_Pym	John_Major	
+427
+
+Politician	Position	Predecessor	Successor
+Geoffrey_Howe	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Francis_Pym,_Baron_Pym	John_Major	
+98
+
+Politician	Position	Predecessor	Successor
+Geoffrey_Howe	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Francis_Pym,_Baron_Pym	John_Major	
+714
+
+Politician	Position	Predecessor	Successor
+Geoffrey_Howe	Secretary_of_State_for_Foreign_and_Commonwealth_Affairs	Francis_Pym,_Baron_Pym	John_Major	
+484
+
+Player	Team	Acquisition
+Jon_Challinor	Mansfield_Town_F.C.	loan		
+181
+
+Player	Team	Acquisition
+Jon_Challinor	Mansfield_Town_F.C.	loan		
+483
+
+Player	Team	Acquisition
+Jon_Challinor	Mansfield_Town_F.C.	loan		
+1
+
+Person	Relative	Kinship
+Marie_Eleonore_of_Cleves	Christian,_Margrave_of_Brandenburg-Bayreuth	son-in-law		
+2
+
+Person	Relative	Kinship
+Marie_Eleonore_of_Cleves	Christian,_Margrave_of_Brandenburg-Bayreuth	son-in-law		
+16
+
+Person	Relative	Kinship
+Marie_Eleonore_of_Cleves	Christian,_Margrave_of_Brandenburg-Bayreuth	son-in-law		
+4
+
+Person	Sibling	Kinship
+Sigismund	Elisabeth_of_Bohemia	paternal_half-sister		
+582
+
+Person	Sibling	Kinship
+Sigismund	Elisabeth_of_Bohemia	paternal_half-sister		
+1020
+
+Person	Sibling	Kinship
+Sigismund	Elisabeth_of_Bohemia	paternal_half-sister		
+8
+
+Politician	Position	Object
+Hermann_Abert	Leipzig_University	university_teacher		
+695
+
+Politician	Position	Object
+Hermann_Abert	Leipzig_University	university_teacher		
+26
+
+Politician	Position	Object
+Hermann_Abert	Leipzig_University	university_teacher		
+114
+
+Player	Team	Specialty
+Dikembe_Mutombo	Denver_Nuggets	center		
+227
+
+Player	Team	Specialty
+Dikembe_Mutombo	Denver_Nuggets	center		
+216
+
+Player	Team	Specialty
+Dikembe_Mutombo	Denver_Nuggets	center		
+4
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	corresponding_member		
+60
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	corresponding_member		
+3
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	corresponding_member		
+2
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Achaea		
+104
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Achaea		
+2
+
+Politician	Position	Electorate
+George_Papandreou	Member_of_the_Hellenic_Parliament	Achaea		
+24
+
+Student	University	Major
+Michael_Spence	University_of_Oxford	mathematics		
+230
+
+Student	University	Major
+Michael_Spence	University_of_Oxford	mathematics		
+35
+
+Student	University	Major
+Michael_Spence	University_of_Oxford	mathematics		
+44
+
+Person	Birthplace	Country
+Dmitri_Skobeltsyn	Saint_Petersburg	Russian_Empire		
+344
+
+Person	Birthplace	Country
+Dmitri_Skobeltsyn	Saint_Petersburg	Russian_Empire		
+6
+
+Person	Birthplace	Country
+Dmitri_Skobeltsyn	Saint_Petersburg	Russian_Empire		
+2
+
+Politician	Position	Object
+Gaston_Maspero	Collège_de_France	professor		
+798
+
+Politician	Position	Object
+Gaston_Maspero	Collège_de_France	professor		
+1
+
+Politician	Position	Object
+Gaston_Maspero	Collège_de_France	professor		
+2
+
+Deceased	Place	Country
+J._G._Ballard	London	United_Kingdom		
+492
+
+Deceased	Place	Country
+J._G._Ballard	London	United_Kingdom		
+143
+
+Deceased	Place	Country
+J._G._Ballard	London	United_Kingdom		
+80
+
+Player	Team	Acquisition
+Jason_Lee	Stockport_County_F.C.	loan		
+195
+
+Player	Team	Acquisition
+Jason_Lee	Stockport_County_F.C.	loan		
+465
+
+Player	Team	Acquisition
+Jason_Lee	Stockport_County_F.C.	loan		
+1
+
+Student	University	Major	Degree
+Vint_Cerf	Stanford_University	mathematics	Bachelor_of_Science	
+502
+
+Student	University	Major	Degree
+Vint_Cerf	Stanford_University	mathematics	Bachelor_of_Science	
+237
+
+Student	University	Major	Degree
+Vint_Cerf	Stanford_University	mathematics	Bachelor_of_Science	
+421
+
+Student	University	Major	Degree
+Vint_Cerf	Stanford_University	mathematics	Bachelor_of_Science	
+281
+
+Person	Relative	Kinship
+Duchess_Luise_of_Brunswick-Wolfenbüttel	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+175
+
+Person	Relative	Kinship
+Duchess_Luise_of_Brunswick-Wolfenbüttel	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+133
+
+Person	Relative	Kinship
+Duchess_Luise_of_Brunswick-Wolfenbüttel	Frederick,_Landgrave_of_Hesse-Eschwege	great-grandfather		
+12
+
+Participant	Event	Status
+Norman_D._Vaughan	1992_Iditarod	scratched		
+3
+
+Participant	Event	Status
+Norman_D._Vaughan	1992_Iditarod	scratched		
+55
+
+Participant	Event	Status
+Norman_D._Vaughan	1992_Iditarod	scratched		
+2
+
+Nominee	Award	Work
+Ron_Howard	BAFTA_Award_for_Best_Film	A_Beautiful_Mind		
+11
+
+Nominee	Award	Work
+Ron_Howard	BAFTA_Award_for_Best_Film	A_Beautiful_Mind		
+6
+
+Nominee	Award	Work
+Ron_Howard	BAFTA_Award_for_Best_Film	A_Beautiful_Mind		
+1
+
+Politician	Position	Object
+Fernand_Braudel	Collège_de_France	professor		
+1581
+
+Politician	Position	Object
+Fernand_Braudel	Collège_de_France	professor		
+166
+
+Politician	Position	Object
+Fernand_Braudel	Collège_de_France	professor		
+383
+
+Politician	Position	Predecessor	Successor
+Frederick_Elwyn_Jones,_Baron_Elwyn-Jones	Lord_Chancellor	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+137
+
+Politician	Position	Predecessor	Successor
+Frederick_Elwyn_Jones,_Baron_Elwyn-Jones	Lord_Chancellor	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+41
+
+Politician	Position	Predecessor	Successor
+Frederick_Elwyn_Jones,_Baron_Elwyn-Jones	Lord_Chancellor	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+6
+
+Politician	Position	Predecessor	Successor
+Frederick_Elwyn_Jones,_Baron_Elwyn-Jones	Lord_Chancellor	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	
+6
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	56th_Tony_Awards		
+31
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	56th_Tony_Awards		
+3
+
+Nominee	Award	Event
+James_Lapine	Tony_Award_for_Best_Direction_of_a_Musical	56th_Tony_Awards		
+26
+
+Politician	Position	Predecessor	Successor
+Édouard_Daladier	President_of_the_Council	Léon_Blum	Paul_Reynaud	
+36
+
+Politician	Position	Predecessor	Successor
+Édouard_Daladier	President_of_the_Council	Léon_Blum	Paul_Reynaud	
+1
+
+Politician	Position	Predecessor	Successor
+Édouard_Daladier	President_of_the_Council	Léon_Blum	Paul_Reynaud	
+39
+
+Politician	Position	Predecessor	Successor
+Édouard_Daladier	President_of_the_Council	Léon_Blum	Paul_Reynaud	
+132
+
+Player	Team	Acquisition
+Paul_Rachubka	Tranmere_Rovers_F.C.	loan		
+80
+
+Player	Team	Acquisition
+Paul_Rachubka	Tranmere_Rovers_F.C.	loan		
+583
+
+Player	Team	Acquisition
+Paul_Rachubka	Tranmere_Rovers_F.C.	loan		
+1
+
+Person	Relative	Kinship
+Henry_Paget,_1st_Marquess_of_Anglesey	George_Byng,_2nd_Earl_of_Strafford	son-in-law		
+322
+
+Person	Relative	Kinship
+Henry_Paget,_1st_Marquess_of_Anglesey	George_Byng,_2nd_Earl_of_Strafford	son-in-law		
+139
+
+Person	Relative	Kinship
+Henry_Paget,_1st_Marquess_of_Anglesey	George_Byng,_2nd_Earl_of_Strafford	son-in-law		
+4
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Musical	20th_Tony_Awards		
+26
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Musical	20th_Tony_Awards		
+3
+
+Nominee	Award	Event
+Julie_Harris	Tony_Award_for_Best_Actress_in_a_Musical	20th_Tony_Awards		
+68
+
+Person	Birthplace	Country
+Alexander_I_of_Russia	Saint_Petersburg	Russian_Empire		
+344
+
+Person	Birthplace	Country
+Alexander_I_of_Russia	Saint_Petersburg	Russian_Empire		
+6
+
+Person	Birthplace	Country
+Alexander_I_of_Russia	Saint_Petersburg	Russian_Empire		
+2
+
+Politician	Position	Predecessor	Successor
+Peter_Carington,_6th_Baron_Carrington	Leader_of_the_House_of_Lords	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Frank_Pakenham,_7th_Earl_of_Longford	
+91
+
+Politician	Position	Predecessor	Successor
+Peter_Carington,_6th_Baron_Carrington	Leader_of_the_House_of_Lords	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Frank_Pakenham,_7th_Earl_of_Longford	
+18
+
+Politician	Position	Predecessor	Successor
+Peter_Carington,_6th_Baron_Carrington	Leader_of_the_House_of_Lords	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Frank_Pakenham,_7th_Earl_of_Longford	
+89
+
+Politician	Position	Predecessor	Successor
+Peter_Carington,_6th_Baron_Carrington	Leader_of_the_House_of_Lords	Quintin_Hogg,_Baron_Hailsham_of_St_Marylebone	Frank_Pakenham,_7th_Earl_of_Longford	
+80
+
+Nominee	Award	Event
+Anne_Bancroft	Tony_Award_for_Best_Actress_in_a_Play	32nd_Tony_Awards		
+55
+
+Nominee	Award	Event
+Anne_Bancroft	Tony_Award_for_Best_Actress_in_a_Play	32nd_Tony_Awards		
+2
+
+Nominee	Award	Event
+Anne_Bancroft	Tony_Award_for_Best_Actress_in_a_Play	32nd_Tony_Awards		
+53
+
+Nominee	Award	Event
+Linda_Ronstadt	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+183
+
+Nominee	Award	Event
+Linda_Ronstadt	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+17
+
+Nominee	Award	Event
+Linda_Ronstadt	Tony_Award_for_Best_Actress_in_a_Musical	35th_Tony_Awards		
+108
+
+Participant	Event	Part
+Peter_Bleser	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+4
+
+Participant	Event	Part
+Peter_Bleser	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+1
+
+Participant	Event	Part
+Peter_Bleser	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+6
+
+Player	Team	Specialty
+Dennis_Rodman	Detroit_Pistons	power_forward		
+222
+
+Player	Team	Specialty
+Dennis_Rodman	Detroit_Pistons	power_forward		
+4
+
+Player	Team	Specialty
+Dennis_Rodman	Detroit_Pistons	power_forward		
+6
+
+Student	University	Major	Degree
+Bernard_Knox	Yale_University	classics	Doctor_of_Philosophy	
+287
+
+Student	University	Major	Degree
+Bernard_Knox	Yale_University	classics	Doctor_of_Philosophy	
+16
+
+Student	University	Major	Degree
+Bernard_Knox	Yale_University	classics	Doctor_of_Philosophy	
+52
+
+Student	University	Major	Degree
+Bernard_Knox	Yale_University	classics	Doctor_of_Philosophy	
+7
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Atlético_San_Lorenzo_de_Almagro	loan		
+212
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Atlético_San_Lorenzo_de_Almagro	loan		
+485
+
+Player	Team	Acquisition
+Carlos_Bueno	Club_Atlético_San_Lorenzo_de_Almagro	loan		
+1
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	35th_Tony_Awards		
+1
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	35th_Tony_Awards		
+18
+
+Nominee	Award	Event
+Santo_Loquasto	Tony_Award_for_Best_Scenic_Design	35th_Tony_Awards		
+52
+
+Participant	Event	Part
+Thomas_de_Maizière	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+31
+
+Participant	Event	Part
+Thomas_de_Maizière	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+2
+
+Participant	Event	Part
+Thomas_de_Maizière	2017_German_presidential_election	CDU/CSU_parliamentary_group_in_the_2017_German_presidential_election		
+13
+
+Player	Team	Acquisition
+Reto_Ziegler	Fenerbahçe_S.K.	loan		
+208
+
+Player	Team	Acquisition
+Reto_Ziegler	Fenerbahçe_S.K.	loan		
+442
+
+Player	Team	Acquisition
+Reto_Ziegler	Fenerbahçe_S.K.	loan		
+1
+
+Person	Sibling	Kinship
+Sōchō-joō	Richū-joō	paternal_half-sister		
+11
+
+Person	Sibling	Kinship
+Sōchō-joō	Richū-joō	paternal_half-sister		
+3
+
+Person	Sibling	Kinship
+Sōchō-joō	Richū-joō	paternal_half-sister		
+1
+
+Member	Membership	Role
+George_de_Hevesy	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+2
+
+Member	Membership	Role
+George_de_Hevesy	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+1
+
+Member	Membership	Role
+George_de_Hevesy	Heidelberg_Academy_for_Sciences_and_Humanities	extraordinary_member		
+6
+
+Player	Team	Acquisition
+Marco_Caneira	Fc_Barceloma	loan		
+124
+
+Player	Team	Acquisition
+Marco_Caneira	Fc_Barceloma	loan		
+104
+
+Player	Team	Acquisition
+Marco_Caneira	Fc_Barceloma	loan		
+1
+
+Politician	Position	Predecessor	Successor
+Harold_Macmillan	Chancellor_of_the_Exchequer	Rab_Butler	Peter_Thorneycroft,_Baron_Thorneycroft	
+13
+
+Politician	Position	Predecessor	Successor
+Harold_Macmillan	Chancellor_of_the_Exchequer	Rab_Butler	Peter_Thorneycroft,_Baron_Thorneycroft	
+3
+
+Politician	Position	Predecessor	Successor
+Harold_Macmillan	Chancellor_of_the_Exchequer	Rab_Butler	Peter_Thorneycroft,_Baron_Thorneycroft	
+39
+
+Politician	Position	Predecessor	Successor
+Harold_Macmillan	Chancellor_of_the_Exchequer	Rab_Butler	Peter_Thorneycroft,_Baron_Thorneycroft	
+11
+
+Person	Relative	Kinship
+Gustav_Hitler	Maria_Schicklgruber	paternal_grandmother		
+6
+
+Person	Relative	Kinship
+Gustav_Hitler	Maria_Schicklgruber	paternal_grandmother		
+27
+
+Person	Relative	Kinship
+Gustav_Hitler	Maria_Schicklgruber	paternal_grandmother		
+15
+
+Person	Relative	Kinship
+Johann_Schmidt	Klara_Hitler	aunt		
+8
+
+Person	Relative	Kinship
+Johann_Schmidt	Klara_Hitler	aunt		
+92
+
+Person	Relative	Kinship
+Johann_Schmidt	Klara_Hitler	aunt		
+5
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture	Chicago		
+3917
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture	Chicago		
+1981
+
+Nominee	Award	Work
+Catherine_Zeta-Jones	Screen_Actors_Guild_Award_for_Outstanding_Performance_by_a_Cast_in_a_Motion_Picture	Chicago		
+3151
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	University_of_Salamanca		
+1
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	University_of_Salamanca		
+1
+
+Awardee	Award	Work
+Santiago_Grisolía_García	doctor_honoris_causa	University_of_Salamanca		
+8
+
+Awardee	Award	Event
+Kevin_Spacey	Tony_Award_for_Best_Featured_Actor_in_a_Play	45th_Tony_Awards		
+34
+
+Awardee	Award	Event
+Kevin_Spacey	Tony_Award_for_Best_Featured_Actor_in_a_Play	45th_Tony_Awards		
+12
+
+Awardee	Award	Event
+Kevin_Spacey	Tony_Award_for_Best_Featured_Actor_in_a_Play	45th_Tony_Awards		
+66
+
+Student	University	Degree	Major
+Stanley_Fischer	London_School_of_Economics_and_Political_Science	master's_degree	economics	
+167
+
+Student	University	Degree	Major
+Stanley_Fischer	London_School_of_Economics_and_Political_Science	master's_degree	economics	
+242
+
+Student	University	Degree	Major
+Stanley_Fischer	London_School_of_Economics_and_Political_Science	master's_degree	economics	
+794
+
+Student	University	Degree	Major
+Stanley_Fischer	London_School_of_Economics_and_Political_Science	master's_degree	economics	
+36
+
+Person	Relative	Kinship
+Alois_Hitler,_Jr.	Anna_Maria_Göschl	great-grandmother		
+343
+
+Person	Relative	Kinship
+Alois_Hitler,_Jr.	Anna_Maria_Göschl	great-grandmother		
+476
+
+Person	Relative	Kinship
+Alois_Hitler,_Jr.	Anna_Maria_Göschl	great-grandmother		
+156
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	ordinary_member		
+16
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Member	Membership	Role
+Gustav_Ludwig_Hertz	Saxon_Academy_of_Sciences	ordinary_member		
+2
+
+Deceased	Place	Country
+Dmytro_Hnatyuk	Kiev	Ukraine		
+352
+
+Deceased	Place	Country
+Dmytro_Hnatyuk	Kiev	Ukraine		
+38
+
+Deceased	Place	Country
+Dmytro_Hnatyuk	Kiev	Ukraine		
+42
+
+Person	Relative	Kinship
+Elisabeth_of_Bavaria,_Electress_of_Saxony	Susanna_of_Bavaria	niece		
+82
+
+Person	Relative	Kinship
+Elisabeth_of_Bavaria,_Electress_of_Saxony	Susanna_of_Bavaria	niece		
+14
+
+Person	Relative	Kinship
+Elisabeth_of_Bavaria,_Electress_of_Saxony	Susanna_of_Bavaria	niece		
+1
+
+Person	Relative	Kinship
+Paula_Hitler	Johann_Baptist_Pölzl	maternal_grandfather		
+10
+
+Person	Relative	Kinship
+Paula_Hitler	Johann_Baptist_Pölzl	maternal_grandfather		
+1
+
+Person	Relative	Kinship
+Paula_Hitler	Johann_Baptist_Pölzl	maternal_grandfather		
+7
+
+Person	Birthplace	Country
+Fyodor_Litke	Saint_Petersburg	Russian_Empire		
+150
+
+Person	Birthplace	Country
+Fyodor_Litke	Saint_Petersburg	Russian_Empire		
+5
+
+Person	Birthplace	Country
+Fyodor_Litke	Saint_Petersburg	Russian_Empire		
+1
+
+Person	Relative	Kinship
+Johann_Georg_Hiedler	Paula_Hitler	granddaughter		
+10
+
+Person	Relative	Kinship
+Johann_Georg_Hiedler	Paula_Hitler	granddaughter		
+53
+
+Person	Relative	Kinship
+Johann_Georg_Hiedler	Paula_Hitler	granddaughter		
+11
+
+Member	Membership	Role
+Felix_Klein	Saxon_Academy_of_Sciences	foreign_member		
+144
+
+Member	Membership	Role
+Felix_Klein	Saxon_Academy_of_Sciences	foreign_member		
+2
+
+Member	Membership	Role
+Felix_Klein	Saxon_Academy_of_Sciences	foreign_member		
+6
+
+Person	Relative	Kinship
+Federico_I_Gonzaga,_Marquess_of_Mantua	Elisabeth_of_Bavaria,_Electress_of_Saxony	sister-in-law		
+121
+
+Person	Relative	Kinship
+Federico_I_Gonzaga,_Marquess_of_Mantua	Elisabeth_of_Bavaria,_Electress_of_Saxony	sister-in-law		
+201
+
+Person	Relative	Kinship
+Federico_I_Gonzaga,_Marquess_of_Mantua	Elisabeth_of_Bavaria,_Electress_of_Saxony	sister-in-law		
+4
+
+Member	Membership	Role
+David_Hilbert	Saxon_Academy_of_Sciences	corresponding_member		
+130
+
+Member	Membership	Role
+David_Hilbert	Saxon_Academy_of_Sciences	corresponding_member		
+3
+
+Member	Membership	Role
+David_Hilbert	Saxon_Academy_of_Sciences	corresponding_member		
+2
+

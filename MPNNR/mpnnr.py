@@ -3,11 +3,6 @@
 
 # In[1]:
 
-
-#!/usr/bin/env python
-# coding: utf-8
-
-
 # # set arguments up ([argparse](https://docs.python.org/3/library/argparse.html))
 
 # In[2]:
@@ -45,4 +40,4 @@ MPNNR.summary(log)
 
 MPNNR.learn(splits['train'])
 acc = MPNNR.Test(splits['test'])
-log.info("Accuracy is " + str(round(acc.item()*100, 3)))
+log.info("Accuracy on test split is " + str(round(acc.item()*100, 3)) + ", error is " + str(round(100-acc.item()*100, 3)) + ", split is " + str(args.split))

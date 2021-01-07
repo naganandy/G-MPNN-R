@@ -1,0 +1,3783 @@
+0	Ministry
+1	glam rock
+2	indie pop
+3	Hawkwind
+4	rock music
+5	alternative rock
+6	Ozzy Osbourne
+7	death metal
+8	gothic metal
+9	Sweden
+10	war film
+11	Arabic
+12	Chris Isaak
+13	contemporary folk music
+14	grunge
+15	hard rock
+16	SPV
+17	Red Bank
+18	The Clash
+19	electroclash
+20	Dave Matthews Band
+21	Western classical music
+22	power pop
+23	Austria
+24	Mystery
+25	English
+26	Maurice Gibb
+27	space rock
+28	Gorillaz
+29	post-rock
+30	Dave Navarro
+31	punk rock
+32	crossover thrash
+33	Queen
+34	folk rock
+35	new wave
+36	funk rock
+37	Interscope Records
+38	Los Angeles
+39	Patti Smith
+40	noise
+41	Josh Freese
+42	Britpop
+43	Pearl Jam
+44	rockabilly
+45	industrial rock
+46	melodic hardcore
+47	Epitaph Records
+48	Hertfordshire
+49	Iggy Pop
+50	soul music
+51	psychedelic rock
+52	No Doubt
+53	Jean-Jacques Goldman
+54	country rock
+55	Taylor Swift
+56	heartland rock
+57	Ashkenazi Jews
+58	Hebrew
+59	Gilbert Gottfried
+60	Siouxsie and the Banshees
+61	The Rolling Stones
+62	dance-pop
+63	Polydor Records
+64	Harlem
+65	Tangerine Dream
+66	hip hop music
+67	downtempo
+68	Norah Jones
+69	Celtic music
+70	rock and roll
+71	Jermaine Jackson
+72	psychedelic pop
+73	Kings of Leon
+74	progressive rock
+75	Joe Strummer
+76	New Romanticism
+77	John Lennon
+78	Madchester
+79	Bee Gees
+80	funk metal
+81	Christopher Cross
+82	Gregg Allman
+83	Kid Rock
+84	jazz fusion
+85	Wilco
+86	post-punk
+87	gothic rock
+88	Robin Gibb
+89	acid rock
+90	Peter Gabriel
+91	dance-punk
+92	Timbaland
+93	Bad Boy Records
+94	Kansas City
+95	Synthpunk
+96	Tom Petty and the Heartbreakers
+97	jangle pop
+98	OutKast
+99	Czech Republic
+100	history
+101	Roxy Music
+102	country pop
+103	Paramore
+104	garage punk
+105	The Decemberists
+106	folk punk
+107	Americana
+108	independent record label
+109	Venice
+110	traditional pop music
+111	Lily Allen
+112	pop music
+113	house music
+114	Island Records
+115	Stockholm
+116	The Mars Volta
+117	alternative country
+118	Universal Music Group Nashville
+119	Austin
+120	Steve Miller Band
+121	blues
+122	progressive house
+123	rapcore
+124	Jon Lord
+125	The Hollies
+126	Steve Winwood
+127	Spanish
+128	Walter Benjamin
+129	Denmark
+130	game show
+131	The Guess Who
+132	protopunk
+133	Chrysalis Records
+134	New York City
+135	Katy Perry
+136	Chris Brown
+137	East Coast hip hop
+138	hip hop soul
+139	Jack Bruce
+140	Los Lobos
+141	Southern rock
+142	Marvin Gaye
+143	Peter Tork
+144	electronica
+145	Mike Patton
+146	Boyz II Men
+147	West Coast hip hop
+148	The Notorious B.I.G.
+149	funk
+150	horrorcore
+151	Muse
+152	emo
+153	crust punk
+154	math rock
+155	Guatemala
+156	2004 Summer Olympics
+157	swimming
+158	Yes
+159	psychedelic soul
+160	avant-garde music
+161	Columbia Records
+162	Istanbul
+163	glam punk
+164	Thailand
+165	horror literature
+166	rhythm and blues
+167	quiet storm
+168	Gwar
+169	groove metal
+170	Bill Wyman
+171	synth-pop
+172	Las Vegas
+173	Roger Waters
+174	free jazz
+175	power metal
+176	The Temptations
+177	techno
+178	shoegazing
+179	Foreigner
+180	surf music
+181	Canada
+182	2010 Winter Olympics
+183	figure skating
+184	Al Jourgensen
+185	krautrock
+186	Blondie
+187	Cowpunk
+188	The Bahamas
+189	comedy film
+190	Portuguese
+191	Italy
+192	road movie
+193	Serbian
+194	Mark Mothersbaugh
+195	dark wave
+196	Toto
+197	jam band
+198	United Arab Emirates
+199	short film
+200	country music
+201	Warner Bros. Records
+202	Belgrade
+203	Steven Van Zandt
+204	soft rock
+205	Cleopatra Records
+206	Limp Bizkit
+207	blues rock
+208	visual kei
+209	neo-psychedelia
+210	Rykodisc
+211	Phoenix
+212	romance film
+213	Hungarian
+214	Bob Seger
+215	post-grunge
+216	Viking metal
+217	Brian McKnight
+218	progressive metal
+219	George Michael
+220	The Monkees
+221	electronic rock
+222	Michelle Branch
+223	Journey
+224	alternative metal
+225	Geffen Records
+226	Haverhill
+227	Yiddish
+228	Judd Nelson
+229	South Korea
+230	political drama
+231	Korean
+232	Beastie Boys
+233	Scotland
+234	biographical film
+235	Ukrainian
+236	string instrument
+237	Richie Sambora
+238	electric guitar
+239	Billy Idol
+240	Victory Records
+241	Marietta
+242	Depeche Mode
+243	heavy metal
+244	indie rock
+245	Ben Folds
+246	dub
+247	Ninja Tune
+248	Birmingham
+249	Elektra Records
+250	Philadelphia
+251	contemporary R&B
+252	Oakland
+253	Capitol Records
+254	Ukraine
+255	2012 Summer Olympics
+256	road running
+257	electronic music
+258	American Recordings
+259	Chicago
+260	AC/DC
+261	Billie Joe Armstrong
+262	noise pop
+263	The End Records
+264	Liverpool
+265	France
+266	buddy film
+267	French
+268	Pharrell Williams
+269	Bruno Mars
+270	swamp rock
+271	Jonny Greenwood
+272	dream pop
+273	The Killers
+274	United Kingdom
+275	historical fiction
+276	Latin
+277	art rock
+278	Richard Marx
+279	world music
+280	bubblegum pop
+281	Universal Motown Records
+282	Detroit
+283	Marcus Miller
+284	symphonic rock
+285	RCA Records
+286	Winnipeg
+287	Metropolis Records
+288	Middlesbrough
+289	drum and bass
+290	Sire
+291	Annie Lennox
+292	electronic body music
+293	Newcastle
+294	Epic Records
+295	Tennessee
+296	doom metal
+297	Relapse Records
+298	New Orleans
+299	Warren Zevon
+300	Kill Rock Stars
+301	Juanes
+302	Thin Lizzy
+303	Etta James
+304	garage rock
+305	Suicidal Tendencies
+306	Bryan Adams
+307	Electric Light Orchestra
+308	experimental rock
+309	Mute Records
+310	Brooklyn
+311	Tunisia
+312	black comedy
+313	Sonic Youth
+314	punk blues
+315	Namibia
+316	silver medal
+317	1992 Summer Olympics
+318	Hong Kong
+319	sex comedy
+320	Yue Chinese
+321	Warner Bros.
+322	England
+323	London
+324	The Roots
+325	Bo Diddley
+326	Metal Blade Records
+327	United States of America
+328	Tom Morello
+329	George Martin
+330	British Raj
+331	Bollywood
+332	Hindi
+333	K-pop
+334	video game music
+335	Kid Cudi
+336	woodwind instrument
+337	Robert Smith
+338	tin whistle
+339	Republic of Cyprus
+340	German
+341	MCA Records
+342	Boston
+343	Maroon 5
+344	Brian Eno
+345	chill-out music
+346	Funkadelic
+347	Vanessa Hudgens
+348	The Flaming Lips
+349	Stanley Clarke
+350	Tooth & Nail Records
+351	PolyGram
+352	Ottawa
+353	Paul McCartney
+354	instrumental rock
+355	Michael McDonald
+356	Tim Armstrong
+357	Ringo Sheena
+358	Kim Carnes
+359	classic rock
+360	acoustic music
+361	Creation Records
+362	Oxford
+363	Woody Allen
+364	Norway
+365	John Paul Jones
+366	neo-progressive rock
+367	Israel
+368	film adaptation
+369	Matador Records
+370	Tokyo
+371	psychobilly
+372	I.R.S. Records
+373	San Francisco
+374	John Frusciante
+375	Bryan Ferry
+376	disco
+377	Leon Russell
+378	horror punk
+379	reggae
+380	hardcore punk
+381	Roadrunner Records
+382	no wave
+383	Willie Nelson
+384	Yoko Ono
+385	electric folk
+386	Buckethead
+387	pop rock
+388	Tulsa
+389	Ry Cooder
+390	Les Claypool
+391	Mark Stent
+392	Guinea
+393	track and field
+394	Paul Weller
+395	Jamiroquai
+396	MGMT
+397	Glenn Danzig
+398	Bill Withers
+399	Relativity Records
+400	San Francisco Bay Area
+401	beat music
+402	Sanctuary Records
+403	Glasgow
+404	Cuban American
+405	John Leguizamo
+406	Slash
+407	Cliff Richard
+408	baroque pop
+409	The Byrds
+410	Morrissey
+411	Leighton Meester
+412	Outlaw country
+413	Shreveport
+414	thrash metal
+415	Seattle
+416	Lars Ulrich
+417	deathrock
+418	Russian
+419	Lou Reed
+420	Oi!
+421	jazz rap
+422	Tommy Boy Records
+423	Ice Cube
+424	underground hip hop
+425	Barry Gibb
+426	Trevor Rabin
+427	Simple Minds
+428	world cinema
+429	Bhangra
+430	Universal Republic Records
+431	Atlantic Records
+432	surrealism
+433	Czech
+434	Black Sabbath
+435	Parlophone
+436	French Third Republic
+437	black-and-white
+438	silent film
+439	Bruce Hornsby
+440	Josh Homme
+441	Rick James
+442	pop punk
+443	Universal Music Group
+444	Vancouver
+445	KRS-One
+446	G-funk
+447	Lenny Bruce
+448	Amanda Lear
+449	Spain
+450	reality television
+451	T-Bone Burnett
+452	King Crimson
+453	Rob Zombie
+454	New Wave of British Heavy Metal
+455	Queen Latifah
+456	gospel music
+457	blue-eyed soul
+458	Linda Perry
+459	Kraftwerk
+460	Pink Floyd
+461	Wendy Melvoin
+462	Mike Portnoy
+463	deathgrind
+464	Leonard Cohen
+465	Entertainment One Music
+466	Savannah
+467	Toronto
+468	black metal
+469	Croydon
+470	mathcore
+471	Orlando
+472	Anthony Kiedis
+473	Skillet
+474	post-hardcore
+475	Pet Shop Boys
+476	historical period drama
+477	Welsh
+478	Japan
+479	1968 Summer Olympics
+480	Jewel
+481	Guns N' Roses
+482	INXS
+483	Season of Mist
+484	St. Petersburg
+485	New Zealand
+486	cult film
+487	Chris Thomas King
+488	bluegrass music
+489	Paul Oakenfold
+490	1936 Summer Olympics
+491	Van Morrison
+492	Sarasota
+493	electro
+494	EMI
+495	Century Media Records
+496	Germany
+497	Joan Baez
+498	Christian rock
+499	dark cabaret
+500	Massachusetts
+501	Warner Music Group
+502	docudrama
+503	alternative hip hop
+504	Arista Records
+505	Touch and Go Records
+506	Equal Vision Records
+507	Worcester
+508	Mercury Records
+509	Dorchester
+510	Pigface
+511	Dr. John
+512	popular music
+513	technical death metal
+514	Atlanta
+515	Social Distortion
+516	NOFX
+517	Dr. Luke
+518	industrial music
+519	Glen Campbell
+520	John Hartford
+521	progressive bluegrass
+522	Simply Red
+523	India
+524	adventure film
+525	Mariah Carey
+526	Virgin Records
+527	Gold Coast
+528	Gwen Stefani
+529	nu metal
+530	Bruce Springsteen
+531	New Haven
+532	Madrid
+533	Dave Matthews
+534	Ray Manzarek
+535	bebop
+536	ska
+537	judo
+538	Irving
+539	Demi Lovato
+540	Frank Zappa
+541	TVT Records
+542	Orange County
+543	Kelly Rowland
+544	Dave Grohl
+545	Lalo Schifrin
+546	Mick Harvey
+547	Argentina
+548	sitcom
+549	Belgium
+550	1976 Summer Olympics
+551	cycling
+552	Eric Burdon
+553	Casablanca Records
+554	Plainfield
+555	Finland
+556	documentary film
+557	Revelation Records
+558	California
+559	Selena Gomez
+560	Noel Gallagher
+561	Stanley Kubrick
+562	Faith Hill
+563	old-time music
+564	Tommy Lee
+565	Serge Gainsbourg
+566	Swedish American
+567	Danish
+568	Paris Hilton
+569	Ben Harper
+570	adult contemporary music
+571	Hollywood
+572	Henry Rollins
+573	anarcho-punk
+574	Jack Nitzsche
+575	Danzig
+576	Kelly Osbourne
+577	Reprise Records
+578	North Macedonia
+579	Motown
+580	Jamaica
+581	Mauritius
+582	Jethro Tull
+583	glam metal
+584	freak folk
+585	Madison
+586	disaster film
+587	XL Recordings
+588	Caracas
+589	Iran
+590	Persian
+591	Serbia
+592	2008 Summer Olympics
+593	Andrew W.K.
+594	grindcore
+595	Manila
+596	Bertelsmann Music Group
+597	New Order
+598	shock rock
+599	Sony BMG
+600	Tampa
+601	Weezer
+602	acoustic bass guitar
+603	East West Records
+604	4AD
+605	Jefferson Starship
+606	Ian MacKaye
+607	Australia
+608	film noir
+609	Virginia Beach
+610	Rick Rubin
+611	trip hop
+612	Cambodia
+613	Khmer
+614	police procedural
+615	The Fall
+616	Iceland
+617	traditional heavy metal
+618	Brad Paisley
+619	The Cars
+620	The Edge
+621	Saint Paul
+622	Paul Shaffer
+623	free improvisation
+624	Jordin Sparks
+625	Bon Jovi
+626	Michael Brecker
+627	animation
+628	Nick Lachey
+629	Pritam Chakraborty
+630	Bootsy Collins
+631	Kingston
+632	Pete Townshend
+633	avant-garde jazz
+634	Janis Joplin
+635	Europop
+636	Brisbane
+637	Lenny Kravitz
+638	new jack swing
+639	Chad Hugo
+640	Malay
+641	Bobby Darin
+642	Johnny Yong Bosch
+643	Jello Biafra
+644	Christian punk
+645	Grace Jones
+646	Trevor Horn
+647	Travis Barker
+648	Russia
+649	Sub Pop
+650	Washington, D.C.
+651	Tyler
+652	Danger Mouse
+653	Mount Vernon
+654	Nine Inch Nails
+655	Chaka Khan
+656	Rupert Holmes
+657	Hammersmith
+658	art punk
+659	James Brown
+660	Nettwerk
+661	Blue Note
+662	New York
+663	Bulgaria
+664	music
+665	David Banner
+666	Soundgarden
+667	neo-classical metal
+668	Shakira
+669	Donna Summer
+670	Jordan
+671	reggae fusion
+672	Gothenburg
+673	The Doors
+674	Nick Mason
+675	The Offspring
+676	Brian May
+677	Weimar Republic
+678	LGBT
+679	Adam Ant
+680	Slovenia
+681	Rod Stewart
+682	Billy Preston
+683	Duff McKagan
+684	Albanian
+685	Gil Scott-Heron
+686	Universal Records
+687	neo soul
+688	The Island Def Jam Music Group
+689	vocal jazz
+690	Melbourne
+691	Chris Cornell
+692	propaganda film
+693	Japanese
+694	Fred Durst
+695	Portland
+696	JVC Kenwood Victor Entertainment
+697	Okinawa Prefecture
+698	1964 Winter Olympics
+699	ice hockey
+700	Johnny Cash
+701	BeBe Winans
+702	Gong
+703	Talking Heads
+704	Jimi Hendrix
+705	Matt Bellamy
+706	Helsinki
+707	jazz-funk
+708	Soviet Union
+709	Swedish
+710	Cebu City
+711	Cuba
+712	Kool & The Gang
+713	hardcore hip hop
+714	Animal Collective
+715	metalcore
+716	Serj Tankian
+717	South Africa
+718	science fiction
+719	Afrikaans
+720	Carlisle
+721	B. B. King
+722	Nick Cave
+723	Eurythmics
+724	Cooking Vinyl
+725	Bill Bruford
+726	hip house
+727	Cannes
+728	Amy Winehouse
+729	stoner rock
+730	Nuclear Blast
+731	Foo Fighters
+732	psychedelic folk
+733	Filipino Americans
+734	Tagalog
+735	James Hong
+736	Dir en grey
+737	Liberty
+738	Randy Newman
+739	comedy rock
+740	Verve Records
+741	Greek
+742	roots rock
+743	Adam Levine
+744	Jon Anderson
+745	Decca
+746	Malden
+747	noise rock
+748	Marillion
+749	Hokkaidō
+750	Fullerton
+751	Keith Urban
+752	big band
+753	Romania
+754	Romanian
+755	Ecuador
+756	Dublin
+757	Indonesian
+758	Greg Graffin
+759	2000 Summer Olympics
+760	triathlon
+761	Nashville
+762	Ireland
+763	Mick Jagger
+764	smooth jazz
+765	York
+766	Rush
+767	symphonic metal
+768	U2
+769	The Police
+770	Alanis Morissette
+771	Santa Monica
+772	The Mothers of Invention
+773	Julieta Venegas
+774	Tom Waits
+775	alternative dance
+776	ZZ Top
+777	Marilyn Monroe
+778	Billy Joel
+779	Eddie Vedder
+780	Eagles
+781	Joe Jackson
+782	Styx
+783	Sherbrooke
+784	Somalia
+785	Pashto
+786	pantothenic acid
+787	selenium
+788	prescription drug
+789	Charlottesville
+790	Patti LaBelle
+791	pornographic film
+792	Italian
+793	Brixton
+794	David Bowie
+795	Sarah Brightman
+796	Napalm Records
+797	independent film
+798	John Mayer
+799	The Moody Blues
+800	Def Jam Recordings
+801	Steven Wilson
+802	Allman Brothers Band
+803	David Byrne
+804	Jerry Garcia
+805	Chuck Berry
+806	Bob Geldof
+807	Poland
+808	2002 Winter Olympics
+809	bobsleigh
+810	Olivia Newton-John
+811	Diane Warren
+812	Manchester
+813	The Smashing Pumpkins
+814	Pomona
+815	Queens of the Stone Age
+816	Ferret Music
+817	Burlington
+818	Brian Jones
+819	Jimmy Buffett
+820	Joe Satriani
+821	avant-garde metal
+822	action film
+823	Vietnamese
+824	Little Richard
+825	Chiba Prefecture
+826	Sheila E.
+827	Earth, Wind & Fire
+828	Robert Fripp
+829	New-age music
+830	Ramones
+831	screamo
+832	political cinema
+833	Arjen Anthony Lucassen
+834	jazz
+835	ABC Records
+836	Passaic
+837	Nicaragua
+838	Janet Jackson
+839	MC Hammer
+840	V2
+841	Melissa Etheridge
+842	The White Stripes
+843	Socialist Federal Republic of Yugoslavia
+844	1984 Summer Olympics
+845	water polo
+846	Bulgarian
+847	Ad-Rock
+848	Palm Desert
+849	Rob Thomas
+850	Bahrain
+851	Tina Turner
+852	Festival
+853	Megadeth
+854	Neil Young
+855	Linkin Park
+856	nu jazz
+857	Philippines
+858	newscast
+859	Filipino
+860	post-industrial music
+861	Bonnie Raitt
+862	Jefferson Airplane
+863	Merge Records
+864	Tacoma
+865	BT
+866	TobyMac
+867	Buffalo
+868	Christian metal
+869	Canton
+870	The Chemical Brothers
+871	Imogen Heap
+872	L-serine
+873	DL-glutamic acid
+874	intelligent dance music
+875	Dave Mustaine
+876	post-metal
+877	Led Zeppelin
+878	Steven Tyler
+879	Great Britain
+880	Marc Anthony
+881	boy band
+882	Greek American
+883	American English
+884	Thomas Jane
+885	Koch Entertainment
+886	Breda
+887	The Cure
+888	Inglewood
+889	ambient music
+890	Minneapolis
+891	Mike Mogis
+892	Chad Smith
+893	Bangor
+894	David Sylvian
+895	anime
+896	percussion instrument
+897	Roy Haynes
+898	bass drum
+899	Loudon Wainwright III
+900	Pasadena
+901	Dayton
+902	Rhino Entertainment Company
+903	Matt Chamberlain
+904	Sheena Easton
+905	Roy Wood
+906	Jermaine Dupri
+907	David A. Stewart
+908	Miami
+909	Steve Jordan
+910	Alan Menken
+911	Joey Fatone
+912	djembe
+913	Garbage
+914	Art Garfunkel
+915	a cappella
+916	RCA Corporation
+917	Indonesia
+918	thriller
+919	The Damned
+920	Martie Maguire
+921	Switzerland
+922	1924 Summer Olympics
+923	Paula Abdul
+924	Walter Becker
+925	Jane's Addiction
+926	Deep Purple
+927	Todd Rundgren
+928	Algeria
+929	Emmylou Harris
+930	Gary Numan
+931	Gillian Welch
+932	big beat
+933	Fueled by Ramen
+934	melodrama
+935	Ashlee Simpson
+936	Bob Marley
+937	Pete Wentz
+938	glitch
+939	Jimmy Page
+940	Keith Moon
+941	plucked string instrument
+942	Jack White
+943	bass guitar
+944	Avril Lavigne
+945	Larry Mullen Jr.
+946	Azerbaijan
+947	animated film
+948	Philips Records
+949	Joe Diffie
+950	Lady Gaga
+951	soul jazz
+952	Tony Bennett
+953	gay
+954	Keanu Reeves
+955	Def Leppard
+956	Arizona Cardinals
+957	Chicago Bears
+958	2009 NFL season
+959	talk show
+960	Finnish
+961	Beck
+962	Dido
+963	Iraq
+964	Varanasi
+965	Fontana
+966	Hamilton
+967	Fat Wreck Chords
+968	Newton
+969	Lil' Kim
+970	Everything but the Girl
+971	Chinese
+972	Rick Springfield
+973	Damon Albarn
+974	electric blues
+975	manganese
+976	riboflavin
+977	over-the-counter drug
+978	Yngwie Malmsteen
+979	Daniel Lanois
+980	Dundee
+981	Babyface
+982	Nina Simone
+983	Bellingham
+984	Malta
+985	Long Beach
+986	Freddie Mercury
+987	Newark
+988	gold medal
+989	Hamburg
+990	Sheryl Crow
+991	Keith Forsey
+992	Duran Duran
+993	Quincy Jones
+994	Roy Bittan
+995	Edinburgh
+996	Hikaru Utada
+997	Nitty Gritty Dirt Band
+998	folk metal
+999	Sacramento
+1000	superhero film
+1001	Prince
+1002	Akon
+1003	breakbeat
+1004	St. Louis
+1005	Warsaw
+1006	Jim O'Rourke
+1007	Stephen Stills
+1008	Faith No More
+1009	track cycling
+1010	Loretta Lynn
+1011	Heart
+1012	post-punk revival
+1013	Mark Ronson
+1014	Cleveland
+1015	Kelly Clarkson
+1016	Meshell Ndegeocello
+1017	Frank Sinatra
+1018	Destiny's Child
+1019	Tanzania
+1020	Polish
+1021	Astralwerks
+1022	Richmond
+1023	Riot grrrl
+1024	rockumentary
+1025	Long Island
+1026	Soltera
+1027	miniseries
+1028	Cher
+1029	Diana Ross
+1030	bossa nova
+1031	dubstep
+1032	Bakersfield
+1033	Seal
+1034	Beggars Banquet Records
+1035	fantasy
+1036	Moscow
+1037	Metallica
+1038	farce
+1039	Aretha Franklin
+1040	Aaliyah
+1041	Ella Fitzgerald
+1042	Scranton
+1043	Melvins
+1044	Cincinnati
+1045	George Clinton
+1046	Rounder Records
+1047	Oingo Boingo
+1048	lounge music
+1049	Alternative Tentacles
+1050	Carrie Underwood
+1051	dance film
+1052	John Stamos
+1053	Ronnie Wood
+1054	Pixies
+1055	melodic death metal
+1056	Essen
+1057	Moby
+1058	ragga
+1059	Coldplay
+1060	Jeff Beck
+1061	Garth Brooks
+1062	Carmarthen
+1063	J-pop
+1064	Pony Canyon
+1065	Jeff Lynne
+1066	New prog
+1067	Saskatoon
+1068	Dianna Agron
+1069	Southern Gospel
+1070	Chatham
+1071	M.I.A.
+1072	teen drama
+1073	Marty Stuart
+1074	anthology
+1075	Western film
+1076	1976 Winter Olympics
+1077	sludge metal
+1078	San Jose
+1079	Tallinn
+1080	Courtney Love
+1081	Jason Mraz
+1082	Jamie Cullum
+1083	Colbie Caillat
+1084	Morning Musume
+1085	Houston
+1086	Jim Morrison
+1087	Leeds
+1088	Mike Watt
+1089	gangsta rap
+1090	Sedona
+1091	Green Day
+1092	Oshawa
+1093	Flint
+1094	Steely Dan
+1095	modern pentathlon
+1096	essay film
+1097	Phil Collins
+1098	Liberia
+1099	Flea
+1100	Serbo-Croatian
+1101	The Cult
+1102	ska punk
+1103	will.i.am
+1104	Steve Howe
+1105	dystopia
+1106	Donny Osmond
+1107	Patricia Arquette
+1108	Rockford
+1109	Turkish
+1110	speed metal
+1111	Tom DeLonge
+1112	Dropkick Murphys
+1113	Avex Trax
+1114	Kanagawa Prefecture
+1115	Joey Jordison
+1116	Dixie Chicks
+1117	Joni Mitchell
+1118	Celtic rock
+1119	Jay-Z
+1120	Reading
+1121	Egypt
+1122	Nas
+1123	Travis Tritt
+1124	King Records
+1125	Common
+1126	dancehall
+1127	Cyndi Lauper
+1128	Dio
+1129	Georgia
+1130	Jonas Brothers
+1131	Phish
+1132	Joliet
+1133	Singapore
+1134	Nick Cave and the Bad Seeds
+1135	Skate punk
+1136	Jennifer Lopez
+1137	Vagrant Records
+1138	St. Catharines
+1139	KISS
+1140	Lisa Gerrard
+1141	John 5
+1142	Lindsay Lohan
+1143	Ivan Reitman
+1144	psychedelic trance
+1145	Rodney Jerkins
+1146	Malaysia
+1147	Dire Straits
+1148	Greece
+1149	bronze medal
+1150	Mike Oldfield
+1151	Adele
+1152	Sam Shepard
+1153	Robert Plant
+1154	Plastic Ono Band
+1155	Tracy Chapman
+1156	USA for Africa
+1157	Southern hip hop
+1158	Bret Michaels
+1159	Neil Diamond
+1160	Christina Aguilera
+1161	Berkeley
+1162	Cheap Trick
+1163	Missy Elliott
+1164	MCA Inc.
+1165	Compton
+1166	Brendon Small
+1167	The Prodigy
+1168	Snoop Dogg
+1169	Ryuichi Sakamoto
+1170	heist film
+1171	Eddie Murphy
+1172	stand-up comedy
+1173	Ōsaka
+1174	The Pretenders
+1175	extreme metal
+1176	Jack Black
+1177	Southampton
+1178	Bergen County
+1179	Texas blues
+1180	thrashcore
+1181	indie folk
+1182	Barry White
+1183	Hungary
+1184	Armenia
+1185	Nirvana
+1186	Blood, Sweat & Tears
+1187	Jive
+1188	Southern Lord Records
+1189	Italian American
+1190	Max Casella
+1191	supernatural
+1192	Southfield
+1193	John Coltrane
+1194	dixieland
+1195	Robbie Robertson
+1196	Swindon
+1197	Devin Townsend
+1198	classical guitar
+1199	The Bronx
+1200	minimal music
+1201	Shania Twain
+1202	Middlesex
+1203	Latin American music
+1204	Sony Music Entertainment Japan
+1205	Buenos Aires
+1206	Stevie Ray Vaughan
+1207	MGM Records
+1208	Baltimore
+1209	spy film
+1210	Libya
+1211	Oasis
+1212	Dunfermline
+1213	Capsicum
+1214	Bill Finger
+1215	Gustavo Cerati
+1216	Tricky Stewart
+1217	SM Town
+1218	Quebec City
+1219	Rough Trade Records
+1220	Santa Barbara
+1221	Adrian Belew
+1222	Aldo Nova
+1223	Elvis Presley
+1224	Koblenz
+1225	Cameroon
+1226	People's Republic of China
+1227	tennis
+1228	Devo
+1229	Jayne Mansfield
+1230	Trey Anastasio
+1231	Nicole Scherzinger
+1232	German Empire
+1233	United Artists Records
+1234	Cologne
+1235	Giorgio Moroder
+1236	Curtis Mayfield
+1237	medical novel
+1238	Kenny Loggins
+1239	Bradford
+1240	San Juan
+1241	Dallas
+1242	Claire Bloom
+1243	Davis
+1244	Nelly Furtado
+1245	Maverick
+1246	Kalamazoo
+1247	Gainesville
+1248	Earache Records
+1249	Rochester
+1250	P!nk
+1251	Florence
+1252	experimental music
+1253	Urbana
+1254	Ryan Adams
+1255	Rory Gallagher
+1256	Jerry Lee Lewis
+1257	Huntington Beach
+1258	K Records
+1259	Britney Spears
+1260	Carly Simon
+1261	Robyn Hitchcock
+1262	Marilyn Manson
+1263	Gloria Estefan
+1264	Watford
+1265	politics
+1266	Ritchie Blackmore
+1267	hard bop
+1268	keyboard instrument
+1269	John Williams
+1270	toy piano
+1271	2006 Winter Olympics
+1272	cross-country skiing
+1273	Frontiers Records
+1274	Cash Money Records
+1275	Newport Beach
+1276	doo-wop
+1277	Ohio
+1278	Carole King
+1279	Jakarta
+1280	London Records
+1281	Sting
+1282	Priority Records
+1283	Anderson
+1284	Sean Combs
+1285	Sepultura
+1286	River Phoenix
+1287	Lap steel guitar
+1288	Sparks
+1289	The Beach Boys
+1290	Tori Amos
+1291	Qatar
+1292	Fulham
+1293	Aimee Mann
+1294	Counting Crows
+1295	Elton John
+1296	French American
+1297	reggaeton
+1298	romantic comedy
+1299	Lupe Fiasco
+1300	Windsor
+1301	Mila Kunis
+1302	San Diego
+1303	Rotterdam
+1304	Candlelight Records
+1305	Oslo
+1306	Robin Thicke
+1307	Nico
+1308	Isle of Man
+1309	Ricky Nelson
+1310	Debbie Harry
+1311	teen pop
+1312	Jay Bennett
+1313	Mannheim
+1314	Spinefarm Records
+1315	crossover
+1316	Wichita
+1317	freestyle music
+1318	latin jazz
+1319	Keith Richards
+1320	acoustic guitar
+1321	Alicia Keys
+1322	Gary Moore
+1323	John Legend
+1324	Yolanda Adams
+1325	Croatian
+1326	Daddy Yankee
+1327	Grateful Dead
+1328	Pakistan
+1329	Punjabi
+1330	afrobeat
+1331	Johannesburg
+1332	Glen Ballard
+1333	political satire
+1334	Trisha Yearwood
+1335	Des Moines
+1336	Lyon
+1337	Montevideo
+1338	Memphis
+1339	Pat Benatar
+1340	comedy of manners
+1341	Bath
+1342	Walsall
+1343	political thriller
+1344	1960 Summer Olympics
+1345	artistic gymnastics
+1346	Enrique Iglesias
+1347	Tara Strong
+1348	John Denver
+1349	1988 Summer Olympics
+1350	Jackson Browne
+1351	freestyle wrestling
+1352	Himesh Reshammiya
+1353	mandopop
+1354	SM Entertainment
+1355	Chengdu
+1356	Kuk Harrell
+1357	Burt Bacharach
+1358	drone music
+1359	Vallejo
+1360	cool jazz
+1361	Play It Again Sam
+1362	Amsterdam
+1363	Mexico City
+1364	Honolulu
+1365	Lima
+1366	Zetima
+1367	Oahu
+1368	Bristol
+1369	Van Halen
+1370	Wyclef Jean
+1371	film score
+1372	Céline Dion
+1373	Robbie Williams
+1374	Coolio
+1375	hyphy
+1376	George Harrison
+1377	Hollywood Records
+1378	Queens
+1379	Victoria Beckham
+1380	Blackpool
+1381	Bob Dylan
+1382	Brandon
+1383	1998 Winter Olympics
+1384	speed skating
+1385	Vertigo
+1386	Fiji
+1387	Southern soul
+1388	Wisconsin
+1389	Santana
+1390	Kingston upon Hull
+1391	New Jersey
+1392	Kylie Minogue
+1393	Cardiff
+1394	Kate Bush
+1395	Elvis Costello
+1396	Lexington
+1397	Michael Nesmith
+1398	Morocco
+1399	DL-methionine
+1400	L-Threonine
+1401	Hi-NRG
+1402	suspense
+1403	Brazil
+1404	Ghent
+1405	Alejandro Sanz
+1406	The Black Eyed Peas
+1407	Jon Brion
+1408	Chelsea
+1409	Max Martin
+1410	Michael Sembello
+1411	Ariola
+1412	Basel
+1413	Kris Kristofferson
+1414	Panic! at the Disco
+1415	Dutch
+1416	Jerry Duplessis
+1417	PJ Harvey
+1418	chiptune
+1419	Flo Rida
+1420	Portugal
+1421	avant-garde
+1422	Fleetwood Mac
+1423	Kevin Kline
+1424	college rock
+1425	Bill Nelson
+1426	Mauritania
+1427	Carlos Santana
+1428	Oklahoma City
+1429	Doc Watson
+1430	country blues
+1431	Spın̈al Tap
+1432	Randy Edelman
+1433	Executive Office of the President of the United States
+1434	United States House of Representatives
+1435	President of the United States
+1436	Q-Tip
+1437	glycine
+1438	Isaac Hayes
+1439	West Midlands
+1440	Jon Bon Jovi
+1441	Caroline Records
+1442	Manhattan
+1443	Jean-Michel Jarre
+1444	Sunderland
+1445	The Black Keys
+1446	Yui Horie
+1447	Mali
+1448	comedy-drama
+1449	Michael Jackson
+1450	Jessica Simpson y Javier Jimenez ink_neho
+1451	Billy Bragg
+1452	true crime
+1453	Asleep at the Wheel
+1454	iron
+1455	copper
+1456	Roger Taylor
+1457	Glenn Frey
+1458	1980 Summer Olympics
+1459	Camel
+1460	Melanie Griffith
+1461	Copenhagen
+1462	Little Feat
+1463	dirty rap
+1464	Fergie
+1465	Santiago
+1466	Draco Rosa
+1467	Jersey City
+1468	Kurt Cobain
+1469	1956 Summer Olympics
+1470	Michael Stipe
+1471	John Zorn
+1472	swing music
+1473	Victoria
+1474	Stoke-on-Trent
+1475	Chris Seefried
+1476	neofolk
+1477	Hank Williams Jr.
+1478	Craig Armstrong
+1479	Oregon
+1480	SST Records
+1481	San Pedro
+1482	San Antonio
+1483	Eric Clapton
+1484	Nickelback
+1485	CBS Records
+1486	Solano County
+1487	deathcore
+1488	Ray Charles
+1489	The Who
+1490	Akron
+1491	The Velvet Underground
+1492	Raleigh
+1493	Portishead
+1494	Dream Theater
+1495	Robert Palmer
+1496	Wuppertal
+1497	Joel Madden
+1498	Debbie Gibson
+1499	Florida
+1500	Chiswick
+1501	Randy Jackson
+1502	Niagara Falls
+1503	DreamWorks
+1504	Milan
+1505	Liza Minnelli
+1506	Cradle of Filth
+1507	Red Hot Chili Peppers
+1508	Roger Daltrey
+1509	Andy Williams
+1510	Newport
+1511	drum kit
+1512	CeeLo Green
+1513	Sydney
+1514	Berlin
+1515	Aphex Twin
+1516	Billy Ray Cyrus
+1517	Seoul
+1518	children's television series
+1519	The Isley Brothers
+1520	They Might Be Giants
+1521	Angola
+1522	Lund
+1523	Kenny Rogers
+1524	The Doobie Brothers
+1525	Lebanese American
+1526	Mako
+1527	Stewart Copeland
+1528	The Band
+1529	Burnley
+1530	Porcupine Tree
+1531	L-Valine
+1532	zinc
+1533	Joss Stone
+1534	Gene Simmons
+1535	Brighton
+1536	Debi Mazar
+1537	Ayumi Hamasaki
+1538	Charlie Daniels
+1539	Lithuania
+1540	Perth
+1541	Bandung
+1542	Eminem
+1543	sport
+1544	AFI
+1545	Bridgeport
+1546	independent music
+1547	The Kinks
+1548	Whitney Houston
+1549	news
+1550	television film
+1551	Norwegian
+1552	West Germany
+1553	Harry Nilsson
+1554	Sean Lennon
+1555	epic film
+1556	erotica
+1557	Christian music
+1558	Mongolia
+1559	Zürich
+1560	Illinois
+1561	Richard Thompson
+1562	Turkmenistan
+1563	Tamil
+1564	Omarion
+1565	Ryan Tedder
+1566	Jesse McCartney
+1567	Linda Ronstadt
+1568	Montgomery
+1569	Joe Hisaishi
+1570	Jill Scott
+1571	Croatia
+1572	Paul Simon
+1573	Stevie Nicks
+1574	rowing
+1575	Meat Loaf
+1576	dark ambient
+1577	Waddy Wachtel
+1578	Thai
+1579	musical film
+1580	calcium
+1581	Giant Records
+1582	Tupac Shakur
+1583	Micky Dolenz
+1584	United States Department of State
+1585	United States Senate
+1586	trance
+1587	India.Arie
+1588	volleyball
+1589	Green Bay Packers
+1590	Jacksonville Jaguars
+1591	2008 NFL season
+1592	Martine McCutcheon
+1593	Ice-T
+1594	Vanguard Records
+1595	Hartford
+1596	David Guetta
+1597	Columbus
+1598	Indian classical music
+1599	Chennai
+1600	Hayley Williams
+1601	Montreal
+1602	Nijmegen
+1603	Nelly
+1604	Dwight Yoakam
+1605	erotic thriller
+1606	Josh Groban
+1607	Portsmouth
+1608	DL-proline
+1609	Latin hip hop
+1610	Roy Orbison
+1611	Dan Wilson
+1612	Bergen
+1613	Eurodance
+1614	Thom Yorke
+1615	Cy Coleman
+1616	anti-folk
+1617	Bremerton
+1618	Nana Mizuki
+1619	RedOne
+1620	Syd Barrett
+1621	Rick Wakeman
+1622	The Neptunes
+1623	Leslie Nielsen
+1624	L-Histidine
+1625	Princeton
+1626	Busta Rhymes
+1627	hardcore techno
+1628	North Korea
+1629	Tom Petty
+1630	Matthew Morrison
+1631	Charlie Parker
+1632	Steve Martin
+1633	animated series
+1634	Alice Cooper
+1635	Universal Motown Republic Group
+1636	screwball comedy film
+1637	Calle 13
+1638	opera
+1639	Newport News
+1640	Nobuo Uematsu
+1641	Euro disco
+1642	David Lindley
+1643	alto flute
+1644	Don Henley
+1645	Vanilla Ice
+1646	Berkshire
+1647	conga
+1648	Bappi Lahiri
+1649	Johnny Depp
+1650	kung fu film
+1651	Knoxville
+1652	Redlands
+1653	Wolverhampton
+1654	Highland Park
+1655	Genesis
+1656	Imperial
+1657	Sufjan Stevens
+1658	The B-52's
+1659	David Lee Roth
+1660	Derry
+1661	Kenya
+1662	Greenwich Village
+1663	instrumental music
+1664	Peru
+1665	Lawrence
+1666	Ashley Tisdale
+1667	Colorado
+1668	criminality
+1669	Irish
+1670	Oldham
+1671	Al Green
+1672	Kyoto
+1673	Milton Friedman
+1674	Luxembourg
+1675	Kelis
+1676	Klaus Voormann
+1677	Rivers Cuomo
+1678	Scorpions
+1679	John Travolta
+1680	Sympathy for the Record Industry
+1681	Benji Madden
+1682	alpine skiing
+1683	Norfolk
+1684	Fat Possum Records
+1685	Alan Parsons
+1686	Nonesuch
+1687	San Diego County
+1688	Fort Worth
+1689	James Caan
+1690	Colombia
+1691	Tyrese Gibson
+1692	Connecticut
+1693	Macy Gray
+1694	Bethlehem
+1695	Crawley
+1696	breakcore
+1697	Atticus Ross
+1698	L-Isoleucine
+1699	David J
+1700	Mark Knopfler
+1701	CeCe Winans
+1702	ballad
+1703	Pat Metheny Group
+1704	High Wycombe
+1705	A-ha
+1706	Herbert Lom
+1707	Topeka
+1708	Edgar Meyer
+1709	Jackson
+1710	contemporary classical music
+1711	Dionne Warwick
+1712	entertainment
+1713	slice of life
+1714	James Taylor
+1715	Salford
+1716	1904 Summer Olympics
+1717	diving
+1718	Delta blues
+1719	music of Japan
+1720	EMI Music Japan
+1721	alternate history
+1722	Swahili
+1723	Michigan
+1724	Nick Jonas
+1725	Steven Curtis Chapman
+1726	Paul Epworth
+1727	1952 Winter Olympics
+1728	Perugia
+1729	John Lee Hooker
+1730	Justin Timberlake
+1731	Alain Johannes
+1732	LL Cool J
+1733	satire
+1734	Palermo
+1735	Joe Jonas
+1736	Bermuda
+1737	timpani
+1738	James Blunt
+1739	Curb Records
+1740	Tallahassee
+1741	Harold Faltermeyer
+1742	Kannada
+1743	Belarus
+1744	Daniel Handler
+1745	concertina
+1746	k.d. lang
+1747	Barnsley
+1748	Mexico
+1749	Sinhala
+1750	June Carter Cash
+1751	psychological thriller
+1752	Dannii Minogue
+1753	acid house
+1754	Madonna
+1755	Essex
+1756	Slovakia
+1757	Urdu
+1758	Chris Thile
+1759	Mark Wahlberg
+1760	Sierra Leone
+1761	Ann Arbor
+1762	Wigan
+1763	Saitama Prefecture
+1764	Jerusalem
+1765	Herbie Hancock
+1766	Paris
+1767	Athens
+1768	Erykah Badu
+1769	Turku
+1770	South Carolina
+1771	Pye Records
+1772	Fayetteville
+1773	Albert Lee
+1774	parody
+1775	1928 Summer Olympics
+1776	Ivory Coast
+1777	Norman Blake
+1778	Rochdale
+1779	roots reggae
+1780	handball
+1781	Jake Shimabukuro
+1782	crunk
+1783	CBS
+1784	Evan Rachel Wood
+1785	Springfield
+1786	Brian Tyler
+1787	Danny Elfman
+1788	Jim Jonsin
+1789	1948 Winter Olympics
+1790	ski jumping
+1791	Jennifer Love Hewitt
+1792	Christian hardcore
+1793	Virginia
+1794	acid jazz
+1795	Wellington
+1796	Mamoru Miyano
+1797	Marianne Faithfull
+1798	Uzbekistan
+1799	Jim Steinman
+1800	Barcelona
+1801	existentialism
+1802	Luther Vandross
+1803	Latin pop
+1804	Pittsburgh
+1805	Peter Frampton
+1806	Tony Levin
+1807	Allan Holdsworth
+1808	Sussex County
+1809	Chester
+1810	Sheffield
+1811	Bowling Green
+1812	Charles Mingus Jr.
+1813	United States Forest Service
+1814	Vice President of the United States
+1815	Colchester
+1816	journalism
+1817	Joe Cocker
+1818	Zaragoza
+1819	Porto Alegre
+1820	costume drama
+1821	Espoo
+1822	Helena
+1823	niacin
+1824	Robert Cray
+1825	taekwondo
+1826	Antigua and Barbuda
+1827	Malcolm David Kelley
+1828	1972 Summer Olympics
+1829	Ja Rule
+1830	Michael Bolton
+1831	Peoria
+1832	Ringo Starr
+1833	NSYNC
+1834	Abilene
+1835	salsa
+1836	DMX
+1837	Santa Ana
+1838	Halifax
+1839	Bonn
+1840	John Fogerty
+1841	Mos Def
+1842	Booker T. Jones
+1843	Raphael Saadiq
+1844	Baltimore Ravens
+1845	Cambridge
+1846	Pierre Boulez
+1847	Mandy Moore
+1848	Billy Corgan
+1849	Uriah Heep
+1850	soap opera
+1851	Emilio Estefan
+1852	1984 Winter Olympics
+1853	Damian Marley
+1854	Anjelica Huston
+1855	Cherokee
+1856	Channing Tatum
+1857	Telugu
+1858	Anthrax
+1859	Timmins
+1860	post-bop
+1861	Mansfield
+1862	folktronica
+1863	Norwich
+1864	Sergei Prokofiev
+1865	Darwin
+1866	Sarah McLachlan
+1867	Dinah Shore
+1868	Bromley
+1869	Tom Jones
+1870	Asylum Records
+1871	KT Tunstall
+1872	mountain biking
+1873	Lebanon
+1874	Auburn
+1875	Mesa
+1876	ANTI-
+1877	Jack Lemmon
+1878	Moldova
+1879	Toby Keith
+1880	Providence
+1881	Vienna
+1882	Aylesbury
+1883	Jerry Siegel
+1884	cooking show
+1885	contemporary philosophy
+1886	Henri Bergson
+1887	political science
+1888	Arlington County
+1889	Franklin
+1890	Andrea Bocelli
+1891	Westchester County
+1892	Mandarin Chinese
+1893	Radiohead
+1894	Hampton
+1895	Ethiopia
+1896	Sparrow Records
+1897	Bangladesh
+1898	Nigeria
+1899	tech house
+1900	DreamWorks Records
+1901	Swansea
+1902	John Frankenheimer
+1903	Washington
+1904	Pat Metheny
+1905	La Toya Jackson
+1906	Brian Wilson
+1907	Elliott Gould
+1908	Riverside
+1909	The-Dream
+1910	Newcastle upon Tyne
+1911	North Carolina
+1912	Swizz Beatz
+1913	monster film
+1914	Boulder
+1915	rocksteady
+1916	Rihanna
+1917	Bill Payne
+1918	RuPaul
+1919	Suffolk
+1920	John Mellencamp
+1921	Chinese American
+1922	Joan Chen
+1923	Bellevue
+1924	Billy Crystal
+1925	Charleston
+1926	Bridgend
+1927	urban contemporary gospel
+1928	Charlotte
+1929	Port Arthur
+1930	Indianapolis Colts
+1931	Creed Bratton
+1932	fairy tale
+1933	Modest Mouse
+1934	experimental film
+1935	Ryan Gosling
+1936	electro house
+1937	Natalie Cole
+1938	Bosnia and Herzegovina
+1939	R. Kelly
+1940	Norman
+1941	Steve Hackett
+1942	Herb Alpert
+1943	vocal music
+1944	Dolly Parton
+1945	Seattle Seahawks
+1946	Steve Earle
+1947	Albania
+1948	sophisti-pop
+1949	Benny Andersson
+1950	Mumbai
+1951	Trent Reznor
+1952	Patty Loveless
+1953	minimal techno
+1954	Wiltshire
+1955	James Hetfield
+1956	Buffalo Bills
+1957	Denver Broncos
+1958	Bette Midler
+1959	Wilmington
+1960	Angelo Badalamenti
+1961	Yemen
+1962	Dischord Records
+1963	Alexandria
+1964	Jamie Foxx
+1965	Yugoslavia
+1966	Levon Helm
+1967	neo-noir
+1968	Mike Mills
+1969	Bono
+1970	bongo drum
+1971	Pam Tillis
+1972	Europe
+1973	20th-century philosophy
+1974	Immanuel Kant
+1975	Marseille
+1976	Donald Fagen
+1977	samba
+1978	Sri Lanka
+1979	Nelson Riddle
+1980	Sam Bush
+1981	Andrew Gold
+1982	Kazakhstan
+1983	Greco-Roman wrestling
+1984	Plymouth
+1985	Magdeburg
+1986	Guadalajara
+1987	D'Angelo
+1988	Rapid City
+1989	University of Oregon
+1990	Dean Martin
+1991	Colombo
+1992	First Lady of the United States
+1993	eventing
+1994	biathlon
+1995	Scottish American
+1996	Scots
+1997	James Ivory
+1998	Decatur
+1999	Hans Zimmer
+2000	San Francisco 49ers
+2001	New Orleans Saints
+2002	Vangelis
+2003	Johnny Mandel
+2004	Ghana
+2005	beach volleyball
+2006	Mobile
+2007	Cree Summer
+2008	Minami Takayama
+2009	Macon
+2010	Emily Osment
+2011	Lisa Kudrow
+2012	Turkey
+2013	Ne-Yo
+2014	Zimbabwe
+2015	Ōsaka Prefecture
+2016	Peter Buck
+2017	jump blues
+2018	Marlee Matlin
+2019	Turin
+2020	Province of Buenos Aires
+2021	Tom Green
+2022	Irene Cara
+2023	Carl Reiner
+2024	50 cent
+2025	Richard Wright
+2026	Shanachie Records
+2027	Chattanooga
+2028	Roxbury
+2029	UK garage
+2030	1992 Winter Olympics
+2031	1988 Winter Olympics
+2032	Lubbock
+2033	German Democratic Republic
+2034	George Duke
+2035	Beirut
+2036	Ronny Cox
+2037	Luton
+2038	Malayalam
+2039	Earl Scruggs
+2040	Juelz Santana
+2041	canoe slalom
+2042	Fatboy Slim
+2043	Atco Records
+2044	coming of age
+2045	ethanol
+2046	Lakeland
+2047	Chris Martin
+2048	Canterbury
+2049	Philadelphia Eagles
+2050	Lil Jon
+2051	Peshawar
+2052	David Sanborn
+2053	Antwerp
+2054	Beverly Hills
+2055	curling
+2056	Jaco Pastorius
+2057	Phil Spector
+2058	soundtrack
+2059	Elgin
+2060	L-aspartic acid
+2061	Cary-Hiroyuki Tagawa
+2062	Yonkers
+2063	Toni Braxton
+2064	music video
+2065	Bolivia
+2066	Canadian English
+2067	Belo Horizonte
+2068	Derby
+2069	contemporary worship music
+2070	Death Row Records
+2071	Montclair
+2072	Judas Priest
+2073	Lahore
+2074	Robert Wyatt
+2075	David Gilmour
+2076	L-phenylalanine
+2077	L-Alanine
+2078	Warren
+2079	Auckland
+2080	Royal Leamington Spa
+2081	Morristown
+2082	Teaneck
+2083	David Grisman
+2084	Aberdeen
+2085	Vince Gill
+2086	Sean Connery
+2087	Justin Bieber
+2088	Shemp Howard
+2089	Natchez
+2090	psychological horror
+2091	Vermont
+2092	The Jackson 5
+2093	Lena Horne
+2094	Billie Holiday
+2095	Jill Clayburgh
+2096	Charlotte Gainsbourg
+2097	Theodore Bikel
+2098	Alyson Stoner
+2099	goblet drum
+2100	Fabolous
+2101	Xzibit
+2102	T-Pain
+2103	baritone saxophone
+2104	Ealing
+2105	Leicester
+2106	Iroquois
+2107	Rwanda
+2108	slapstick
+2109	Bengali
+2110	Naperville
+2111	biography
+2112	Belfast
+2113	English American
+2114	Bing Crosby
+2115	badminton
+2116	Steven Berkoff
+2117	Nelson Region
+2118	Munich
+2119	Limerick
+2120	1972 Winter Olympics
+2121	Panama
+2122	humor
+2123	Shaquille O'Neal
+2124	Internal Revenue Service
+2125	James Poyser
+2126	Latvia
+2127	Peter Falk
+2128	Elliott Smith
+2129	Mary J. Blige
+2130	Gladys Knight
+2131	Apache
+2132	Vivica A. Fox
+2133	Bury
+2134	Wynton Marsalis
+2135	Method Man
+2136	Shropshire
+2137	Nottingham
+2138	Eve
+2139	Donovan
+2140	King
+2141	Englewood
+2142	James Ingram
+2143	Canberra
+2144	Maurice Sendak
+2145	Stanford
+2146	Coventry
+2147	freestyle skiing
+2148	Burkina Faso
+2149	fencing
+2150	Band Aid
+2151	Gifu Prefecture
+2152	Korea
+2153	Guildford
+2154	Thessaloniki
+2155	organ case
+2156	Master P
+2157	baroque music
+2158	Cape Town
+2159	Uruguay
+2160	George Benson
+2161	A. R. Rahman
+2162	Camden
+2163	Charles Darwin
+2164	Sony Pictures
+2165	Stevie Wonder
+2166	Trondheim
+2167	boxing
+2168	Corinne Bailey Rae
+2169	Rhode Island
+2170	Tel Aviv
+2171	Chet Atkins
+2172	Felix Mendelssohn
+2173	Yokohama
+2174	Hayden Panettiere
+2175	Lil Wayne
+2176	New Hampshire
+2177	Aichi Prefecture
+2178	Miley Cyrus
+2179	Barbra Streisand
+2180	tabla
+2181	Konami
+2182	Asia
+2183	London Borough of Hackney
+2184	1920 Summer Olympics
+2185	Burundi
+2186	urban contemporary
+2187	Staten Island
+2188	Tucson
+2189	Dutch American
+2190	Irving Thalberg
+2191	Palo Alto
+2192	Pompano Beach
+2193	Liechtenstein
+2194	Togo
+2195	β-carotene
+2196	Iron Maiden
+2197	Thora Birch
+2198	Pitbull
+2199	Dominican Republic
+2200	teen film
+2201	Harry Connick Jr.
+2202	Johannes Brahms
+2203	phosphorus
+2204	petroleum
+2205	Lookout! Records
+2206	Scunthorpe
+2207	Indian American
+2208	Kal Penn
+2209	1964 Summer Olympics
+2210	Jule Styne
+2211	Paddington
+2212	Lauryn Hill
+2213	Amherst
+2214	print news magazine
+2215	timbales
+2216	snare drum
+2217	tenor saxophone
+2218	Joshua Redman
+2219	alto saxophone
+2220	Dr. Dre
+2221	Static Major
+2222	1996 Summer Olympics
+2223	Chad
+2224	Costa Rica
+2225	skeleton
+2226	United States Virgin Islands
+2227	Anatole Litvak
+2228	Mark Isham
+2229	Fresno
+2230	Wichita Falls
+2231	Rome
+2232	Ipswich
+2233	Islington
+2234	Kingdom of Italy
+2235	slasher film
+2236	Sussex
+2237	Steve Vai
+2238	Bill Evans
+2239	Russian Empire
+2240	Adelaide
+2241	folic acid
+2242	Utrecht
+2243	Miles Davis
+2244	luge
+2245	Henderson
+2246	Stockport
+2247	National Film Board of Canada
+2248	Senate of Canada
+2249	Prime Minister of Canada
+2250	Will Smith
+2251	Corbin Bleu
+2252	West Chester
+2253	Glendale
+2254	travel
+2255	Paraguay
+2256	Brandy Norwood
+2257	stearic acid
+2258	Jared Leto
+2259	stop-motion
+2260	Lincoln
+2261	Bobby McFerrin
+2262	Howard Stern
+2263	National Aeronautics and Space Administration
+2264	Paquito D'Rivera
+2265	Ennio Morricone
+2266	operatic pop
+2267	Louisville
+2268	Tim McGraw
+2269	Ibaraki Prefecture
+2270	Trinidad and Tobago
+2271	East Orange
+2272	Syracuse
+2273	LeAnn Rimes
+2274	Supreme Court of the United States
+2275	Uganda
+2276	Ocala
+2277	Sri Lankan Tamils
+2278	Murfreesboro
+2279	Galveston
+2280	Rio de Janeiro
+2281	symphonic black metal
+2282	soprano saxophone
+2283	Olympia
+2284	Marathi
+2285	St Albans
+2286	Ricky Martin
+2287	William Orbit
+2288	Alabama
+2289	racewalking
+2290	Graham Gouldman
+2291	Fort Lauderdale
+2292	Denton
+2293	Macclesfield
+2294	New Age
+2295	Catania
+2296	Anita Baker
+2297	Aldershot
+2298	Bloomington
+2299	food
+2300	science
+2301	Augusta
+2302	Chapel Hill
+2303	thiamine ion
+2304	vitamin A
+2305	Vanessa Williams
+2306	table tennis
+2307	Christian hip hop
+2308	Howard Ashman
+2309	Amy Grant
+2310	magnesium
+2311	tragicomedy
+2312	Lauren Conrad
+2313	United States Department of the Treasury
+2314	Waylon Jennings
+2315	Ewan McGregor
+2316	Reba McEntire
+2317	Southend-on-Sea
+2318	Belize
+2319	Walter Murphy
+2320	Sapporo
+2321	Malawi
+2322	Montenegro
+2323	Quezon City
+2324	Tony Blair
+2325	Irvine
+2326	Calgary
+2327	Encino
+2328	Bill Berry
+2329	Stuttgart
+2330	Chile
+2331	Spokane
+2332	Royal Canadian Air Force
+2333	Supreme Court of Canada
+2334	Gary
+2335	Romford
+2336	Shirley Jones
+2337	Chelmsford
+2338	Tuvalu
+2339	Maaya Sakamoto
+2340	Staunton
+2341	1960 Winter Olympics
+2342	Emily Robison
+2343	Baton Rouge
+2344	Nantes
+2345	Senegal
+2346	prison film
+2347	Independence
+2348	Thelonious Monk
+2349	Ventura
+2350	Sugar Hill Records
+2351	Santa Fe
+2352	Philip Roth
+2353	New Bedford
+2354	Lisa Edelstein
+2355	Cat Stevens
+2356	Gene Wilder
+2357	Stax
+2358	Dave Brubeck
+2359	David Duchovny
+2360	Huntsville
+2361	canoe sprint
+2362	Frankfurt am Main
+2363	Papua New Guinea
+2364	United States Department of Housing and Urban Development
+2365	Greenville
+2366	Jane Seymour
+2367	archery
+2368	Taj Mahal
+2369	Whittier
+2370	Seychelles
+2371	White British
+2372	association football
+2373	Oscar Hammerstein II
+2374	L-leucine
+2375	Kanye West
+2376	Cajun music
+2377	Hoboken
+2378	Allentown
+2379	Don Rickles
+2380	Kuala Lumpur
+2381	United States Congress
+2382	Edward G. Robinson
+2383	Concord
+2384	Versailles
+2385	KC and the Sunshine Band
+2386	Jamestown
+2387	Pittsburgh Steelers
+2388	New England Patriots
+2389	Fremantle
+2390	Shelley Winters
+2391	Patrick Doyle
+2392	New York Giants
+2393	Haiti
+2394	Fat Joe
+2395	Lancashire
+2396	Douglas Adams
+2397	television comedy
+2398	Hiroshima Prefecture
+2399	L-Tryptophan
+2400	Ulm
+2401	Pisa
+2402	Karl Popper
+2403	Northampton
+2404	Leuven
+2405	Irving Berlin
+2406	Freiburg im Breisgau
+2407	Hemel Hempstead
+2408	Monterrey
+2409	Algiers
+2410	L-Tyrosine
+2411	L-Arginine
+2412	educational television
+2413	sword and sorcery
+2414	Burton upon Trent
+2415	Dumfries
+2416	dressage
+2417	Freddie Hubbard
+2418	Alison Brie
+2419	Palau
+2420	Arlington
+2421	Colorado Springs
+2422	Miriam Margolyes
+2423	Mandatory Palestine
+2424	Wheeling
+2425	L.A. Reid
+2426	Cornwall
+2427	1994 Winter Olympics
+2428	Emma Roberts
+2429	Edith Head
+2430	Afghanistan
+2431	Hackensack
+2432	Rock Island
+2433	High Point
+2434	Winston-Salem
+2435	Dhaka
+2436	Sigmund Freud
+2437	Hartlepool
+2438	Philip Glass
+2439	children's music
+2440	Ciara
+2441	Barry Manilow
+2442	electric violin
+2443	Keith Jarrett
+2444	Northern Ireland
+2445	Bellshill
+2446	Macedonia
+2447	Gary David Goldberg
+2448	Detroit Lions
+2449	Minnesota Vikings
+2450	Ron Jeremy
+2451	Surrey
+2452	Sean Penn
+2453	Toby Jones
+2454	Indianapolis
+2455	legal drama
+2456	Albany
+2457	Tony Curtis
+2458	Benin
+2459	Ellen Barkin
+2460	Los Gatos
+2461	Milwaukee
+2462	Bryan Singer
+2463	Johor
+2464	Monmouth County
+2465	Anaheim
+2466	monster
+2467	1968 Winter Olympics
+2468	Lorenz Hart
+2469	apocalyptic fiction
+2470	Russian Americans
+2471	Lucy Liu
+2472	wuxia
+2473	Gujarati
+2474	music of Ireland
+2475	Dortmund
+2476	Brookline
+2477	Bern
+2478	Dorset
+2479	New Brunswick
+2480	show jumping
+2481	Lynn
+2482	Dustin Hoffman
+2483	Drake
+2484	Axl Rose
+2485	Naples
+2486	Mexican American
+2487	Lyle Lovett
+2488	Wakefield
+2489	Sioux
+2490	Adrian Grenier
+2491	1952 Summer Olympics
+2492	blaxploitation
+2493	bass clarinet
+2494	Colin Firth
+2495	Annapolis
+2496	Ludwig Wittgenstein
+2497	Randy Travis
+2498	Toledo
+2499	B movie
+2500	Dubai
+2501	Fairfax
+2502	Stephen Fry
+2503	Mandy Patinkin
+2504	Wales
+2505	Burnaby
+2506	Durham
+2507	Oxnard
+2508	Midwest hip hop
+2509	Kagoshima Prefecture
+2510	Buddy Guy
+2511	adventure
+2512	Spaniards
+2513	Liev Schreiber
+2514	Anna Faris
+2515	Chess Records
+2516	Cory Doctorow
+2517	Albuquerque
+2518	guitar
+2519	pedal steel guitar
+2520	Lea Michele
+2521	Delhi
+2522	1948 Summer Olympics
+2523	Washington Redskins
+2524	Las Vegas Raiders
+2525	Linz
+2526	Djibouti
+2527	Michael Nyman
+2528	Brigitte Nielsen
+2529	Tampere
+2530	British Columbia
+2531	Fritz Lang
+2532	Gustavo Santaolalla
+2533	Sarah Jessica Parker
+2534	1908 Summer Olympics
+2535	Waltham
+2536	Modesto
+2537	Mark Salling
+2538	Maryland
+2539	Lake Charles
+2540	Christopher Guest
+2541	Cambridgeshire
+2542	1900 Summer Olympics
+2543	Nottinghamshire
+2544	Ralph Vaughan Williams
+2545	Italo disco
+2546	adult album alternative
+2547	New London
+2548	Kathie Lee Gifford
+2549	Andover
+2550	Igor Stravinsky
+2551	Beaumont
+2552	David Foster
+2553	Elizabeth
+2554	Jerry Douglas
+2555	Tijuana
+2556	Bari
+2557	Ben Foster
+2558	Ridgewood
+2559	Miami Dolphins
+2560	Truro
+2561	Hesse
+2562	Tonga
+2563	sexploitation film
+2564	West Hartford
+2565	Marin County
+2566	Columbia
+2567	Jennifer Hudson
+2568	Bradenton
+2569	Nick Cannon
+2570	concert film
+2571	New York Jets
+2572	Christchurch
+2573	Scarborough
+2574	Michael Gough
+2575	Norwalk
+2576	Armenians
+2577	Lancaster
+2578	Sicily
+2579	Solomon Islands
+2580	Pretoria
+2581	Helena Bonham Carter
+2582	Peterborough
+2583	Jeff Bhasker
+2584	The Hague
+2585	Kitchener
+2586	Artie Lange
+2587	Eugene
+2588	Paducah
+2589	Eritrea
+2590	Los Angeles Rams
+2591	Nice
+2592	tomato
+2593	Piedmont
+2594	Helsingborg
+2595	1912 Summer Olympics
+2596	physics
+2597	Boca Raton
+2598	Isle of Wight
+2599	Michael W. Smith
+2600	Rufus Wainwright
+2601	Samuel Fuller
+2602	sodium
+2603	Santa Cruz
+2604	El Paso
+2605	Jersey
+2606	Kilmarnock
+2607	Barbara Walters
+2608	Kilkenny
+2609	Ricky Skaggs
+2610	United States Department of Defense
+2611	National Park Service
+2612	Meagan Good
+2613	medical drama
+2614	Myanmar
+2615	DL-lysine
+2616	County Durham
+2617	Burbank
+2618	Adam Smith
+2619	Reno
+2620	Little Rock
+2621	Fran Drescher
+2622	Naya Rivera
+2623	Tartu
+2624	Waterloo
+2625	St. John's
+2626	Monaco
+2627	Tempe
+2628	Max Fleischer
+2629	Republic of the Congo
+2630	Larry David
+2631	Greensboro
+2632	Fukuoka
+2633	Syria
+2634	Pete Seeger
+2635	fiction
+2636	Noah Wyle
+2637	Gadsden
+2638	Trinidad
+2639	Sonny Rollins
+2640	Brownsville
+2641	Zooey Deschanel
+2642	detective fiction
+2643	Avignon
+2644	Brescia
+2645	Entertainment One
+2646	interactive television
+2647	Martin Heidegger
+2648	political philosophy
+2649	Ponce
+2650	Hempstead
+2651	Yann Tiersen
+2652	Clearwater
+2653	Queensland
+2654	Fukuoka Prefecture
+2655	Pawtucket
+2656	Antarctica
+2657	Fargo
+2658	nature
+2659	Benedictus de Spinoza
+2660	Ralph Stanley
+2661	Mississauga
+2662	Lewisham
+2663	Santa Rosa
+2664	1932 Summer Olympics
+2665	Kevin McHale
+2666	Adam Sandler
+2667	Mel Blanc
+2668	Sun Ra
+2669	Sandy Powell
+2670	Lou Diamond Phillips
+2671	Georg Solti
+2672	White Plains
+2673	Samoa
+2674	Victor Garber
+2675	Parkersburg
+2676	Nat King Cole
+2677	Ashanti
+2678	Stanley Donen
+2679	Iowa City
+2680	Jason Momoa
+2681	Aruba
+2682	Hiroshima
+2683	Dmitri Shostakovich
+2684	Enya
+2685	mockumentary
+2686	Racine
+2687	Harry Gregson-Williams
+2688	basketball
+2689	steampunk
+2690	1980 Winter Olympics
+2691	short track speed skating
+2692	Erie
+2693	Kuwait
+2694	Sarajevo
+2695	tragedy
+2696	County Dublin
+2697	Kelowna
+2698	Moncton
+2699	Kensington
+2700	Jeremy Thomas
+2701	Thomas Hobbes
+2702	biology
+2703	romantic fantasy
+2704	Gross out
+2705	Joan Rivers
+2706	Aurora
+2707	Geelong
+2708	Lesotho
+2709	Newmarket
+2710	Gabriel Yared
+2711	East St. Louis
+2712	Wayne Shorter
+2713	Lowell
+2714	cabaret
+2715	Terence Blanchard
+2716	Bow Wow
+2717	Dunedin
+2718	television special
+2719	Paul Williams
+2720	Eastbourne
+2721	German Americans
+2722	Chesapeake
+2723	Ogden
+2724	Rockland County
+2725	modern rock
+2726	Petersburg
+2727	Sioux Falls
+2728	Universal Studios
+2729	Paul Reubens
+2730	Salvador
+2731	Leonard Bernstein
+2732	Ziggy Marley
+2733	Boise
+2734	Bethesda
+2735	Royal Oak
+2736	Guinea-Bissau
+2737	Tennessee Titans
+2738	Houston Texans
+2739	Oklahoma
+2740	Michael McKean
+2741	Lviv
+2742	Vietnam
+2743	Strasbourg
+2744	Southern California
+2745	Franz Kafka
+2746	Pennsylvania
+2747	Fred Frith
+2748	Meridian
+2749	Champaign
+2750	Lawton
+2751	Lisbon
+2752	Jerry Stiller
+2753	Chichester
+2754	Arnold Schoenberg
+2755	Kolkata
+2756	Suffolk County
+2757	Chris Botti
+2758	Wheaton
+2759	chanson
+2760	Hannah Arendt
+2761	Hereford
+2762	Revisionist Western
+2763	Clint Black
+2764	Woodland Hills
+2765	Jemaine Clement
+2766	David Watkin
+2767	Ruth Prawer Jhabvala
+2768	Danville
+2769	Pasco County
+2770	Tyne and Wear
+2771	Arizona
+2772	Leonard Nimoy
+2773	Erich Wolfgang Korngold
+2774	Torquay
+2775	Tampa Bay Buccaneers
+2776	wind instrument
+2777	French horn
+2778	1896 Summer Olympics
+2779	John Cale
+2780	Jeff Garlin
+2781	Madeline Kahn
+2782	Nordic combined
+2783	Florida A&M University
+2784	Livonia
+2785	Seth MacFarlane
+2786	Mississippi
+2787	Exeter
+2788	Marcel Duchamp
+2789	technology
+2790	Julie Christie
+2791	Mainz
+2792	Botswana
+2793	Greater Manchester
+2794	Chillicothe
+2795	Ludwig von Mises
+2796	Macau
+2797	Lynwood
+2798	David Paymer
+2799	Carolina Panthers
+2800	Devon
+2801	Amtrak
+2802	piano
+2803	Kerala
+2804	Vicenza
+2805	Daniel Radcliffe
+2806	Puerto Ricans
+2807	Cairns
+2808	sketch comedy
+2809	Quebec
+2810	Slough
+2811	Pontiac
+2812	Kagoshima
+2813	Northumberland
+2814	golf
+2815	Branford Marsalis
+2816	Cremona
+2817	Lafayette
+2818	Taipei
+2819	Nepal
+2820	Frank Oz
+2821	Scottsdale
+2822	Boulogne-Billancourt
+2823	El Salvador
+2824	Alison Krauss
+2825	Niger
+2826	Edmonton
+2827	Stavanger
+2828	Barbados
+2829	Stamford
+2830	Schenectady
+2831	Daytona Beach
+2832	rhythmic gymnastics
+2833	Alan Silvestri
+2834	Nora Ephron
+2835	Pittsfield
+2836	John Powell
+2837	Malibu
+2838	David Brin
+2839	David O. Selznick
+2840	New Rochelle
+2841	sociology
+2842	Kyra Sedgwick
+2843	Adrien Brody
+2844	alpha-tocopherol
+2845	region of Kyrgyzstan
+2846	Genoa
+2847	David Warner
+2848	Piper Laurie
+2849	Elizabeth Taylor
+2850	Jay Chou
+2851	Just Blaze
+2852	Robert Klein
+2853	Anthony Newley
+2854	Mozambique
+2855	Michael Ironside
+2856	Merthyr Tydfil
+2857	Shia LaBeouf
+2858	Karlsruhe
+2859	Arkansas
+2860	James L. Brooks
+2861	Gyeonggi Province
+2862	Bangkok
+2863	Lewis Black
+2864	Pixar
+2865	Eswatini
+2866	Mark Mancina
+2867	New England
+2868	Wimbledon
+2869	Billy Wilder
+2870	Jennifer Connelly
+2871	Amy Irving
+2872	London Borough of Camden
+2873	pork
+2874	Ilaiyaraaja
+2875	Atlanta Falcons
+2876	Michael Curtiz
+2877	Ricky Jay
+2878	Hanover
+2879	Central African Republic
+2880	George Strait
+2881	Fred Astaire
+2882	Provo
+2883	Elie Samaha
+2884	Cork
+2885	New Caledonia
+2886	James Wilby
+2887	County Donegal
+2888	David Strathairn
+2889	Margaret Cho
+2890	Dominica
+2891	Friedrich Nietzsche
+2892	Emeric Pressburger
+2893	Van Nuys
+2894	St Andrews
+2895	Merle Haggard
+2896	Havana
+2897	Mercer County
+2898	Shizuoka Prefecture
+2899	interview
+2900	Sarnia
+2901	Zeeland
+2902	Shelby County
+2903	Julia Roberts
+2904	Diana Krall
+2905	North Rhine-Westphalia
+2906	Cebu
+2907	Kevin Jonas
+2908	Itzhak Perlman
+2909	Carol Kane
+2910	Franz Waxman
+2911	Cleveland Browns
+2912	College Park
+2913	Madagascar
+2914	Dallas Cowboys
+2915	Minnesota
+2916	Jerry Bruckheimer
+2917	Norman Mailer
+2918	George Cukor
+2919	West Hollywood
+2920	Huntington
+2921	contemporary hit radio
+2922	Garland
+2923	Pauly Shore
+2924	Richard Rorty
+2925	Budapest
+2926	Nicosia
+2927	Corpus Christi
+2928	David Shore
+2929	Rocky Mount
+2930	Joy Bryant
+2931	Steve Tisch
+2932	Frankfort
+2933	Ben Hecht
+2934	cholesterol
+2935	Evanston
+2936	Kansas
+2937	Yerevan
+2938	Fort Wayne
+2939	Danny Trejo
+2940	synchronized swimming
+2941	Graham King
+2942	Garry Shandling
+2943	Joplin
+2944	Harbin
+2945	Charlestown
+2946	Sarah Michelle Gellar
+2947	Louis Daniel Amstrong
+2948	Williamsburg
+2949	Waco
+2950	Sienna Guillory
+2951	Larry Miller
+2952	Adam Goldberg
+2953	Salt Lake City
+2954	Great Yarmouth
+2955	Gary Busey
+2956	Cheyenne
+2957	Troy
+2958	Equatorial Guinea
+2959	Jerry Lewis
+2960	Ronald Harwood
+2961	Amarillo
+2962	Gulfport
+2963	Harrogate
+2964	Yuvan Shankar Raja
+2965	Bebe Neuwirth
+2966	Dakar
+2967	County Tipperary
+2968	Ayn Rand
+2969	Fife
+2970	Montpellier
+2971	Texas
+2972	Joaquin Phoenix
+2973	Russian Soviet Federative Socialist Republic
+2974	Thousand Oaks
+2975	Flagstaff
+2976	Kansai region
+2977	Wilkes-Barre
+2978	Asheville
+2979	Nagasaki
+2980	Greenland
+2981	Guangzhou
+2982	Rashida Jones
+2983	Canadian Armed Forces
+2984	Parliament of Canada
+2985	Marvin Hamlisch
+2986	Oakville
+2987	Gina Gershon
+2988	Charles Sanders Peirce
+2989	Greensburg
+2990	African popular music
+2991	United States Fish and Wildlife Service
+2992	Gordon Brown
+2993	Salem
+2994	Peter David
+2995	Eau Claire
+2996	Youngstown
+2997	Bologna
+2998	Mogadishu
+2999	Johnstown
+3000	Fred Armisen
+3001	non-fiction
+3002	Rachel Bilson
+3003	Austria-Hungary
+3004	Ontario
+3005	Poughkeepsie
+3006	Camberwell
+3007	Saint Vincent and the Grenadines
+3008	Jean-Paul Sartre
+3009	Leipzig
+3010	spoken word
+3011	Sheldon Leonard
+3012	Worthing
+3013	Bill Conti
+3014	Rick Nowels
+3015	Omaha
+3016	Image Entertainment
+3017	Frank Gehry
+3018	Ithaca
+3019	Augustine of Hippo
+3020	Great Falls
+3021	Doncaster
+3022	Los Angeles Chargers
+3023	Zagreb
+3024	Faroe Islands
+3025	Alameda
+3026	Regina
+3027	Saudi Arabia
+3028	Hal David
+3029	Christmas music
+3030	Nicholas Tse
+3031	Frederick
+3032	Jerry Goldsmith
+3033	Groucho Marx
+3034	Somerset
+3035	Whoopi Goldberg
+3036	Lynchburg
+3037	Santo Domingo
+3038	Emma Thompson
+3039	Minden
+3040	Torrance
+3041	Joseph Ruttenberg
+3042	Woking
+3043	Melvyn Douglas
+3044	Melaka
+3045	whodunit
+3046	Aaron Spelling
+3047	Brad Grey
+3048	Larry Charles
+3049	Hawaii
+3050	Saint John
+3051	Tom Arnold
+3052	Mountain View
+3053	Sault Ste. Marie
+3054	Leon Trotsky
+3055	Eureka
+3056	Russians
+3057	David S. Goyer
+3058	Sarah Silverman
+3059	Kenosha
+3060	Mark Cuban
+3061	Cheltenham
+3062	Carl Davis
+3063	Tejano music
+3064	Jack Kirby
+3065	Marburg
+3066	Anthony Horowitz
+3067	musical
+3068	Jason Isaacs
+3069	Mimi Rogers
+3070	Ludacris
+3071	Paterson
+3072	Carl Jung
+3073	logic
+3074	East Timor
+3075	Kansas City Chiefs
+3076	Indiana
+3077	Sam Mendes
+3078	Central Intelligence Agency
+3079	Kharkiv
+3080	Carnatic music
+3081	Robert Pattinson
+3082	Allen Ginsberg
+3083	London Borough of Enfield
+3084	Bournemouth
+3085	La Jolla
+3086	Rosario
+3087	Greenwood
+3088	properties of water
+3089	Tom Scott
+3090	State of Mexico
+3091	Nassau
+3092	Shirley Ann Russell
+3093	Matt LeBlanc
+3094	Karl Marx
+3095	Seville
+3096	West Palm Beach
+3097	Aachen
+3098	Rotherham
+3099	Eli Roth
+3100	Australian English
+3101	Paul Mazursky
+3102	Loreena McKennitt
+3103	Fort Myers
+3104	Harry Shearer
+3105	synthesizer
+3106	Bhutan
+3107	New Mexico
+3108	Fredericksburg
+3109	Paisley
+3110	Southport
+3111	Laos
+3112	Lee J. Cobb
+3113	Takoma Park
+3114	Ukrainian Soviet Socialist Republic
+3115	Chris Pine
+3116	Terre Haute
+3117	Parma
+3118	Bend
+3119	Howard Shore
+3120	Edmund Husserl
+3121	Georg Wilhelm Friedrich Hegel
+3122	Stan Lee
+3123	Hayward
+3124	Camryn Manheim
+3125	Prague
+3126	Chandler
+3127	Bea Arthur
+3128	Lille
+3129	Suva
+3130	aesthetics
+3131	Penzance
+3132	Srinagar
+3133	Albert Einstein
+3134	Morgantown
+3135	Megan Fox
+3136	John Locke
+3137	Alan Arkin
+3138	Neath
+3139	Kentucky
+3140	Wolfgang Amadeus Mozart
+3141	Jason Schwartzman
+3142	Rawalpindi
+3143	Walter Matthau
+3144	Zach Braff
+3145	Anchorage
+3146	Wollongong
+3147	Ben Stiller
+3148	Lesley Sharp
+3149	Irish Americans
+3150	animal
+3151	Benjamin Bratt
+3152	Guelph
+3153	Humboldt County
+3154	Derbyshire
+3155	Corey Feldman
+3156	Blackburn
+3157	John Cage
+3158	Fort Collins
+3159	Andorra
+3160	Harold Pinter
+3161	Zambia
+3162	Warrington
+3163	David Attenborough
+3164	Plano
+3165	Sydney Pollack
+3166	Harrisburg
+3167	Cape Verde
+3168	Jay Roach
+3169	Steve Jobs
+3170	Taylor Lautner
+3171	Groningen
+3172	choline
+3173	Maldives
+3174	Brunswick
+3175	Greater London
+3176	Virginia Madsen
+3177	South Dakota
+3178	Eindhoven
+3179	San Angelo
+3180	Adolph Zukor
+3181	Uppsala
+3182	Livingston
+3183	Beijing
+3184	Cranston
+3185	Vince Vaughn
+3186	Hunan
+3187	Elmira
+3188	David Arnold
+3189	Marylebone
+3190	Natchitoches
+3191	Michael Rosenbaum
+3192	Adrian
+3193	Neuilly-sur-Seine
+3194	Louisiana
+3195	Sacha Baron Cohen
+3196	Matt Lucas
+3197	David Beckham
+3198	Peter Lorre
+3199	professional wrestling
+3200	Bratislava
+3201	Key West
+3202	Redding
+3203	Jessalyn Gilsig
+3204	Haifa
+3205	Harrow
+3206	(E)-phytonadione
+3207	Douglas Haig, 1st Earl Haig
+3208	Judd Hirsch
+3209	Harvey Keitel
+3210	Gottfried Wilhelm Leibniz
+3211	linguistics
+3212	business
+3213	time travel
+3214	Henry Mancini
+3215	Toulouse
+3216	Guildhall School of Music and Drama
+3217	Pacific Palisades
+3218	Fred Zinnemann
+3219	Billy Bob Thornton
+3220	John Houseman
+3221	William Wyler
+3222	William James
+3223	psychology
+3224	Lena Headey
+3225	Brampton
+3226	Alan Turing
+3227	Glens Falls
+3228	Sylvia Sidney
+3229	Tajikistan
+3230	college
+3231	Charlottetown
+3232	Emma Watson
+3233	Carrie Fisher
+3234	Saint Lucia
+3235	Jennifer Ehle
+3236	Bucharest
+3237	Scott Glenn
+3238	Aristotle
+3239	Lakewood
+3240	Huddersfield
+3241	Rockville
+3242	Busan
+3243	Tim Blake Nelson
+3244	Shirley Henderson
+3245	Charlie Kaufman
+3246	Joel Schumacher
+3247	Darren Aronofsky
+3248	Mel Brooks
+3249	Matt Damon
+3250	Brett Ratner
+3251	Vilnius
+3252	Yorkshire
+3253	Amazon.co.jp
+3254	Vanuatu
+3255	Greenwich
+3256	baseball
+3257	Tupelo
+3258	Cheshire
+3259	Thuringia
+3260	Alicia Silverstone
+3261	education
+3262	San Bernardino
+3263	Steven Bauer
+3264	Trenton
+3265	North Yorkshire
+3266	Belleville
+3267	Leelee Sobieski
+3268	Utah
+3269	Yul Brynner
+3270	Lagos
+3271	theremin
+3272	Cumbria
+3273	Lauren Bacall
+3274	Johnny Carson
+3275	Rob Reiner
+3276	Harlow
+3277	French Polynesia
+3278	anthology series
+3279	Laguna Beach
+3280	Bochum
+3281	conceptual art
+3282	anti-war movement
+3283	Erfurt
+3284	Saul Bellow
+3285	Allium cepa
+3286	Chicago blues
+3287	Seth Meyers
+3288	Richard Benjamin
+3289	Basil Poledouris
+3290	Martin Balsam
+3291	Avicenna
+3292	20th Century Studios
+3293	County Cork
+3294	superhero
+3295	Falls Church
+3296	Chico
+3297	Clive Davis
+3298	Longview
+3299	Joe Pasternak
+3300	Kōbe
+3301	Spartanburg
+3302	Jim Clark
+3303	Stockton
+3304	John Mahoney
+3305	Vicksburg
+3306	Chris Penn
+3307	Tuscaloosa
+3308	Judah Friedlander
+3309	Nebraska
+3310	Rio Grande do Sul
+3311	Anniston
+3312	Riga
+3313	Tony Kushner
+3314	David Hume
+3315	Bilbao
+3316	Salma Hayek
+3317	Taunton
+3318	Folkestone
+3319	Murray Rothbard
+3320	Honduras
+3321	Albert Brooks
+3322	Oaxaca
+3323	Waterford
+3324	Katie Couric
+3325	Joe Shuster
+3326	Al Franken
+3327	Julianna Margulies
+3328	Gabon
+3329	Rafael Nadal
+3330	Northamptonshire
+3331	Minot
+3332	Michael Balcon
+3333	Western Australia
+3334	Christmas
+3335	Sidney Sheldon
+3336	space opera
+3337	David Tennant
+3338	Middletown
+3339	Winchester
+3340	Petaluma
+3341	St. Augustine
+3342	South Shields
+3343	Amanda Peet
+3344	Bernard Herrmann
+3345	Stuart Duncan
+3346	Winona Ryder
+3347	Jack Benny
+3348	Sudan
+3349	Joseph Heller
+3350	Lucerne
+3351	Alec Baldwin
+3352	Jay Baruchel
+3353	David Geffen
+3354	Steubenville
+3355	John Schlesinger
+3356	Matt Stone
+3357	Siena
+3358	Tony Shalhoub
+3359	Virgin Mary
+3360	Danny Kaye
+3361	Johann Sebastian Bach
+3362	broccoli
+3363	Oliver Stone
+3364	Nuremberg
+3365	Paul Reiser
+3366	Bay City
+3367	Newburgh
+3368	Grey DeLisle
+3369	Suriname
+3370	Palm Springs
+3371	Tehran
+3372	Doris Roberts
+3373	McCoy Tyner
+3374	Tasmania
+3375	Jennifer Jason Leigh
+3376	Valdosta
+3377	Amy Ryan
+3378	Maidstone
+3379	chamber music
+3380	Claude Debussy
+3381	Benjamin Britten
+3382	H. P. Lovecraft
+3383	Buzz Aldrin
+3384	Minato-ku
+3385	martial arts
+3386	Hugh Grant
+3387	Missoula
+3388	Peter Berg
+3389	Saginaw
+3390	Padua
+3391	Daegu
+3392	Haarlem
+3393	Kevin McCarthy
+3394	Anton Yelchin
+3395	Claremont
+3396	Dean Devlin
+3397	Tom Cruise
+3398	Patrick Warburton
+3399	Gloucester
+3400	Penang
+3401	Jeff Goldblum
+3402	Arnhem
+3403	West Bromwich
+3404	Richard Dreyfuss
+3405	Gertrude Stein
+3406	Paul Newman
+3407	John Huston
+3408	Craig Ferguson
+3409	Orange
+3410	Wexford
+3411	absurdism
+3412	Guyana
+3413	Upland
+3414	Harvey Fierstein
+3415	Ron Carter
+3416	Livorno
+3417	Christopher Hitchens
+3418	Steve Schirripa
+3419	expressionism
+3420	Freddie Prinze
+3421	Perth Amboy
+3422	Jesse Eisenberg
+3423	Ron Silver
+3424	Duke Ellington
+3425	Pamela Anderson
+3426	Eva Longoria
+3427	Matthew Broderick
+3428	American Samoa
+3429	Richard Strauss
+3430	Plato
+3431	Selma
+3432	Ames
+3433	Ernst Lubitsch
+3434	Ilford
+3435	Russell Crowe
+3436	Grenoble
+3437	David Niven
+3438	Ron Perlman
+3439	Hobart
+3440	Guatemala City
+3441	Saul Rubinek
+3442	Styria
+3443	Brunei
+3444	Lincolnshire
+3445	Vladimir Horowitz
+3446	Anne Hathaway
+3447	George Orwell
+3448	Panama City
+3449	Kokomo
+3450	Elliot Goldenthal
+3451	Downey
+3452	Howie Mandel
+3453	Pensacola
+3454	Kent
+3455	Rachel Weisz
+3456	Mike Leigh
+3457	Roman Polanski
+3458	white cabbage
+3459	Catherine Keener
+3460	carrot
+3461	social issue
+3462	Courteney Cox
+3463	Jason Segel
+3464	Cayman Islands
+3465	Lorain
+3466	Hangzhou
+3467	Regensburg
+3468	Bengaluru
+3469	Stephen Frears
+3470	Rita Hayworth
+3471	Grenada
+3472	Hillsboro
+3473	Costa Mesa
+3474	Square Enix
+3475	Casablanca
+3476	North Hollywood
+3477	Seth Rogen
+3478	Lance Henriksen
+3479	Alan J. Pakula
+3480	Eugene Levy
+3481	Ben Stein
+3482	Bronxville
+3483	Bordeaux
+3484	Norristown
+3485	Scarlett Johansson
+3486	Eric Dane
+3487	Evansville
+3488	Jacques Lacan
+3489	Harrison Ford
+3490	Barnet
+3491	Ian Somerhalder
+3492	Easton
+3493	Mani Ratnam
+3494	East Lansing
+3495	Boris Karloff
+3496	Hagerstown
+3497	Cheech Marin
+3498	chicken
+3499	Muskogee
+3500	Anne V. Coates
+3501	David Arquette
+3502	Maya Rudolph
+3503	David Schwimmer
+3504	Sofia
+3505	Salzburg
+3506	Porto
+3507	English people
+3508	Laurie Anderson
+3509	autobiography
+3510	Jonah Hill
+3511	Pampanga
+3512	Trieste
+3513	Clint Howard
+3514	Ben Sahar
+3515	West Virginia
+3516	pear
+3517	Ayr
+3518	Myrtle Beach
+3519	Richard Feynman
+3520	Miami Beach
+3521	Duluth
+3522	Johann Wolfgang von Goethe
+3523	Odense
+3524	Jamie-Lynn Sigler
+3525	Jodie Foster
+3526	Chesterfield
+3527	Buckinghamshire
+3528	Durban
+3529	Kathmandu
+3530	Poole
+3531	William Goldman
+3532	Sammy Cahn
+3533	Hilo
+3534	Modena
+3535	Nathan H. Juran
+3536	Stepney
+3537	Grand Forks
+3538	Michel Foucault
+3539	Hampstead
+3540	Natalie Portman
+3541	Nevada
+3542	Preston
+3543	Goldie Hawn
+3544	Ken Adam
+3545	Harold Ramis
+3546	Edward Shearmur
+3547	Pine Bluff
+3548	Elijah Wood
+3549	Bavaria
+3550	Peter Morgan
+3551	Isaac Asimov
+3552	Newfoundland
+3553	Jacques Derrida
+3554	Davenport
+3555	Yanni
+3556	Mike Nichols
+3557	State College
+3558	Bill Clinton
+3559	Eli Wallach
+3560	Jack Warner
+3561	Paul Auster
+3562	Richard Price
+3563	Menlo Park
+3564	Walnut Creek
+3565	ballet
+3566	Trisha Krishnan
+3567	George Gershwin
+3568	George Fenton
+3569	Bill Pullman
+3570	San Marino
+3571	Logan
+3572	Essex County
+3573	Cook Islands
+3574	Bedford
+3575	Dougray Scott
+3576	San Mateo
+3577	Lyndon B. Johnson
+3578	Salisbury
+3579	Thomas Aquinas
+3580	Sharon Osbourne
+3581	Verona
+3582	Georgetown
+3583	Federated States of Micronesia
+3584	Paul Rudd
+3585	Nicole Kidman
+3586	Eddie Izzard
+3587	Bendigo
+3588	Kassel
+3589	Brno
+3590	Halle (Saale)
+3591	Kiribati
+3592	Comoros
+3593	David Simon
+3594	Medford
+3595	Joseph Haydn
+3596	County Kildare
+3597	Seth Green
+3598	Natasha Richardson
+3599	Adolph Green
+3600	Jon Favreau
+3601	Nancy
+3602	House of Commons
+3603	Oak Park
+3604	Theodor W. Adorno
+3605	Claude Berri
+3606	ethics
+3607	Japanese people
+3608	Robbie Coltrane
+3609	Kate Hudson
+3610	Ernest Rutherford
+3611	Siobhan Finneran
+3612	Bremen
+3613	Peter Sellers
+3614	Green Bay
+3615	Nino Rota
+3616	Fred Ebb
+3617	Nassar
+3618	County Kilkenny
+3619	Shannon Elizabeth
+3620	Contra Costa County
+3621	oboe
+3622	David Krumholtz
+3623	Bob Kane
+3624	Hattiesburg
+3625	Brockton
+3626	Tori Spelling
+3627	Helen Hunt
+3628	Andy Samberg
+3629	James Levine
+3630	Alex Borstein
+3631	Dan Hedaya
+3632	David Mamet
+3633	Angela Lansbury
+3634	Lee Grant
+3635	Jake Gyllenhaal
+3636	cricket
+3637	Northridge
+3638	Billings
+3639	Samuel Z. Arkoff
+3640	David Cross
+3641	David Cronenberg
+3642	Guam
+3643	mathematics
+3644	Robert Downey, Jr.
+3645	Danny McBride
+3646	Oman
+3647	Darren Star
+3648	University of Colorado Boulder
+3649	Verity Lambert
+3650	J. D. Salinger
+3651	Alan Rickman
+3652	Tours
+3653	beef
+3654	Alan Cumming
+3655	Peter Bogdanovich
+3656	Ludwig van Beethoven
+3657	Meena
+3658	Gil Kane
+3659	Leo Strauss
+3660	Crispin Glover
+3661	Carl Sagan
+3662	Selma Blair
+3663	George Burns
+3664	Barbara Hershey
+3665	Richard Brooks
+3666	Vijay
+3667	Peter Hyams
+3668	Henry Winkler
+3669	Steve Guttenberg
+3670	Sandra Bernhard
+3671	Antony Sher
+3672	skateboarding
+3673	Pavia
+3674	Arnon Milchan
+3675	Donald Sumpter
+3676	Daniel Barenboim
+3677	D-fructose (open structure)
+3678	James McAvoy
+3679	Roanoke
+3680	Baku
+3681	Muncie
+3682	Ariel Sharon
+3683	South Bend
+3684	Marcel Proust
+3685	Damascus
+3686	Dordrecht
+3687	The Gambia
+3688	Blue Ridge Mountains
+3689	Niels Bohr
+3690	Isaac Stern
+3691	Kim Kardashian
+3692	Nova Scotia
+3693	Tilda Swinton
+3694	Canadian Broadcasting Corporation
+3695	Innsbruck
+3696	Walter Scott
+3697	Billy Connolly
+3698	Franz Schubert
+3699	Jon Stewart
+3700	William Shatner
+3701	Iain Glen
+3702	Friedrich Hayek
+3703	Micropterus salmoides
+3704	apple
+3705	Bob Balaban
+3706	Minnie Driver
+3707	Niigata Prefecture
+3708	Rachel Portman
+3709	Kettering
+3710	Kelly Macdonald
+3711	Alexander Korda
+3712	Muskegon
+3713	Edward Elgar
+3714	Cecil B. DeMille
+3715	melodica
+3716	Sioux City
+3717	bassoon
+3718	Brooke Shields
+3719	Binghamton
+3720	DuPage County
+3721	Mischa Barton
+3722	Galway
+3723	Kenneth Branagh
+3724	Franz Liszt
+3725	finance
+3726	Robert Carlyle
+3727	Ron Howard
+3728	Gwinnett County
+3729	Michael Lerner
+3730	Bill Maher
+3731	Aaron Sorkin
+3732	Gwyneth Paltrow
+3733	Amanda Bynes
+3734	Kamal Haasan
+3735	astronomy
+3736	Hema Malini
+3737	Christian Slater
+3738	San Luis Obispo
+3739	Texarkana
+3740	Veracruz
+3741	Council Bluffs
+3742	Montana
+3743	Los Angeles County
+3744	Valencia
+3745	John Dewey
+3746	Kristen Wiig
+3747	Sergei Rachmaninoff
+3748	Persea americana
+3749	Ypsilanti
+3750	Lucille Ball
+3751	Kevin Costner
+3752	David Shire
+3753	M. Night Shyamalan
+3754	British Virgin Islands
+3755	Jessica Biel
+3756	economics
+3757	Robert Schumann
+3758	Eliza Dushku
+3759	saxophone
+3760	Susan Sarandon
+3761	glockenspiel
+3762	Christianity
+3763	Johnny Green
+3764	Idaho
+3765	Dave Grusin
+3766	saccharose
+3767	Saint Kitts and Nevis
+3768	Rouen
+3769	N. Santhanam
+3770	Barack Obama
+3771	Carla Gugino
+3772	Charlton Heston
+3773	Frances Fisher
+3774	Caen
+3775	William Baldwin
+3776	Gibraltar
+3777	Kirk Franklin
+3778	Yo-Yo Ma
+3779	Betty White
+3780	clarinet
+3781	Clint Eastwood
+3782	Nauru

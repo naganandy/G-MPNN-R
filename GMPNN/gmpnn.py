@@ -12,19 +12,19 @@ log = args.logger
 
 # load data 
 from data import data
-incidence, splits = data.Loader(args).load()
-log.info("Train set has " + str(len(splits['train_valid']['train'])) + " batches")
+structure, splits = data.Loader(args).load()
+log.info("Train set has " + str(len(splits['train_valid']['train'])) + " batches.\n")
 
 
 
 # load model
 from model import model
-GMPNN = model.GMPNN(incidence, args)
+GMPNN = model.GMPNN(structure, args)
 GMPNN.summary(log)
 
 
 
 # train, test model
 GMPNN.learn(splits['train_valid'])
-log.info(GMPNN.test(splits['train_valid']['valid']))
+log.info("Testing the model...")
 log.info(GMPNN.test(splits['test']))

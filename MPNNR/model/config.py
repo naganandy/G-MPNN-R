@@ -3,8 +3,8 @@ data parameters
 data: cora / dblp / arXiv / acm
 split: train-test split used for the dataset
 '''
-data = "cora"
-split = 1
+data = "dblp"
+split = 2
 
 
 
@@ -12,9 +12,11 @@ split = 1
 model parameters
 h: number of hidden dimensions
 drop: hidden droput
+relu: flag for relu non-linearity
 '''
-h = 32
+h = 1024
 drop = 0.0
+relu = False
 
 
 
@@ -37,7 +39,7 @@ seed: initial seed value
 log: log on file (true) or print on console (false)
 '''
 gpu = 0
-seed = 404
+seed = 42
 log = False
 
 
@@ -49,11 +51,18 @@ def parse():
     """
     p = argparse.ArgumentParser()
     p = argparse.ArgumentParser(description="Inductive Vertex Embedding on Multi-Relational Ordered Hypergraphs")
+
+    def str2bool(v):
+        if isinstance(v, bool): return v
+        if v.lower() in ('no', 'false', 'f', 'n', '0'): return False
+        else: return True
+
     p.add_argument('--data', type=str, default=data, help='data name (FB-AUTO)')
     p.add_argument('--split', type=str, default=split, help='train-test split used for the dataset')
 
     p.add_argument('--h', type=int, default=h, help='number of hidden dimensions')
     p.add_argument('--drop', type=float, default=drop, help='hidden droput')
+    p.add_argument("--relu", default=relu, type=str2bool, help="flag for relu non-linearity")
 
     p.add_argument('--lr', type=float, default=lr, help='learning rate')
     p.add_argument('--epochs', type=int, default=epochs, help='number of epochs')
@@ -61,11 +70,6 @@ def parse():
     
     p.add_argument('--gpu', type=int, default=gpu, help='gpu number')
     p.add_argument('--seed', type=int, default=seed, help='initial seed value')
-
-    def str2bool(v):
-        if isinstance(v, bool): return v
-        if v.lower() in ('no', 'false', 'f', 'n', '0'): return False
-        else: return True
     p.add_argument("--log", default=log, type=str2bool, help="log on file (true) or print on console (false)")
     
     p.add_argument('-f') # for jupyter default

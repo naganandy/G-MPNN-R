@@ -1,8 +1,8 @@
 '''
 data parameters
-data: FB-AUTO / M-FB15K
+data: WP-IND 
 '''
-data = "FB-AUTO"
+data = "WP-IND"
 
 
 
@@ -12,7 +12,7 @@ gpu: gpu number (range: {0, 1, 2, 3, 4, 5, 6, 7})
 seed: initial seed value
 w: number of workers
 '''
-gpu = 2
+gpu = 0
 seed = 42
 w = 10
 
@@ -25,7 +25,7 @@ B: evaluation batch size
 nr: negative ratio
 '''
 b = 128
-B = 32
+B = 4
 nr = 10
 
 
@@ -36,9 +36,9 @@ d: number of inital dimensions
 h: number of hidden dimensions
 drop: hidden droput
 '''
-d = 256
-h = 128
-drop = 0.2
+d = 64
+h = 150
+drop = 0.5
 
 
 
@@ -49,13 +49,20 @@ epochs: number of epochs
 v: frequency of validation
 '''
 lr = 0.0005
-epochs = 1000
-v = 50
+epochs = 5000
+v = 5
 
 
 
-# log: log on file (true) or print on console (false)
-log = True
+'''
+miscellaneous parameters
+agg: aggregation stategy (max / sum / mean)
+s: scaling factor for aggregation
+log: log on file (True) or print on console (False)
+'''
+agg = 'max'
+s = 10000
+log = False
 
 
 
@@ -84,11 +91,13 @@ def parse():
     p.add_argument('--epochs', type=int, default=epochs, help='number of epochs')
     p.add_argument('--v', type=int, default=v, help='frequency of validation')
     
+    p.add_argument('--agg', type=str, default=agg, help='aggregation stategy (max / sum / mean)')
+    p.add_argument('--s', type=float, default=s, help='scaling factor for aggregation')
     def str2bool(v):
         if isinstance(v, bool): return v
         if v.lower() in ('no', 'false', 'f', 'n', '0'): return False
         else: return True
-    p.add_argument("--log", default=log, type=str2bool, help="log on file (true) or print on console (false)")
+    p.add_argument("--log", default=log, type=str2bool, help="log on file (True) or print on console (False)")
     
     p.add_argument('-f') # for jupyter default
     return p.parse_args()
@@ -101,13 +110,13 @@ class Logger():
         '''
         Initialise logger 
         '''
-        # setup checkpoint directory
+        # setuplog checkpoint directory
         current = os.path.abspath(inspect.getfile(inspect.currentframe()))
         Dir = os.path.join(os.path.split(os.path.split(current)[0])[0], "checkpoints")
         self.log = args.log
         
         # setup log file  
-        if args.log: 
+        if self.log:       
             if not os.path.exists(Dir): os.makedirs(Dir)
             name = str(len(os.listdir(Dir)) + 1)
             
@@ -129,7 +138,7 @@ class Logger():
 
 
 
-import torch, numpy as np
+import torch, numpy as np, random
 def setup():
     
     # parse arguments
@@ -140,13 +149,14 @@ def setup():
 
     # log configuration
     l = ['']*(len(D)-1) + ['\n\n']
-    args.logger.info("Arguments are as follows")
+    args.logger.info("Arguments are as follows.")
     for i, k in enumerate(D): args.logger.info(k + " = " + str(D[k]) + l[i]) 
 
 
     # set seed
     torch.manual_seed(args.seed)
     np.random.seed(args.seed)
+    random.seed(args.seed)
     os.environ['PYTHONHASHSEED'] = str(args.seed) 
 
 

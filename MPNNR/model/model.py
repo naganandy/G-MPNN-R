@@ -64,10 +64,10 @@ class MPNN(torch.nn.Module):
     def __init__(self, data, p):
         super(MPNN, self).__init__()
 
-        A = data['A']
+        A = data['A'].to(p.device)
         d, h, c = data['d'], p.h, data['c']
 
-        L = [MessagePassing(A, d, h, p.drop), MessagePassing(A, h, c, p.drop, out=True)]
+        L = [MessagePassing(A, d, h, p), MessagePassing(A, h, c, p, out=True)]
         self.layers = torch.nn.Sequential(*L)
         self.X = torch.FloatTensor(utils.normalise(data['X'])).to(p.device)
 
@@ -78,10 +78,10 @@ class MPNN(torch.nn.Module):
 
 class MessagePassing(Module):
 
-    def __init__(self, A, i, o, d, out=False):
+    def __init__(self, A, i, o, p, out=False):
         super(MessagePassing, self).__init__()
         
-        self.A, self.d = A, d
+        self.A, self.d, self.relu = A, p.drop, p.relu
         self.linear = torch.nn.Linear(i, o)
         self.out = out
         
@@ -91,7 +91,7 @@ class MessagePassing(Module):
         H = self.linear.forward(X)
         
         H = torch.spmm(A, H)
-        #if not self.out: H = F.relu(H)
+        if not self.out and self.relu: H = F.relu(H)
         if not self.out: H = F.dropout(H, self.d, training=self.training)
 
         return H

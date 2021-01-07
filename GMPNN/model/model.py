@@ -1,4 +1,5 @@
-import torch, numpy as np, os
+import numpy as np, os, uuid
+import torch, torch.nn as nn
 from torch.nn.init import xavier_normal_
 
 from tqdm import tqdm
@@ -8,14 +9,30 @@ from model import utils
 
 
 class GMPNN():
-    def __init__(self, I, p): 
+    def __init__(self, S, p): 
         
-        self.model = MessagePassing(p).to(p.device)
+        V = torch.ones(p.n, p.d).to(p.device)
+        R = torch.ones(p.N, p.d).to(p.device)
+        P = torch.ones(p.m, p.d).to(p.device)
+
+        xavier_normal_(V[1:])
+        xavier_normal_(R[1:])
+        xavier_normal_(P)
+        
+        N = utils.aggregate(S, V, R, P, p).to(p.device)
+        self.model = GeneralisedMessagePassing(N, R, P, p).to(p.device)
+        
         self.opt = torch.optim.Adam(self.model.parameters(), lr=p.lr)
-        self.loss = torch.nn.CrossEntropyLoss()
-        
-        self.cpt = os.path.join(p.dir, 'best.pt')
+        self.loss = nn.CrossEntropyLoss()
         self.p = p
+        
+        if p.log: 
+            self.cpt = os.path.join(p.dir, 'best.pt')
+            self.rnk = os.path.join(p.dir, 'ranks.txt')
+        else: 
+            u = str(uuid.uuid4())
+            self.cpt, self.rnk = 'best_' + u + '.pt', 'ranks_' + u + '.txt'
+        
         
 
     def summary(self, log): log.info("Model is\n" + str(self.model) + "\n\n")
@@ -23,19 +40,19 @@ class GMPNN():
 
     def learn(self, data):
         self.best = 0.0
+        self.p.logger.info("Training the model (validating every " + str(self.p.v) + " epochs)...")
 
         epochs = tqdm(range(self.p.epochs), unit="epoch")
         for e in epochs:
             loss = self._fit(data['train'])
             
-            if ((e+1)%self.p.v==0):
+            if (e%self.p.v==0):
                  results = self.test(data['valid'], load=False)
                  if results['mrr'] > self.best: 
                     self.best = results['mrr']
                     torch.save(self.model.state_dict(), self.cpt)
 
-            epochs.set_postfix(loss=loss, Best=self.best)
-            epochs.set_description('{}/{}'.format(e, self.p.epochs))
+            epochs.set_postfix(loss=loss, best=self.best)
             epochs.update()
 
 
@@ -43,8 +60,8 @@ class GMPNN():
         self.model.train()
         losses = []
 
-        for i, b in enumerate(data):
-            batch = self._cast(b)
+        for batch in data:
+            batch = self._cast(batch)
             out = self.model.forward(batch)
             loss = self._loss(out, batch['l'])
 
@@ -78,49 +95,54 @@ class GMPNN():
 
 
     def test(self, data, load=True):
-        if load: self.model.load_state_dict(torch.load(self.cpt))
-        self.model.eval()
-
-        results, norm = ddict(int), 0
         with torch.no_grad():
-            for i, b in enumerate(data):
-                batch = self._cast(b)
-                out = self.model.forward(batch)
+            if load: self.model.load_state_dict(torch.load(self.cpt))
+            self.model.eval()
 
-                Z = torch.split(out, batch['L'].tolist())
-                results = utils.metrics(Z, results)
-                norm += len(Z) 
+            results, norm = ddict(int), 0
+            with open(self.rnk, "w") as f:
 
+                for batch in data:
+                    b = self._cast(batch)
+                    out = self.model.forward(b)
+
+                    Z = torch.split(out, batch['L'].tolist())
+                    results, ranks = utils.metrics(Z, results)
+                    norm += len(Z) 
+
+                    E = utils.raw(batch, self.p)
+                    for i, e in enumerate(E):
+                        f.write(str(e[0].replace("_", "\t")) + "\n") 
+                        for v in e[1:]: f.write(str(v) + "\t")
+                        f.write("\n")
+                        f.write(str(int(ranks[i][0])))
+                        f.write("\n\n")
+
+        if load and not self.p.log: 
+            os.remove(self.cpt)
+            os.remove(self.rnk)
         return {k: round(v / norm, 5) for k,v in results.items()}
 
 
 
-class MessagePassing(torch.nn.Module):
-    def __init__(self, p):
-        super(MessagePassing, self).__init__()
-        
-        self.d = p.d
-        self.V = torch.nn.Embedding(p.n, self.d, padding_idx=0)
-        self.R = torch.nn.Embedding(p.N, self.d, padding_idx=0)
-        
-        self.init()
-        self.dropout = torch.nn.Dropout(p.drop)
-        
+class GeneralisedMessagePassing(nn.Module):
+    def __init__(self, V, R, P, p):
+        super(GeneralisedMessagePassing, self).__init__()
+                
+        self.V, self.R, self.P = V, R, P
+        self.dropout = nn.Dropout(p.drop)
 
-    def init(self):
-        
-        self.V.weight.data[0] = torch.ones(self.d)
-        self.R.weight.data[0] = torch.ones(self.d)
-        
-        xavier_normal_(self.V.weight.data[1:])
-        xavier_normal_(self.R.weight.data[1:])
+        self.Vl = nn.Linear(p.d+p.i, p.h)
+        self.Rl = nn.Linear(p.d, p.h)
+        self.Pl = nn.Linear(p.d, p.h)
 
 
     def forward(self, batch):
         r = batch['r']
-        x  = self.R(r)
-        
-        for i in range(len(batch['e'])): x =  x * self.V(batch['e'][i])
+        x = self.R[r]
+        x = self.Rl(x)
+
+        for i in range(len(batch['e'])): x =  x * self.Pl(self.P[i]) * self.Vl(self.V[batch['e'][i]])
         x = self.dropout(x)
         x = torch.sum(x, dim=1)
         

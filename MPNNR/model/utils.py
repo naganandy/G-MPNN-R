@@ -60,7 +60,7 @@ def ssm2tst(M):
     returns:
     a torch sparse tensor of M
     """
-    
+
     M = M.tocoo().astype(np.float32)
     
     indices = torch.from_numpy(np.vstack((M.row, M.col))).long()

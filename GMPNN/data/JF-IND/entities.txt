@@ -1,0 +1,4785 @@
+0	English
+1	Sakura Haruno
+2	Naruto the Movie: Guardians of the Crescent Moon Kingdom
+3	Kate Higgins
+4	Summertime Blues
+5	Wii
+6	Guitar Hero: Metallica
+7	Demolition Man
+8	PlayStation 2
+9	Guitar Hero World Tour
+10	Supermassive Black Hole
+11	Guitar Hero III: Legends of Rock
+12	Elena Vesnina
+13	ATP Miami
+14	Martina Hingis
+15	Patrick Stewart
+16	Jean-Luc Picard
+17	Star Trek: The Next Generation (season 1)
+18	Star Trek: The Next Generation
+19	Cleveland Browns
+20	United States dollar
+21	Josh Cribbs
+22	2005–06 NBA season
+23	Steve Nash
+24	Phoenix Suns
+25	NBA Most Valuable Player Award
+26	Old Time Rock and Roll
+27	Dancing with the Stars, season 2
+28	Ashly DelGrosso
+29	Roger Federer
+30	Gerry Weber Open
+31	Lleyton Hewitt
+32	John Guerin
+33	drum
+34	A Merry Little Christmas
+35	1989–90 NBA season
+36	Calvin Natt
+37	Indiana Pacers
+38	Houston Texans
+39	Arian Foster
+40	1990–91 NBA season
+41	Patrick Ewing
+42	New York Knicks
+43	Karin Knapp
+44	French Open
+45	Garbiñe Muguruza
+46	Hungry Like the Wolf
+47	Guitar Hero 5
+48	1995–96 NBA season
+49	Voshon Lenard
+50	Miami Heat
+51	Can't Buy Me Love
+52	Xbox 360
+53	Rock Band 2
+54	keyboard instrument
+55	Apostolis Anthimos
+56	SBB
+57	Lisa Rinna
+58	1976–77 NBA season
+59	John Williamson
+60	Brooklyn Nets
+61	Closer
+62	Michael Hossack
+63	What Were Once Vices Are Now Habits
+64	YYZ
+65	PlayStation 3
+66	1954–55 NBA season
+67	Vern Mikkelsen
+68	Los Angeles Lakers
+69	Mother
+70	Guitar Hero II
+71	2010–11 Serbian First League
+72	Serbian First League
+73	FK Radnički 1923
+74	Jack Sock
+75	Canadian Open
+76	Milos Raonic
+77	Dancing with the Stars, season 6
+78	Shannon Elizabeth
+79	Green Bay Packers
+80	Korey Hall
+81	Daniel Dae Kim
+82	Jin-Soo Kwon
+83	Lost, season 4
+84	Lost
+85	61st Primetime Emmy Awards
+86	Primetime Emmy Award for Outstanding Supporting Actress in a Drama Series
+87	Sandra Oh
+88	Grey's Anatomy
+89	1973–74 NBA season
+90	Jack Marin
+91	Houston Rockets
+92	Janette Husárová
+93	Tímea Babos
+94	Los Angeles Chargers
+95	Mike Tolbert
+96	Stéphanie Foretz
+97	Jana Čepelová
+98	Jesús Navas
+99	2010 FIFA World Cup Final
+100	Pedro
+101	1956–57 NBA season
+102	Tom Heinsohn
+103	Boston Celtics
+104	NBA Rookie of the Year Award
+105	Fernando Verdasco
+106	Samuel Groth
+107	Juventus F.C.
+108	euro
+109	Vincenzo Iaquinta
+110	George Eads
+111	Nick Stokes
+112	CSI: Crime Scene Investigation, season 14
+113	CSI: Crime Scene Investigation
+114	1982–83 NBA season
+115	Bobby Jones
+116	Philadelphia 76ers
+117	Joshua Jackson
+118	Peter Bishop
+119	Fringe, season 2
+120	Fringe
+121	Nenad Zimonjić
+122	Marin Draganja
+123	2010–11 Football League Championship
+124	EFL Championship
+125	2011–12 Football League Championship
+126	Portsmouth F.C.
+127	Cleveland Indians
+128	1954 Major League Baseball season
+129	Early Wynn
+130	Super Smash Bros.
+131	Mario
+132	Charles Martinet
+133	Dancing with the Stars, season 13
+134	Tony Dovolani
+135	Charles Johnson
+136	Golden State Warriors
+137	Seth MacFarlane
+138	Stewie Griffin
+139	Family Guy, season 10
+140	Family Guy
+141	1964–65 NBA season
+142	John Havlicek
+143	forward
+144	Dennis Rommedahl
+145	AFC Ajax
+146	Denmark national association football team
+147	Edyta Śliwińska
+148	Clyde Lovellette
+149	Audience of One
+150	Band Hero
+151	1998–99 NBA season
+152	Anthony Miller
+153	Seattle Sounders FC
+154	Clint Dempsey
+155	1984–85 NBA season
+156	Jeff Turner
+157	1999–2000 NBA season
+158	Greg Anthony
+159	Portland Trail Blazers
+160	ACF Fiorentina
+161	Marko Marin
+162	Dancing with the Stars, season 1
+163	Meowth and Persian
+164	Pokémon: Destiny Deoxys
+165	Maddie Blaustein
+166	1993–94 NBA season
+167	Chris Morris
+168	Bryant Stith
+169	Denver Nuggets
+170	Bob Odenkirk
+171	Saul Goodman
+172	Breaking Bad, season 2
+173	Breaking Bad
+174	Canada
+175	Clara Hughes
+176	2006 Winter Olympics
+177	2003–04 NBA season
+178	Bryon Russell
+179	midfielder
+180	Eyong Enoh
+181	Cameroon national football team
+182	Marcelo Melo
+183	Wimbledon Championships
+184	Mike Bryan
+185	2002–03 NBA season
+186	Mike James
+187	defender
+188	Steve von Bergen
+189	Hertha BSC
+190	Swiss national football team
+191	2009 FA Cup Final
+192	Everton F.C.
+193	David Moyes
+194	1968–69 NBA season
+195	Chet Walker
+196	Cat Scratch Fever
+197	Gary Payton
+198	Seattle SuperSonics
+199	NBA Defensive Player of the Year Award
+200	Pablo Edson Barrera Acosta
+201	Club Universidad Nacional
+202	Mexico national football team
+203	James Bailey
+204	Los Angeles Galaxy
+205	David Beckham
+206	Trabzonspor
+207	Ondřej Čelůstka
+208	Rafael Nadal
+209	Oklahoma City Thunder
+210	Kevin Durant
+211	Before I Forget
+212	1988–89 NBA season
+213	Walter Davis
+214	Jared Padalecki
+215	Sam Winchester
+216	Supernatural, season 9
+217	Supernatural
+218	Denis Istomin
+219	Alexander Peya
+220	Jon Beason
+221	University of Miami
+222	Carolina Panthers
+223	2007 NFL Draft
+224	Bimbo Coles
+225	Ruby
+226	Count Fleet
+227	horse
+228	National Museum of Racing and Hall of Fame
+229	1992–93 NBA season
+230	Joe Wolf
+231	Kennedy McIntosh
+232	1959–60 NBA season
+233	Bailey Howell
+234	Detroit Pistons
+235	Alejandro González
+236	Dominic Inglot
+237	Stuart Elliott
+238	percussion instrument
+239	On Air
+240	Greg Kite
+241	Sacramento Kings
+242	I Love Rock 'n' Roll
+243	Guitar Hero Smash Hits
+244	Robert Parish
+245	Spain national association football team
+246	David Villa
+247	Yakubu
+248	Nigeria national football team
+249	Same Old Song and Dance
+250	4th Screen Actors Guild Awards
+251	Screen Actors Guild Award for Outstanding Performance by a Male Actor in a Leading Role
+252	Dustin Hoffman
+253	Wag the Dog
+254	America's Next Top Model, season 5
+255	Twiggy Lawson
+256	Luisão
+257	S.L. Benfica
+258	Brazil national football team
+259	Sonny Parker
+260	Andrew Barron
+261	Team Wellington
+262	New Zealand national football team
+263	Harry Potter and the Half-Blood Prince
+264	Ron Weasley
+265	Rupert Grint
+266	Kevin Gamble
+267	Santiago Giraldo
+268	Australian Open
+269	Novak Djokovic
+270	Kimiko Date
+271	Anastasia Pavlyuchenkova
+272	Are You Gonna Go My Way
+273	2007–08 NBA season
+274	Austin Croshere
+275	Bunyaviridae
+276	Nairovirus
+277	International Committee on Taxonomy of Viruses
+278	Battery
+279	1972–73 NBA season
+280	Lloyd Neal
+281	1977–78 NBA season
+282	Jim Brewer
+283	Cleveland Cavaliers
+284	Warner Bros. Home Entertainment
+285	Mark of the Vampire
+286	United States of America
+287	Rotterdam Open
+288	Andy Murray
+289	James Remar
+290	Harry Morgan
+291	Dexter, season 8
+292	Dexter
+293	Finley
+294	2000–01 NBA season
+295	John Crotty
+296	Utah Jazz
+297	1978–79 NBA season
+298	Kevin Kunnert
+299	Los Angeles Clippers
+300	Guillermo García López
+301	Gaël Monfils
+302	Everlong
+303	Warren Spahn
+304	1965 Major League Baseball season
+305	1942 Major League Baseball season
+306	Believe
+307	Alex Acuña
+308	conga
+309	Silver Lining
+310	1994–95 NBA season
+311	Sleepy Floyd
+312	Ron Brewer
+313	2012 Summer Olympics
+314	Michael Phelps
+315	swimming at the 2012 Summer Olympics – men's 4 × 200 metre freestyle relay
+316	2010–11 Serie B
+317	Serie B
+318	2012–13 Serie B
+319	A.S. Livorno
+320	The Everlasting Gaze
+321	Karl Malone
+322	Spirochaetaceae
+323	Borrelia
+324	National Center for Biotechnology Information
+325	Derek Anderson
+326	2011–12 Football League One
+327	EFL League One
+328	2012–13 Football League One
+329	Bury F.C.
+330	1991–92 NBA season
+331	Johnny Dawkins
+332	Phil Jackson
+333	Geneva
+334	Liverpool John Lennon Airport
+335	easyJet
+336	Nina Dobrev
+337	Katherine Pierce
+338	The Vampire Diaries, season 4
+339	The Vampire Diaries
+340	Yvonne Meusburger
+341	Abigail Spears
+342	Héctor Moreno
+343	AZ Alkmaar
+344	drum kit
+345	Larry Graham
+346	Graham Central Station
+347	Daniel Nestor
+348	Mahesh Bhupathi
+349	Scott Lipsky
+350	Nicolas Mahut
+351	In the Shadows
+352	Johan Brunström
+353	Klaudia Jans-Ignacik
+354	Scottie Pippen
+355	Chicago Bulls
+356	Las Vegas Raiders
+357	Brandon Myers
+358	division
+359	Australia
+360	Gallipoli campaign
+361	Marnavirus
+362	Giorgos Samaras
+363	Celtic F.C.
+364	Greece national association football team
+365	Dancing with the Stars, season 3
+366	Jerry Springer
+367	Falling Down
+368	Saturday Night Live, season 38
+369	Kenan Thompson
+370	Tōshirō Hitsugaya
+371	Bleach: Memories of Nobody
+372	Steve Staley
+373	Michael Clayton
+374	Louisiana State University
+375	Tampa Bay Buccaneers
+376	2004 NFL Draft
+377	Elton Brand
+378	Samantha Stosur
+379	Yanina Wickmayer
+380	Dave Robisch
+381	Indianapolis Colts
+382	Jacob Tamme
+383	Casey Dellacqua
+384	Yaroslava Shvedova
+385	Venus Williams
+386	Anna Karolína Schmiedlová
+387	Nicolas Kiefer
+388	Jim Fox
+389	Lamar Odom
+390	1996–97 NBA season
+391	Terry Cummings
+392	Armen Gilliam
+393	Eric Singer
+394	KISS
+395	Greg Foster
+396	Toronto Raptors
+397	Quincy Owusu-Abeyie
+398	Spartak Moscow
+399	Ghana national football team
+400	1968 North American Soccer League season
+401	North American Soccer League
+402	1981 North American Soccer League season
+403	Dallas Tornado
+404	1957–58 NBA season
+405	Ken Sears
+406	Mark Jackson
+407	Some Might Say
+408	John Noble
+409	Walter Bishop
+410	Jo Jo White
+411	Tori Amos
+412	synthesizer
+413	Little Earthquakes
+414	Misirlou
+415	Charles Smith
+416	1986–87 NBA season
+417	Thurl Bailey
+418	Paul Burgess
+419	Deceptive Bends
+420	1998–99 Scottish Premier League
+421	Scottish Premier League
+422	2012–13 Scottish Premier League
+423	Kilmarnock F.C.
+424	Chris Webber
+425	1985–86 NBA season
+426	Danny Young
+427	Cyanide
+428	Matt Schaub
+429	ATP Rome
+430	Dylan Walsh
+431	Sean McNamara
+432	Nip/Tuck, season 1
+433	Nip/Tuck
+434	infantry
+435	Russia
+436	Battle of Kulikovo
+437	Katarina Srebotnik
+438	2013–14 Czech 2. Liga
+439	Czech 2. Liga
+440	SK Dynamo České Budějovice
+441	Ricky Pierce
+442	Dave Stallworth
+443	Baltimore Bullets
+444	Álvaro Arbeloa
+445	Don't Speak
+446	Come Out and Play
+447	2006–07 NBA season
+448	Tyronn Lue
+449	Atlanta Hawks
+450	Lourdes Domínguez Lino
+451	National Historic Landmark
+452	National Register of Historic Places
+453	Majestic Theatre
+454	Johnny Newman
+455	Monte-Carlo Masters
+456	Tien Shinhan
+457	Dragon Ball: Mystical Adventure
+458	John Burgmeier
+459	Pierre Moerlen
+460	Gong
+461	Sharon Fichman
+462	Jelena Janković
+463	Antonio McDyess
+464	Downwind
+465	Sappy
+466	Seto Kaiba
+467	Yu-Gi-Oh! The Movie: Pyramid of Light
+468	Eric Stuart
+469	Detroit Tigers
+470	Delmon Young
+471	Debora Petrina
+472	piano
+473	In doma
+474	What's My Age Again?
+475	Nicolas Nkoulou
+476	AS Monaco FC
+477	Atlanta Braves
+478	2005 Major League Baseball season
+479	Andruw Jones
+480	Alison Riske
+481	Kristina Mladenovic
+482	Irina-Camelia Begu
+483	Fat Bottomed Girls
+484	Kelly Hansen
+485	Foreigner
+486	Steve Scheffler
+487	Minnesota Vikings
+488	Jerome Simpson
+489	56th Primetime Emmy Awards
+490	Primetime Emmy Award for Outstanding Directing for a Drama Series
+491	Ryan Murphy
+492	Dominique Wilkins
+493	Lisa Ortiz
+494	Musa
+495	Winx Club, season 1
+496	Winx Club
+497	Lorenzo Williams
+498	Dallas Mavericks
+499	Stan Wawrinka
+500	Madrid Open
+501	Michael Olowokandi
+502	She Builds Quick Machines
+503	Plaza Hotel
+504	Jessica Capshaw
+505	Arizona Robbins
+506	Grey's Anatomy, season 7
+507	tank
+508	Iraq
+509	Six-Day War
+510	Mookie Blaylock
+511	Andre Johnson
+512	2003 NFL Draft
+513	Fluminense F.C.
+514	Brazilian real
+515	Deco
+516	1975–76 NBA season
+517	Dwight Jones
+518	Mike Baird
+519	Béla Fleck and the Flecktones
+520	Vin Baker
+521	Milwaukee Bucks
+522	Lukáš Dlouhý
+523	Simone Bolelli
+524	Use Me
+525	Dominika Cibulková
+526	Scream Aim Fire
+527	1953–54 NBA season
+528	Ray Felix
+529	1979–80 NBA season
+530	Moses Malone
+531	Tress MacNeille
+532	Mom
+533	Futurama, season 4
+534	Futurama
+535	Sara Errani
+536	University of the Pacific
+537	1998 NBA Draft
+538	Sting
+539	The Police
+540	Atlanta Falcons
+541	Jay Feely
+542	Amar'e Stoudemire
+543	Walt Frazier
+544	Sílvia Soler Espinosa
+545	1981–82 NBA season
+546	Jay Vincent
+547	Go Your Own Way
+548	Sonic Unleashed
+549	Doctor Eggman
+550	Mike Pollock
+551	2004–05 NBA season
+552	Kris Humphries
+553	Billy West
+554	Philip J. Fry
+555	Futurama, season 5
+556	Life in the Fast Lane
+557	Greg Olsen
+558	Chicago Bears
+559	Wizard of Oz
+560	The Wizard of Oz
+561	Lorne Greene
+562	Randy Brown
+563	Clyde Drexler
+564	Al Jefferson
+565	Ash Ketchum
+566	Pokémon: The Movie 2000
+567	Veronica Taylor
+568	Milkshake
+569	Marcel Granollers
+570	I Predict a Riot
+571	Kim Hyung-il
+572	Pohang Steelers
+573	South Korea national football team
+574	Bob McAdoo
+575	Buffalo Braves
+576	Robin Haase
+577	Martin Kližan
+578	Arantxa Parra Santonja
+579	Michaëlla Krajicek
+580	Bill Berry
+581	New Adventures in Hi-Fi
+582	Sunday Silence
+583	1970–71 NBA season
+584	Gar Heard
+585	1983–84 NBA season
+586	Jim Paxson
+587	Dianna Agron
+588	Quinn Fabray
+589	Glee, season 3
+590	Glee
+591	Martina Navratilova
+592	Conchita Martínez
+593	Netherlands national association football team
+594	Joris Mathijsen
+595	Greg Louganis
+596	1984 Summer Olympics
+597	Wonderwall
+598	Miss Murder
+599	Jimmy Walker
+600	Doug Christie
+601	You Really Got Me
+602	Nam Song-chol
+603	April 25 Sports Club
+604	North Korea national football team
+605	Norway
+606	Aksel Lund Svindal
+607	2010 Winter Olympics
+608	The Voice, U.S. season 3
+609	CeeLo Green
+610	Tomorrow Never Knows
+611	Jack Sikma
+612	Hotel California
+613	Wayne Cooper
+614	Reptilia
+615	Minnesota Timberwolves
+616	Terrell Brandon
+617	Mark Eaton
+618	Shareef Abdur-Rahim
+619	Vancouver Grizzlies
+620	Philadelphia Eagles
+621	Nnamdi Asomugha
+622	Cedric Ceballos
+623	Stacey Augmon
+624	Bingo Smith
+625	Květa Peschke
+626	War Admiral
+627	1997–98 NBA season
+628	Grant Long
+629	1930 Major League Baseball season
+630	Joe Sewell
+631	Tuxedo Mask
+632	Sailor Moon R: The Movie
+633	Julie Lemieux
+634	Tony Massenburg
+635	Mario & Sonic at the Olympic Games
+636	Sonic the Hedgehog
+637	Jason Griffith
+638	Pokémon: Giratina & the Sky Warrior
+639	Sarah Natochenny
+640	Isaiah Rider
+641	Future Man
+642	Edward Elric
+643	Fullmetal Alchemist the Movie: Conqueror of Shamballa
+644	Vic Mignogna
+645	Kendall Gill
+646	P. J. Brown
+647	Don't Look Back in Anger
+648	Junior's Farm
+649	West Ham United F.C.
+650	pound sterling
+651	Sam Allardyce
+652	Victoria Azarenka
+653	US Open
+654	Serena Williams
+655	Joe Dumars
+656	Jérôme Boateng
+657	Hamburger SV
+658	Germany national association football team
+659	Scunthorpe United F.C.
+660	Mariusz Fyrstenberg
+661	Jorge Garcia
+662	Hugo "Hurley" Reyes
+663	Elvin Jones
+664	Coltrane Jazz
+665	Italy
+666	Andrea Pirlo
+667	2004 Summer Olympics
+668	Juwan Howard
+669	Washington Wizards
+670	Derek Harper
+671	Alizé Cornet
+672	Flavia Pennetta
+673	Justine Henin
+674	Maria Sharapova
+675	Olivia Wilde
+676	Thirteen
+677	House, season 4
+678	House
+679	Dick Gibbs
+680	Carlos Rogers
+681	Erica Durance
+682	Lois Lane
+683	Smallville, season 5
+684	Smallville
+685	Barracuda
+686	Julian McMahon
+687	Christian Troy
+688	Nip/Tuck, season 4
+689	Caldwell Jones
+690	Stephen Moyer
+691	Bill Compton
+692	True Blood, season 5
+693	True Blood
+694	Paulinho da Costa
+695	Victor Obinna
+696	Malaga CF
+697	Ricardo Osorio
+698	VfB Stuttgart
+699	Jon Anderson
+700	Yes
+701	Dale Ellis
+702	Real Madrid CF
+703	Sami Khedira
+704	2014 UEFA Champions League Final
+705	Heather Watson
+706	Eastbourne International (women)
+707	Madison Keys
+708	David Wingate
+709	Ryan Kwanten
+710	Jason Stackhouse
+711	True Blood, season 2
+712	Bill Laimbeer
+713	1946–47 BAA season
+714	Press Maravich
+715	Pittsburgh Ironmen
+716	Bobby Jackson
+717	Sonic Rivals 2
+718	Aston Villa F.C.
+719	Michael Bradley
+720	Kobe Bryant
+721	Eye of the Tiger
+722	Dream On
+723	Stephen Jackson
+724	Gus Williams
+725	Raquel Atawo
+726	Dominic Monaghan
+727	Charlie Pace
+728	Lost, season 2
+729	The Shock of the Lightning
+730	2012–13 I Liga
+731	I liga
+732	KS Cracovia
+733	2001–02 NBA season
+734	Michael Jordan
+735	Corey Maggette
+736	Mr. Brightside
+737	Justin Chambers
+738	Alex Karev
+739	Grey's Anatomy, season 3
+740	Fernando Llorente
+741	The Joker
+742	1987–88 NBA season
+743	Jerry Sichting
+744	Donald Young
+745	Monty Williams
+746	Mardy Fish
+747	Queen's Club Championships
+748	Sam Querrey
+749	Ineos Grenadier
+750	Bradley Wiggins
+751	Stuart Tosh
+752	bell
+753	Bloody Tourists
+754	Marcelo
+755	Diego Godín
+756	Atlético Madrid
+757	2008 Summer Olympics
+758	Sergey Tetyukhin
+759	volleyball at the 2008 Summer Olympics – men's tournament
+760	Michael K. Williams
+761	Omar Little
+762	The Wire, season 5
+763	The Wire
+764	Man-Sized Wreath
+765	Joan Capdevila
+766	Villarreal Club de Fútbol
+767	Hakeem Olajuwon
+768	Teymuraz Gabashvili
+769	Leonardo Mayer
+770	Sailor Venus
+771	Sailor Moon SuperS: The Movie
+772	Stephanie Morgenstern
+773	Cameroon
+774	Landry N'Guémo
+775	Pokémon 4Ever
+776	Emanual Davis
+777	Ben Brush
+778	Shuko Aoyama
+779	Roberta Vinci
+780	The Middle
+781	I'm Outta Time
+782	On the Road Again
+783	Spain
+784	Nicolás Almagro
+785	2009–10 TFF First League
+786	TFF First League
+787	Kocaelispor
+788	Tyrone Corbin
+789	Knuckles the Echidna
+790	Dan Green
+791	Dave Cowens
+792	Dominique Maltais
+793	Carolyn Lawrence
+794	Sandy Cheeks
+795	SpongeBob SquarePants, season 7
+796	SpongeBob SquarePants
+797	Fulham F.C.
+798	John Heitinga
+799	Baltimore Ravens
+800	Michael Oher
+801	Aaron Rodgers
+802	Jennifer Aniston
+803	Rachel Green
+804	Friends, season 7
+805	Friends
+806	Camila Giorgi
+807	Svetlana Kuznetsova
+808	Nelson Valdez
+809	Borussia Dortmund
+810	Paraguay national football team
+811	Chris Mills
+812	John Hartman
+813	Toulouse Street
+814	Aaron Williams
+815	Tim Brown
+816	Wellington Phoenix FC
+817	Because of You
+818	Mila Kunis
+819	Jackie Burkhart
+820	That '70s Show, season 7
+821	That '70s Show
+822	2013–14 Serie B
+823	Novara Calcio
+824	America's Next Top Model, season 18
+825	J. Alexander
+826	DeAngelo Williams
+827	University of Memphis
+828	2006 NFL Draft
+829	list of Sailor Moon episodes
+830	Vince Corazza
+831	2009–10 Süper Lig
+832	Süper Lig
+833	Diyarbakırspor
+834	Alive
+835	swimming at the 2008 Summer Olympics – men's 4 × 200 metre freestyle relay
+836	2013 Campeonato Brasileiro Série C
+837	Campeonato Brasileiro Série C
+838	Ipatinga Futebol Clube
+839	The X Factor, season 1
+840	Simon Cowell
+841	Pooh Richardson
+842	Seattle Seahawks
+843	Sidney Rice
+844	David Bryan
+845	Bon Jovi
+846	Jin Kazama
+847	Tekken: Blood Vengeance
+848	Patrick Seitz
+849	Pretend We're Dead
+850	Rutina Wesley
+851	Tara Thornton
+852	True Blood, season 1
+853	Bursaspor
+854	Teteh Bangura
+855	Naples
+856	Cambridge City Airport
+857	Small Planet Airlines
+858	Jon Hamm
+859	Don Draper
+860	Mad Men, season 1
+861	Mad Men
+862	Damon Jones
+863	Negative Creep
+864	Maurice Lucas
+865	Lucie Hradecká
+866	Anna-Lena Grönefeld
+867	Liezel Huber
+868	1980–81 NBA season
+869	Robert Reid
+870	Elvin Hayes
+871	Vera Dushevina
+872	Hsieh Su-wei
+873	Primetime Emmy Award for Outstanding Reality-Competition Program
+874	Peter Engel
+875	Last Comic Standing
+876	Sailor Mars
+877	Katie Griffin
+878	Prisoner of Society
+879	Detroit Lions
+880	Nate Burleson
+881	Chris Wilcox
+882	Elina Svitolina
+883	Alexandra Panova
+884	Andre Miller
+885	Goemon Ishikawa XIII
+886	Lupin III: Dead or Alive
+887	Mike McFarland
+888	Alec Baldwin
+889	Jack Donaghy
+890	30 Rock, season 1
+891	30 Rock
+892	Larry Smith
+893	Aurélien Chedjou
+894	Lille OSC
+895	Ike Diogu
+896	Even Flow
+897	Sarah Chalke
+898	Elliot Reid
+899	Scrubs, season 3
+900	Scrubs
+901	MacBeth Sibaya
+902	Rubin Kazan
+903	South Africa national football team
+904	Auckland City
+905	Sydney Airport
+906	Air New Zealand
+907	Kei Nishikori
+908	Tekken 4
+909	Marshall Law
+910	Robert Clotworthy
+911	Andrey Golubev
+912	Édouard Roger-Vasselin
+913	Cara Black
+914	ATP Indian Wells Masters
+915	Amobi Okoye
+916	2008–09 Serie D
+917	Serie D
+918	2009–10 Serie D
+919	Virtus Entella
+920	Robert Fripp
+921	electronic musical instrument
+922	The First Day
+923	Los Angeles Angels
+924	Jason Vargas
+925	Super Smash Bros. Brawl
+926	Waluigi
+927	Dick McGuire
+928	Kevin Walter
+929	Donyell Marshall
+930	Charles Jones
+931	Bob Bryan
+932	Vasek Pospisil
+933	Pokémon: Jirachi—Wish Maker
+934	Juan Mata
+935	Valencia CF
+936	Tospovirus
+937	Michaela Conlin
+938	Angela Montenegro
+939	Bones, season 2
+940	Bones
+941	Chad Hugo
+942	N.E.R.D
+943	Jon Barry
+944	Adrian Mannarino
+945	2010–11 Serie D
+946	A.C. Perugia Calcio
+947	Jason Kidd
+948	Jerome Whitehead
+949	Sidney Moncrief
+950	We Got the Beat
+951	Tom Chambers
+952	Tottenham Hotspur F.C.
+953	Paulinho
+954	Lycanthrope
+955	58th Primetime Emmy Awards
+956	Primetime Emmy Award for Outstanding Comedy Series
+957	Mitchell Hurwitz
+958	Arrested Development
+959	University of California, Berkeley
+960	Sonic and the Secret Rings
+961	Shadow the Hedgehog
+962	Kirk Hinrich
+963	Grant Hill
+964	Kevin Ollie
+965	True Blood, season 4
+966	Ron Harper
+967	Monkey Wrench
+968	Schism
+969	Steve Mix
+970	2012–13 NBA season
+971	Marc Gasol
+972	Memphis Grizzlies
+973	2012–13 Segunda División
+974	Segunda División
+975	2013–14 Segunda División
+976	Real Madrid Castilla
+977	Yoshi
+978	Kazumi Totaka
+979	Robert Farah
+980	Centenary College of Louisiana
+981	1976 NBA Draft
+982	Ole Einar Bjørndalen
+983	biathlon at the 2010 Winter Olympics – men's relay
+984	Denmark
+985	Mikkel Hansen
+986	New York Giants
+987	Jeff Feagles
+988	Tokyo
+989	Perth Airport
+990	Qantas
+991	Eric Fernsten
+992	Terry Dischinger
+993	Moochie Norris
+994	Mark Milligan
+995	Shanghai Shenhua F.C.
+996	Australia national association football team
+997	Dominic Thiem
+998	Tel Aviv
+999	Donetsk International Airport
+1000	Aerosvit Airlines
+1001	Bill Walton
+1002	Leo Bertos
+1003	Swen Nater
+1004	Ján Ďurica
+1005	FC Lokomotiv Moscow
+1006	Slovakia national association football team
+1007	Welcome to the Jungle
+1008	One Way or Another
+1009	Ana Ivanovic
+1010	Pittsburgh Steelers
+1011	Brian Moorman
+1012	2010 Russian Premier League
+1013	Russian Premier League
+1014	FC Sibir Novosibirsk
+1015	Drive
+1016	Pat Metheny
+1017	acoustic guitar
+1018	Unity Band
+1019	Bill Shoemaker
+1020	jockey
+1021	Salomon Kalou
+1022	Chelsea F.C.
+1023	Ivory Coast national football team
+1024	California Über Alles
+1025	We Are the Champions
+1026	Robert Pack
+1027	Benoît Paire
+1028	Horia Tecău
+1029	McCoy Tyner
+1030	Olé Coltrane
+1031	Carl Braun
+1032	PlayStation Portable
+1033	America's Next Top Model, season 14
+1034	Nigel Barker
+1035	Spencer Haywood
+1036	Eric Butorac
+1037	Brendon Ayanbadejo
+1038	Goku
+1039	Dragon Ball Z: Bio-Broly
+1040	Sean Schemmel
+1041	Christina Hendricks
+1042	Joan Holloway
+1043	Mad Men, season 2
+1044	Delhi
+1045	Boryspil International Airport
+1046	David Carney
+1047	Max Mirnyi
+1048	Marinko Matosevic
+1049	Vegeta
+1050	Dragon Ball Z: Bojack Unbound
+1051	Christopher Sabat
+1052	Complete Control
+1053	Killing in the Name
+1054	Montpellier Hérault Sport Club
+1055	Marco Estrada
+1056	Pervis Ellison
+1057	Ichigo Kurosaki
+1058	Bleach: The DiamondDust Rebellion
+1059	Johnny Yong Bosch
+1060	Kuala Lumpur
+1061	Malaysia Airlines
+1062	2009–10 Football League Two
+1063	EFL League Two
+1064	2011–12 Football League Two
+1065	Hereford United F.C.
+1066	Paranoid
+1067	Steve Winwood
+1068	Far from Home
+1069	Devean George
+1070	Allan Houston
+1071	Rebel Yell
+1072	MasterChef, U.S. season 3
+1073	Graham Elliot
+1074	Scrubs, season 7
+1075	Sonic Shuffle
+1076	Ryan Drummond
+1077	Yugi Mutou
+1078	Orlando Magic
+1079	Dick Snyder
+1080	2000 Summer Olympics
+1081	Dara Torres
+1082	swimming at the 2000 Summer Olympics – women's 4 × 100 metre freestyle relay
+1083	Dancing with the Stars, season 12
+1084	Karina Smirnoff
+1085	Russ Kunkel
+1086	programming
+1087	Warm Your Heart
+1088	Flight of the Cosmic Hippo
+1089	Shaquille O'Neal
+1090	Manute Bol
+1091	Róbert Vittek
+1092	Ben Roethlisberger
+1093	Dexter, season 7
+1094	Lost, season 6
+1095	Steve Buscemi
+1096	Nucky Thompson
+1097	Boardwalk Empire, season 2
+1098	Boardwalk Empire
+1099	Joe Flacco
+1100	University of Delaware
+1101	2008 NFL Draft
+1102	Corie Blount
+1103	Jennifer Carpenter
+1104	Debra Morgan
+1105	Dexter, season 6
+1106	Elliot Perry
+1107	54th Primetime Emmy Awards
+1108	Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series
+1109	Bernie Mac
+1110	The Bernie Mac Show
+1111	John Coltrane
+1112	tenor saxophone
+1113	John Coltrane and Johnny Hartman
+1114	Jim Keltner
+1115	San Francisco Days
+1116	Marshawn Lynch
+1117	Sunday Morning
+1118	Super Mario 64 DS
+1119	Toad
+1120	Jen Taylor
+1121	Boston Red Sox
+1122	Ted Williams
+1123	2009–10 Scottish Second Division
+1124	Scottish Football League Second Division
+1125	2012–13 Scottish Second Division
+1126	Stenhousemuir F.C.
+1127	Rolando Blackman
+1128	Terry Tyler
+1129	Vinnie Johnson
+1130	Rod Higgins
+1131	Katie McGrath
+1132	Morgan le Fay
+1133	Merlin Series 4
+1134	Merlin
+1135	Primetime Emmy Award for Outstanding Writing for a Drama Series
+1136	John Wells
+1137	ER
+1138	Britain's Next Top Model, Cycle 2
+1139	Lisa Snowdon
+1140	New York Yankees
+1141	1947 Major League Baseball season
+1142	Yogi Berra
+1143	Xavier Malisse
+1144	United Kingdom
+1145	Chris Hoy
+1146	Pauley Perrette
+1147	Abby Sciuto
+1148	NCIS, season 10
+1149	NCIS
+1150	Derrick Coleman
+1151	Gimme All Your Lovin'
+1152	Lester Conner
+1153	The Voice, U.S. season 2
+1154	Blake Shelton
+1155	Richard Gasquet
+1156	Steve Caton
+1157	mandolin
+1158	Under the Pink
+1159	Wilson Palacios
+1160	Honduras national football team
+1161	Daniele Bracciali
+1162	American Idol, season 11
+1163	Randy Jackson
+1164	1967–68 NBA season
+1165	Pat Riley
+1166	Bo Outlaw
+1167	FC Bayern Munich
+1168	Bastian Schweinsteiger
+1169	Leander Paes
+1170	Robert Joy
+1171	Sid Hammerback
+1172	CSI: NY, season 6
+1173	CSI: NY
+1174	Kevin Garnett
+1175	Misato Katsuragi
+1176	Evangelion: 1.0 You Are (Not) Alone
+1177	Allison Keith
+1178	2013 Campeonato Brasileiro Série B
+1179	Campeonato Brasileiro Série B
+1180	Figueirense Futebol Clube
+1181	guitar
+1182	Paul Rodgers
+1183	Bad Company
+1184	Jacksonville Jaguars
+1185	Luke McCown
+1186	Bill Russell NBA Finals Most Valuable Player Award
+1187	1912 Summer Olympics
+1188	Leonard Meredith
+1189	cycling at the 1912 Summer Olympics – men's individual time trial
+1190	Didier Drogba
+1191	Brian Winters
+1192	No Sleep till Brooklyn
+1193	Born to Run
+1194	Manchester United F.C.
+1195	Nemanja Vidić
+1196	Peter Asher
+1197	clapping
+1198	Hasten Down the Wind
+1199	Dennis Haysbert
+1200	Jonas Blane
+1201	The Unit, season 4
+1202	The Unit
+1203	30 Rock, season 3
+1204	Chris Mullin
+1205	Blue Monday
+1206	Supernatural, season 2
+1207	Gareth Bale
+1208	Brian Griffin
+1209	Family Guy, season 5
+1210	Jim McMillian
+1211	China Cat Sunflower
+1212	About a Girl
+1213	Dammit
+1214	Dmitry Tursunov
+1215	Marc Jackson
+1216	Jonny Quinn
+1217	Snow Patrol
+1218	Pokémon
+1219	Kurumi Nara
+1220	Chan Hao-ching
+1221	Benoît Assou-Ekotto
+1222	A.C. Pisa 1909
+1223	Alex Rodriguez
+1224	Romeo Miller
+1225	cavalry
+1226	Kingdom of Scotland
+1227	Battle of Stirling Bridge
+1228	Francesca Schiavone
+1229	Jerome Felton
+1230	Barbora Strýcová
+1231	Rick Barry
+1232	1965 NBA Draft
+1233	1971–72 NBA season
+1234	Earl Monroe
+1235	Kiki VanDeWeghe
+1236	Freak on a Leash
+1237	Taylor Townsend
+1238	David Byrne
+1239	Mesopotamia
+1240	More Than a Feeling
+1241	Guitar Hero
+1242	1967 FA Cup Final
+1243	Tommy Docherty
+1244	Ruben Patterson
+1245	The Devil Went Down to Georgia
+1246	Girl's Not Grey
+1247	U.S. Avellino 1912
+1248	It's Raining Men
+1249	Alvan Adams
+1250	Anastasia Rodionova
+1251	María Teresa Torró Flor
+1252	Dave DeBusschere
+1253	Carlos Carmona
+1254	Reggina 1914
+1255	Chile national football team
+1256	America's Next Top Model, season 20
+1257	Kelly Cutrone
+1258	Super Mario Galaxy
+1259	Luigi
+1260	James Edwards
+1261	Charles Oakley
+1262	João Sousa
+1263	Los Angeles Rams
+1264	Scott Shanle
+1265	My Name Is Jonas
+1266	Rasheed Wallace
+1267	Selena Gomez
+1268	Alex Russo
+1269	Wizards of Waverly Place, season 3
+1270	Wizards of Waverly Place
+1271	Dancing with the Stars, season 5
+1272	Mark Cuban
+1273	Brendan Haywood
+1274	Jerome James
+1275	Dallas Stars
+1276	Ales Hemsky
+1277	Uncharted: Drake's Fortune
+1278	Nathan Drake
+1279	Nolan North
+1280	Jamaal Magloire
+1281	New Orleans Pelicans
+1282	American Idol, season 10
+1283	Jennifer Lopez
+1284	Brad Miller
+1285	Nikos Spyropoulos
+1286	Panathinaikos F.C.
+1287	Matt Bullard
+1288	Johnny I Hardly Knew Ye
+1289	Ray Rice
+1290	Alla Kudryavtseva
+1291	Outtathaway!
+1292	Mitch Richmond
+1293	Motorhead
+1294	1962–63 NBA season
+1295	Monica Seles
+1296	Steffi Graf
+1297	Bryan Cranston
+1298	Walter White
+1299	Breaking Bad, season 1
+1300	Mark González
+1301	PFC CSKA Moscow
+1302	San Francisco 49ers
+1303	Frank Gore
+1304	Julie Kavner
+1305	Marge Simpson
+1306	23rd season of The Simpsons
+1307	The Simpsons
+1308	Eric Snow
+1309	True Blood, season 3
+1310	64th Golden Globe Awards
+1311	Golden Globe Award for Best Actress – Motion Picture Musical or Comedy
+1312	Toni Collette
+1313	Little Miss Sunshine
+1314	Luxembourg
+1315	Fränk Schleck
+1316	Bill Wennington
+1317	Dragon Ball Z: Fusion Reborn
+1318	Dancing with the Stars, season 15
+1319	Shawn Johnson
+1320	2008–09 Serie B
+1321	Parma Calcio 1913
+1322	Slither
+1323	Qatar Open
+1324	Sophia Bush
+1325	Brooke Davis
+1326	One Tree Hill, season 1
+1327	One Tree Hill
+1328	Kevin Willis
+1329	Ajla Tomljanović
+1330	Alicja Rosolska
+1331	Phil LaMarr
+1332	Hermes Conrad
+1333	Futurama, season 3
+1334	Łukasz Kubot
+1335	James Posey
+1336	Suck My Kiss
+1337	Dancing with the Stars, season 4
+1338	Paulina Porizkova
+1339	Hugo Almeida
+1340	SV Werder Bremen
+1341	Portugal national association football team
+1342	The Number of the Beast
+1343	Christian Laettner
+1344	24: The Game
+1345	Jack Bauer
+1346	Kiefer Sutherland
+1347	Tyra Banks
+1348	Doug Collins
+1349	Andrea Petkovic
+1350	Gibraltar
+1351	Heathrow Airport
+1352	British European Airways
+1353	Evangelion: 2.0 You Can (Not) Advance
+1354	Jalen Rose
+1355	NBA Most Improved Player Award
+1356	Futurama, season 1
+1357	Hank Finkel
+1358	New York Jets
+1359	Mark Sanchez
+1360	Obstacle 1
+1361	One Tree Hill, season 9
+1362	Hi, Hi
+1363	Sania Mirza
+1364	Lisa Raymond
+1365	Sonic Rivals
+1366	Casey Stengel
+1367	baseball manager
+1368	National Baseball Hall of Fame and Museum
+1369	Brian Scalabrine
+1370	Rachel Luttrell
+1371	Teyla Emmagan
+1372	Stargate Atlantis, season 4
+1373	Stargate Atlantis
+1374	Dikembe Mutombo
+1375	Boštjan Cesar
+1376	Grenoble Foot 38
+1377	Slovenia national football team
+1378	Paint It Black
+1379	Latrell Sprewell
+1380	Amanda Tapping
+1381	Samantha Carter
+1382	Stargate SG-1, season 10
+1383	Stargate SG-1
+1384	George T. Johnson
+1385	Chicago Cubs
+1386	1931 Major League Baseball season
+1387	Kiki Cuyler
+1388	Can't Be Saved
+1389	Bologna FC 1909
+1390	Diego Pérez
+1391	Delonte West
+1392	Saint Joseph's University
+1393	2004 NBA Draft
+1394	Vania King
+1395	Henri Kontinen
+1396	Jürgen Melzer
+1397	Lisbon
+1398	bass guitar
+1399	Ryan Tedder
+1400	OneRepublic
+1401	Facundo Bagnis
+1402	Horacio Zeballos
+1403	Isle of Man
+1404	Giovanni van Bronckhorst
+1405	Bruno Soares
+1406	Valter Birsa
+1407	A.J. Auxerre
+1408	1974–75 NBA season
+1409	Chris Ford
+1410	Roger McGuinn
+1411	electric guitar
+1412	The Bootleg Series Vol. 5: Bob Dylan Live 1975, The Rolling Thunder Revue
+1413	Richard Dean Anderson
+1414	Jack O'Neill
+1415	Stargate SG-1, season 1
+1416	Paul Silas
+1417	Bill Russell
+1418	Dennis Johnson
+1419	Arjen Robben
+1420	Gerald Henderson
+1421	Orlando Woolridge
+1422	Lucie Šafářová
+1423	1960–61 NBA season
+1424	Willie Naulls
+1425	National Memorial of the United States
+1426	Lincoln Memorial
+1427	Ivo Karlović
+1428	Kevin Anderson
+1429	Stefanie Vögele
+1430	Mark Knowles
+1431	Mario & Sonic at the Olympic Winter Games
+1432	Ashleigh Barty
+1433	Jeff Foster
+1434	Rolando
+1435	Futebol Clube do Porto
+1436	Óscar Cardozo
+1437	2014 UEFA Europa League Final
+1438	Guilherme Siqueira
+1439	Stephon Marbury
+1440	Clarence Weatherspoon
+1441	30 Rock, season 2
+1442	Kurt Thomas
+1443	Ismael Valenzuela
+1444	America's Next Top Model, season 13
+1445	Jay Manuel
+1446	Ervin Johnson
+1447	My Immortal
+1448	Ernests Gulbis
+1449	Peace Sells
+1450	Almost Easy
+1451	Tom McMillen
+1452	Derrek Dickey
+1453	Whirlaway
+1454	Connie Hawkins
+1455	Ivan Dodig
+1456	Dan Roundfield
+1457	Robert Smith
+1458	The Cure
+1459	Love Spreads
+1460	Júlio Baptista
+1461	A.S. Roma
+1462	Alexandr Dolgopolov
+1463	2014 Winter Olympics
+1464	Tracy McGrady
+1465	All-NBA Team
+1466	Magdaléna Rybáriková
+1467	Caroline Wozniacki
+1468	Kim Clijsters
+1469	No Rain
+1470	Monique Coleman
+1471	Herpesviridae
+1472	Betaherpesvirinae
+1473	American Idol, season 7
+1474	Terry Porter
+1475	Maurice LaMarche
+1476	Kif Kroker
+1477	Alexander Ovechkin
+1478	Buddy Holly
+1479	Sani Kaita
+1480	FC Kuban Krasnodar
+1481	Resident Evil: The Umbrella Chronicles
+1482	Albert Wesker
+1483	D. C. Douglas
+1484	Darnell Hillman
+1485	Chandler Riggs
+1486	Carl Grimes
+1487	The Walking Dead, season 1
+1488	The Walking Dead
+1489	Nate McMillan
+1490	Jason Taylor
+1491	Dancing with the Stars, season 10
+1492	Anna Trebunskaya
+1493	Mad Men, season 4
+1494	Udinese Calcio
+1495	Gélson Fernandes
+1496	Santonio Holmes
+1497	Ohio State University
+1498	Serhiy Stakhovsky
+1499	Stromile Swift
+1500	Joe Flanigan
+1501	John Sheppard
+1502	Pokémon: Mewtwo Returns
+1503	2012–13 2. Fußball-Bundesliga
+1504	2. Bundesliga
+1505	SSV Jahn Regensburg
+1506	Greg Ham
+1507	Men at Work
+1508	New
+1509	Ling Xiaoyu
+1510	Carrie Keranen
+1511	Scrubs, season 8
+1512	Baltimore Orioles
+1513	2006 Major League Baseball season
+1514	Chris Gomez
+1515	Danny Ainge
+1516	Brigham Young University
+1517	Toronto Blue Jays
+1518	1977 Major League Baseball draft
+1519	2011–12 Ligue 1
+1520	Ligue 1
+1521	Dijon FCO
+1522	flute
+1523	Misty
+1524	Pokémon: The First Movie
+1525	Rachael Lillis
+1526	Ray Allen
+1527	30 Rock, season 5
+1528	Finland
+1529	Noora Räty
+1530	2012–13 Russian Premier League
+1531	FC Mordovia Saransk
+1532	La Grange
+1533	Dee Brown
+1534	Brad Maynard
+1535	Ben Obomanu
+1536	1969–70 NBA season
+1537	Wes Unseld
+1538	Steve Johnson
+1539	Raven Klaasen
+1540	Bucharest
+1541	Manchester City F.C.
+1542	Aleksandar Kolarov
+1543	Gonzalo Jara
+1544	West Bromwich Albion F.C.
+1545	Them Bones
+1546	Stargate SG-1, season 9
+1547	Ray Williams
+1548	Justin Vernon
+1549	Sherman Douglas
+1550	Flynn Robinson
+1551	Brazil
+1552	Giovane Gávio
+1553	Peng Shuai
+1554	Sloane Stephens
+1555	Famous Last Words
+1556	Sonic Adventure 2
+1557	Rouge the Bat
+1558	Lani Minella
+1559	Kazakhstan
+1560	Mikhail Kukushkin
+1561	Brett Holman
+1562	John Gilmore
+1563	Jamie Carragher
+1564	2006 FA Cup Final
+1565	The Glow
+1566	Brandon Roy
+1567	University of Washington
+1568	2006 NBA Draft
+1569	Tony Gonzalez
+1570	Arsène Lupin III
+1571	The Castle of Cagliostro
+1572	Bob Bergen
+1573	72nd Academy Awards
+1574	Academy Award for Best Supporting Actor
+1575	Tom Cruise
+1576	Magnolia
+1577	John Terry
+1578	Constantin Film
+1579	Inside Deep Throat
+1580	Germany
+1581	Devin Hester
+1582	Fatboy Slim
+1583	The Housemartins
+1584	Julie Coin
+1585	Sociedade Esportiva Palmeiras
+1586	Pokémon 3: The Movie
+1587	2012–13 Scottish First Division
+1588	Scottish Football League First Division
+1589	Airdrieonians F.C.
+1590	Raymond Massey
+1591	Soul Circus
+1592	Bulls on Parade
+1593	Cedric Maxwell
+1594	Super Smash Bros. Melee
+1595	Madrid
+1596	Jim Capaldi
+1597	John Barleycorn Must Die
+1598	Herb Williams
+1599	Bill Fagerbakke
+1600	Patrick Star
+1601	SpongeBob SquarePants, season 5
+1602	Jon Cryer
+1603	Alan Harper
+1604	Two and a Half Men, season 8
+1605	Two and a Half Men
+1606	Quinn Buckner
+1607	Michael Carrick
+1608	England national association football team
+1609	The Voice UK, season 1
+1610	will.i.am
+1611	Shani Davis
+1612	2009–10 Serie B
+1613	Butch Beard
+1614	Hole in the Earth
+1615	The One I Love
+1616	IFC Films
+1617	Antichrist
+1618	Mate Pavić
+1619	Marc López
+1620	Larry Drew
+1621	Slew o' Gold
+1622	Tatjana Maria
+1623	Dale Schlueter
+1624	Clifford Robinson
+1625	NBA Sixth Man of the Year Award
+1626	Troy Murphy
+1627	University of Notre Dame
+1628	2001 NBA Draft
+1629	Angelique Kerber
+1630	Eugenie Bouchard
+1631	American Idol, season 13
+1632	Ryan Seacrest
+1633	Friends, season 4
+1634	Randy Breuer
+1635	Steve Gadd
+1636	Streetlights
+1637	CSI: NY (season 8)
+1638	David Suazo
+1639	Inter Milan
+1640	Fergalicious
+1641	Bethany Joy Lenz
+1642	Haley James Scott
+1643	One Tree Hill, season 3
+1644	Seth Meyers
+1645	Julie Foudy
+1646	Winter War
+1647	Feliciano López
+1648	C-lebrity
+1649	Oliver Miller
+1650	Message in a Bottle
+1651	Jason Kapono
+1652	Lou Boudreau
+1653	1952 Major League Baseball season
+1654	1938 Major League Baseball season
+1655	Othella Harrington
+1656	Andreja Klepač
+1657	Carla Suárez Navarro
+1658	David Humphrey
+1659	School's Out
+1660	Rick Mahorn
+1661	Carlos Berlocq
+1662	Marcin Matkowski
+1663	Steve Guttenberg
+1664	Claire Feuerstein
+1665	Daniela Hantuchová
+1666	Duke Erikson
+1667	Garbage
+1668	David Sylvian
+1669	Tin Drum
+1670	Mexican Open (tennis)
+1671	Joan Llaneras Roselló
+1672	Vincent Askew
+1673	Carlos Marchena
+1674	Matthew Ebden
+1675	Simona Halep
+1676	Rony Seikaly
+1677	Hubert Davis
+1678	1951–52 NBA season
+1679	Joe Graboski
+1680	Indianapolis Olympians
+1681	guitar synthesizer
+1682	Cork
+1683	Ryanair
+1684	What Have You Done
+1685	You Know You're Right
+1686	Heroes of Our Time
+1687	Jean-Julien Rojer
+1688	Sarah Lancaster
+1689	Ellie Woodcomb
+1690	Chuck, season 4
+1691	Chuck
+1692	Mike Dunleavy Jr.
+1693	Kareem Abdul-Jabbar
+1694	Barcelona
+1695	Denver Broncos
+1696	Gerard Warren
+1697	Archie Clark
+1698	Steve Redgrave
+1699	Kaia Kanepi
+1700	Peter Verhoeven
+1701	Mike Portnoy
+1702	Falling into Infinity
+1703	Florent Malouda
+1704	France national association football team
+1705	Uruguay national football team
+1706	America's Next Top Model, season 6
+1707	Bob Baffert
+1708	horse trainer
+1709	LeBron James
+1710	Bryan Bullington
+1711	Claudio Morel Rodríguez
+1712	Boca Juniors
+1713	A. J. Buckley
+1714	Adam Ross
+1715	CSI: NY, season 7
+1716	Jonathan Stewart
+1717	University of Oregon
+1718	The Day That Never Comes
+1719	Bradley James
+1720	King Arthur
+1721	Sailor Jupiter
+1722	Sailor Moon S: The Movie
+1723	Susan Roman
+1724	Dancing in the Street
+1725	Emilia Clarke
+1726	Daenerys Targaryen
+1727	Game of Thrones, season 3
+1728	Game of Thrones
+1729	Dennis Awtrey
+1730	Black Betty
+1731	Angelo Taylor
+1732	Gail Goodrich
+1733	J. P. Losman
+1734	Tulane University
+1735	Buffalo Bills
+1736	Morlon Wiley
+1737	Brian Krause
+1738	Leo Wyatt
+1739	Charmed, season 7
+1740	Charmed
+1741	Jim Price
+1742	TSG 1899 Hoffenheim
+1743	Tim Wiese
+1744	Rick Fox
+1745	Yvonne Strahovski
+1746	Sarah Walker
+1747	Chuck, season 2
+1748	Paulo da Silva
+1749	Sunderland A.F.C.
+1750	John Schneider
+1751	Jonathan and Martha Kent
+1752	Vince Grella
+1753	Blackburn Rovers F.C.
+1754	Keith Urban
+1755	Myoviridae
+1756	T4likevirus
+1757	Too Much, Too Young, Too Fast
+1758	Montreal Expos
+1759	2004 Major League Baseball season
+1760	Carl Everett
+1761	G.L.O.W.
+1762	Ryan Millar
+1763	volleyball at the 2000 Summer Olympics – men's tournament
+1764	Livin' on a Prayer
+1765	Stillborn
+1766	Mekhi Phifer
+1767	Greg Pratt
+1768	ER, season 13
+1769	Sonic & Sega All-Stars Racing
+1770	Brandon Stokley
+1771	Simon Elliott
+1772	San Jose Earthquakes
+1773	Magic Johnson
+1774	Scrubs, season 9
+1775	Antisocial
+1776	Michael Redd
+1777	Calling Dr. Love
+1778	Alphaflexiviridae
+1779	Biltmore Estate
+1780	Uzbekistan
+1781	Derek Smith
+1782	The Metal Opera Part II
+1783	January Jones
+1784	Betty Draper
+1785	David Schwimmer
+1786	Ross Geller
+1787	Friends, season 8
+1788	Holiday in Cambodia
+1789	Oberlin College
+1790	Shahar Pe'er
+1791	"Heroes"
+1792	Wilt Chamberlain
+1793	Robin Tunney
+1794	Teresa Lisbon
+1795	The Mentalist, season 5
+1796	The Mentalist
+1797	Sergio Ramos
+1798	Megan Moulton-Levy
+1799	Chuck, season 1
+1800	Eli Manning
+1801	University of Mississippi
+1802	2011–12 Serbian First League
+1803	FK Radnički Niš
+1804	Oguchi Onyewu
+1805	A.C. Milan
+1806	United States men's national soccer team
+1807	2012–13 TFF First League
+1808	MKE Ankaragücü
+1809	Juan Sebastián Cabal
+1810	Álvaro Pereira
+1811	Courteney Cox
+1812	Monica Geller
+1813	Friends, season 3
+1814	Alphonse Elric
+1815	Aaron Dismuke
+1816	Ricardo Costa
+1817	VfL Wolfsburg
+1818	Bonzi Wells
+1819	Last Child
+1820	Vincent Kartheiser
+1821	Pete Campbell
+1822	Tim Hardaway
+1823	Tekken 5
+1824	Yumi Tōma
+1825	Alvin Williams
+1826	Tom Owens
+1827	NCIS, season 3
+1828	Julien Benneteau
+1829	Dale Davis
+1830	Johnny Egan
+1831	Universal Pictures
+1832	Cowboys & Aliens
+1833	New York Red Bulls
+1834	Rafael Márquez
+1835	Baku
+1836	Jaroslav Levinský
+1837	Igor Sijsling
+1838	Excuse Me Mr.
+1839	Ryan Clark
+1840	Slow Ride
+1841	Treat Conrad Huey
+1842	Randy Livingston
+1843	Hantavirus
+1844	Jim Jackson
+1845	New Slang
+1846	Kristin Cavallari
+1847	Daisuke Jigen
+1848	Mystery of Mamo
+1849	Richard Epcar
+1850	Amanda Righetti
+1851	Grace Van Pelt
+1852	1961–62 NBA season
+1853	Chuck Noble
+1854	Testify
+1855	Killer Queen
+1856	Paulo Ferreira
+1857	Robur Siena
+1858	Gohan
+1859	Kyle Hebert
+1860	The Wire, season 2
+1861	Bad Reputation
+1862	Radoslav Zabavník
+1863	FC Akhmat Grozny
+1864	Tyrone Hill
+1865	Eric Stewart
+1866	Do Not Bend
+1867	Li Na
+1868	The Walking Dead, season 2
+1869	Ian Millar
+1870	1976 Summer Olympics
+1871	Ryan Moats
+1872	Louisiana Tech University
+1873	2005 NFL Draft
+1874	Anthony Gonzalez
+1875	Dragon Ball Z
+1876	Ian James Corlett
+1877	Allison Mack
+1878	Chloe Sullivan
+1879	Smallville, season 2
+1880	Guillermo Coria
+1881	Andy Roddick
+1882	Pat Sansone
+1883	Wilco
+1884	Willis Reed
+1885	Iveta Melzer
+1886	2012–13 Premier League
+1887	Premier League
+1888	Reading F.C.
+1889	retrovirus
+1890	Lentivirus
+1891	Isaac Austin
+1892	Gerald Wilkins
+1893	Switzerland
+1894	FF / VinterNoll2
+1895	Alan Parsons
+1896	Ammonia Avenue
+1897	Laurence Maroney
+1898	University of Minnesota
+1899	New England Patriots
+1900	Matt Chamberlain
+1901	Strange Little Girls
+1902	2008–09 NBA season
+1903	Owen Schmitt
+1904	Mike Bantom
+1905	The Captain and Me
+1906	Clube Atlético Mineiro
+1907	Ronaldinho
+1908	Philipp Oswald
+1909	59th Primetime Emmy Awards
+1910	David Chase
+1911	The Sopranos
+1912	Kristi Yamaguchi
+1913	Derek Strong
+1914	Žan Tabak
+1915	Michael McGlinchey
+1916	Central Coast Mariners FC
+1917	Heart-Shaped Box
+1918	Willis McGahee
+1919	America's Next Top Model, season 10
+1920	Family Guy Video Game!
+1921	George McGinnis
+1922	Dan Issel
+1923	Kyiv
+1924	Ukraine International Airlines
+1925	Anquan Boldin
+1926	Junichi Inamoto
+1927	Stade Rennais F.C.
+1928	Japan national football team
+1929	Chicago White Sox
+1930	George Kell
+1931	2011 Campeonato Brasileiro Série A
+1932	Campeonato Macaquinho Série A
+1933	América Futebol Clube (MG)
+1934	1966–67 NBA season
+1935	LeRoy Ellis
+1936	Jamaal Wilkes
+1937	Ricky Davis
+1938	David Thompson
+1939	1965–66 NBA season
+1940	Dick Barnett
+1941	Bristol
+1942	Madeira Airport
+1943	Pauline Parmentier
+1944	Lacey Schwimmer
+1945	Kansas City Royals
+1946	Johnny Green
+1947	You Spin Me Round (Like a Record)
+1948	The Trooper
+1949	Ryan Gosling
+1950	Dead Man's Bones
+1951	Simon Stadler
+1952	Northern Dancer
+1953	Sean Rooks
+1954	Round and Round
+1955	Guitar Hero Encore: Rocks the 80s
+1956	Walter Gargano
+1957	S.S.C. Napoli
+1958	Francisco Román Alarcón Suárez
+1959	Bob Lanier
+1960	Roberto Bautista Agut
+1961	Chris Long
+1962	Clyde Lee
+1963	1996 Summer Olympics
+1964	Love Me Two Times
+1965	Keiji Tamada
+1966	Nagoya Grampus
+1967	Louis Van Amstel
+1968	Lenny Wilkens
+1969	Ryan Babel
+1970	Vlade Divac
+1971	...And Justice for All
+1972	Metal Gear Solid 4: Guns of the Patriots
+1973	Hal Emmerich
+1974	Christopher Randolph
+1975	Rock of Ages
+1976	Ekaterina Valeryevna Makarova
+1977	No One Knows
+1978	Nintendo DS
+1979	60th Primetime Emmy Awards
+1980	Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie
+1981	Judi Dench
+1982	Cranford
+1983	Ron Turcotte
+1984	Amy Rose
+1985	Miami Dolphins
+1986	Anthony Fasano
+1987	Michael Smith
+1988	Elisabeth Moss
+1989	Peggy Olson
+1990	55th Annual Grammy Awards
+1991	Grammy Award for Best Music Video
+1992	Rihanna
+1993	We Found Love
+1994	Kenny Carr
+1995	Purvis Short
+1996	27th Independent Spirit Awards
+1997	Independent Spirit Award for Best First Feature
+1998	Zachary Quinto
+1999	Margin Call
+2000	Orly Airport
+2001	TAP Air Portugal
+2002	lead guitarist
+2003	Solon Bixler
+2004	Thirty Seconds to Mars
+2005	William Petersen
+2006	Gil Grissom
+2007	CSI: Crime Scene Investigation, season 3
+2008	Buck Williams
+2009	Austria
+2010	Reoviridae
+2011	Orthoreovirus
+2012	Yevgeny Kafelnikov
+2013	Andre Agassi
+2014	harmonica
+2015	Gene Clark
+2016	The Byrds
+2017	Grey's Anatomy, season 9
+2018	32nd Golden Raspberry Awards
+2019	Golden Raspberry Award for Worst Supporting Actor
+2020	Patrick Dempsey
+2021	Transformers: Dark of the Moon
+2022	American Idol, season 1
+2023	Paula Abdul
+2024	Mike Miller
+2025	Cadillac Williams
+2026	Auburn University
+2027	Belfast
+2028	Wayne Embry
+2029	Fernando Torres
+2030	Fringe, season 1
+2031	saxophone
+2032	Pirmin Schwegler
+2033	Eintracht Frankfurt
+2034	Drew Lachey
+2035	Trippin' on a Hole in a Paper Heart
+2036	Gabriel Heinze
+2037	Olympique de Marseille
+2038	Argentina national football team
+2039	Sonic Riders: Zero Gravity
+2040	Anthony Mason
+2041	Nicole Scherzinger
+2042	David Hewlett
+2043	Rodney McKay
+2044	Stargate Atlantis, season 3
+2045	The Unit, season 1
+2046	Tim Thomas
+2047	marimba
+2048	From the Choirgirl Hotel
+2049	Atlanta
+2050	Raleigh–Durham International Airport
+2051	Delta Air Lines
+2052	Charles Barkley
+2053	Coaltown
+2054	Family Guy, season 4
+2055	University of Kansas
+2056	2003 NBA Draft
+2057	12th Independent Spirit Awards
+2058	Stanley Tucci
+2059	Big Night
+2060	Michael Curry
+2061	Zapp Brannigan
+2062	Marcus Banks
+2063	Steve Kerr
+2064	Antonio Davis
+2065	Kazuya Mishima
+2066	Pamela Anderson
+2067	Dave Bing
+2068	German Empire
+2069	Jason Snelling
+2070	Howard Komives
+2071	Blaze the Cat
+2072	Erica Schroeder
+2073	Sevilla FC
+2074	Carlos Bacca
+2075	Jane Krakowski
+2076	Jenna Maroney
+2077	Dubai Tennis Championships
+2078	Ready to Fall
+2079	Jumaine Jones
+2080	Danny Vranes
+2081	Sonic Rush Adventure
+2082	Tom Hawkins
+2083	WTA Tour Championships
+2084	Chris Kluwe
+2085	1995 MTV Movie Awards
+2086	MTV Movie Award for Best Kiss
+2087	Ethan Hawke
+2088	Before Sunrise
+2089	Cuauhtémoc Blanco
+2090	Chicago Fire FC
+2091	Mississippi Queen
+2092	Shannon Miller
+2093	1992 Summer Olympics
+2094	2008–09 Ukrainian First League
+2095	Ukrainian First League
+2096	2011–12 Ukrainian First League
+2097	FC Hoverla Uzhhorod
+2098	Mario Kart Wii
+2099	Kevin Haskins
+2100	In the Flat Field
+2101	Bernard Fanning
+2102	Powderfinger
+2103	Yuki Abe
+2104	Urawa Red Diamonds
+2105	Trunks
+2106	Laura Bailey
+2107	Olga Govortsova
+2108	Alisa Kleybanova
+2109	Johnny Palacios
+2110	Club Olimpia Deportivo
+2111	James Milner
+2112	Dragon Ball Z: Cooler's Revenge
+2113	Lee Young-pyo
+2114	Al-Hilal SFC
+2115	Larry Bird
+2116	Dragon Ball Z: Bardock – The Father of Goku
+2117	Kevin McHale
+2118	Chris Gatling
+2119	Sonic Adventure
+2120	Blue Edwards
+2121	Cheryl Burke
+2122	Fijivirus
+2123	Bill Hanzlik
+2124	Apolo Ohno
+2125	Christopher Judge
+2126	Teal'c
+2127	Fred Taylor
+2128	Harry Douglas
+2129	The Vampire Diaries, season 5
+2130	Brevin Knight
+2131	Beetlebum
+2132	Salute Your Solution
+2133	Keith Erickson
+2134	John Ratzenberger
+2135	Bones, season 4
+2136	Uncharted 3: Drake's Deception
+2137	André Ooijer
+2138	Athens
+2139	Donbassaero
+2140	It Hurts
+2141	1955–56 NBA season
+2142	Gene Shue
+2143	Pittsburgh Pirates
+2144	1913 Major League Baseball season
+2145	Honus Wagner
+2146	Tomáš Berdych
+2147	Arantxa Sánchez Vicario
+2148	Vince Young
+2149	Katey Sagal
+2150	Leela
+2151	Futurama, season 7
+2152	Paul Mokeski
+2153	Crushcrushcrush
+2154	University of Virginia
+2155	Armond Hill
+2156	Jason Culina
+2157	Gold Coast United FC
+2158	Brian Shaw
+2159	San Francisco Giants
+2160	2003 Major League Baseball season
+2161	Scott Eyre
+2162	Gaudi
+2163	Guile
+2164	Street Fighter II V
+2165	Kirk Thornton
+2166	Hill Harper
+2167	Sheldon Hawkes
+2168	CSI: NY, season 2
+2169	Lee Evans
+2170	CSI: NY, season 4
+2171	What I've Done
+2172	2012–13 Serie D
+2173	A.S.D. Acireale Calcio 1946
+2174	George Young
+2175	AC/DC
+2176	Cameron Mathison
+2177	Emil Hegle Svendsen
+2178	Mike E. Smith
+2179	Dancing with the Stars, season 17
+2180	Bill Nye
+2181	Lukas Podolski
+2182	1. FC Köln
+2183	Chris Kaman
+2184	Central Michigan University
+2185	Joe Manganiello
+2186	Alcide Herveaux
+2187	Friends, season 2
+2188	Diego Forlán
+2189	Futurama, season 2
+2190	Rashad Jennings
+2191	One of These Nights
+2192	Jo-Wilfried Tsonga
+2193	ATP Finals
+2194	Paul Westphal
+2195	Nicolás Otamendi
+2196	C.A. Vélez Sarsfield
+2197	Vanderbilt University
+2198	1966 NBA Draft
+2199	Carlo Ancelotti
+2200	Tekken Tag Tournament
+2201	Keith Strickland
+2202	Alphaherpesvirinae
+2203	Varicellovirus
+2204	Call Me When You're Sober
+2205	American Idol, season 2
+2206	Clay Aiken
+2207	Toshiyuki Morikawa
+2208	Sega Superstars Tennis
+2209	Mauricio Sabillón
+2210	C.D. Marathón
+2211	David West
+2212	Bernard Pollard
+2213	Yuji Nakazawa
+2214	Yokohama F. Marinos
+2215	22nd Golden Raspberry Awards
+2216	Golden Raspberry Award for Worst Prequel, Remake, Rip-off or Sequel
+2217	Jerry Bruckheimer
+2218	Pearl Harbor
+2219	Donald Penn
+2220	Jana Novotná
+2221	Don MacLean
+2222	Katlego Mphela
+2223	Mamelodi Sundowns F.C.
+2224	Gary Trent
+2225	Beast and the Harlot
+2226	Rudy Tomjanovich
+2227	2011–12 TFF First League
+2228	Konyaspor
+2229	Speedy Claxton
+2230	Bill Cartwright
+2231	This Ain't a Scene, It's an Arms Race
+2232	Jonathan Eysseric
+2233	Inside the Fire
+2234	Darwin
+2235	Dell Curry
+2236	Phil Smith
+2237	Sonic Free Riders
+2238	Two and a Half Men, season 3
+2239	John Stockton
+2240	Peace of Mind
+2241	Auckland
+2242	Harry Gallatin
+2243	Earl Boykins
+2244	Tommy Haas
+2245	Djamel Abdoun
+2246	F.C. Nantes
+2247	Algeria national football team
+2248	All My Life
+2249	Shoot the Runner
+2250	Dancing with the Stars, season 11
+2251	Rooftops
+2252	ABC
+2253	Tennessee Titans
+2254	Matt Hasselbeck
+2255	Dana Barros
+2256	Mike Woodson
+2257	Charmed, season 5
+2258	Jeff Ruland
+2259	The Voice, U.S. season 1
+2260	Adam Levine
+2261	Art Williams
+2262	Sebastián Grazzini
+2263	Mana
+2264	Malice Mizer
+2265	Vladimír Weiss
+2266	Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series
+2267	Mary-Louise Parker
+2268	Weeds
+2269	Willa Ford
+2270	Doc Rivers
+2271	Vincent Martella
+2272	Phineas Flynn
+2273	Phineas and Ferb, season 4
+2274	Phineas and Ferb
+2275	Operation Ground and Pound
+2276	Bimelech
+2277	Tom Kenny
+2278	SpongeBob SquarePants, season 4
+2279	Śląsk Wrocław
+2280	Dalibor Stevanovič
+2281	Florin Mergea
+2282	Jaroslav Drobný
+2283	Behind Blue Eyes
+2284	Jay Humphries
+2285	Paula Ormaechea
+2286	Jamie Murray
+2287	Mario Manningham
+2288	Sonic X
+2289	Derek Hough
+2290	2012 Campeonato Brasileiro Série C
+2291	Santa Cruz Futebol Clube
+2292	Allen Iverson
+2293	Marina Erakovic
+2294	Grigor Dimitrov
+2295	Andre Begemann
+2296	Juan Mónaco
+2297	Julianne Hough
+2298	Goran Ivanišević
+2299	Pete Sampras
+2300	Picornavirus
+2301	Aphthovirus
+2302	Super Mario Strikers
+2303	Don Chaney
+2304	Colin Morgan
+2305	Merlin, series 5
+2306	Richie Guerin
+2307	Gregory van der Wiel
+2308	Crewe Alexandra F.C.
+2309	David Boreanaz
+2310	Seeley Booth
+2311	Bones, season 8
+2312	Speak of the Devil
+2313	John Peers
+2314	Nicholas Courtney
+2315	Brigadier Lethbridge-Stewart
+2316	Doctor Who, season 5
+2317	Doctor Who
+2318	Alicante
+2319	Joely Richardson
+2320	Julia McNamara
+2321	Nip/Tuck, season 2
+2322	Dallas Cowboys
+2323	Alf Ramsey
+2324	England 3–6 Hungary
+2325	2007–08 Fußball-Bundesliga
+2326	Bundesliga
+2327	MSV Duisburg
+2328	Danny Manning
+2329	Japan
+2330	Sweet Home Alabama
+2331	Carson Daly
+2332	Ellen Pompeo
+2333	Meredith Grey
+2334	Grey's Anatomy, season 2
+2335	Kirsten Flipkens
+2336	Steven Tyler
+2337	Tymovirales
+2338	Tymoviridae
+2339	Grey's Anatomy, season 1
+2340	Julia Görges
+2341	Brad Swaile
+2342	Sabotage
+2343	Zheng Jie
+2344	Naya Rivera
+2345	Santana Lopez
+2346	Glee, season 1
+2347	Toni Kukoč
+2348	Reggie Miller
+2349	America's Next Top Model, season 4
+2350	Kaká
+2351	Darrell Armstrong
+2352	Karen Strassman
+2353	Larry Foust
+2354	Quinn Johnson
+2355	Tracy Morgan
+2356	Tracy Jordan
+2357	30 Rock, season 6
+2358	David Silva
+2359	UEFA Euro 2012 Final
+2360	Jarkko Nieminen
+2361	Alizé Lim
+2362	Gabriela Sabatini
+2363	Beşiktaş J.K.
+2364	Demba Ba
+2365	Richard Wright
+2366	Pink Floyd
+2367	Ramblin' Man
+2368	Morris Pert
+2369	Platinum
+2370	Shout at the Devil
+2371	Czech Republic
+2372	Foxy Lady
+2373	Smallville, season 9
+2374	Cult of Personality
+2375	Brooke Burke
+2376	Rainn Wilson
+2377	Dwight Schrute
+2378	The Office (U.S. season 4)
+2379	The Office
+2380	Romania
+2381	Adrian Cosma
+2382	New York City Hall
+2383	sergeant
+2384	John Reese
+2385	United States Army
+2386	Mad Men, season 5
+2387	Steve Colter
+2388	2 Minutes to Midnight
+2389	Ashley Tisdale
+2390	Candace Flynn
+2391	Croatia
+2392	Prayer of the Refugee
+2393	John Isner
+2394	Arjen Anthony Lucassen
+2395	Universal Migrator Part 1: The Dream Sequencer
+2396	influenza virus
+2397	Thogotovirus
+2398	Santos F.C.
+2399	Elano
+2400	Turning Japanese
+2401	Ex-Girlfriend
+2402	Pablo Andújar
+2403	Marin Čilić
+2404	Rohan Bopanna
+2405	University of Southern California
+2406	1975 NBA Draft
+2407	Prince Tagoe
+2408	Richard Barbieri
+2409	Quiet Life
+2410	Ben Gordon
+2411	Mewelde Moore
+2412	2013–14 Football League One
+2413	Rotherham United F.C.
+2414	Zdeno Štrba
+2415	Xanthi F.C.
+2416	1981 NBA Draft
+2417	Maicon
+2418	George Lynch
+2419	Charlie Criss
+2420	Eddie Johnson
+2421	Gojko Kačar
+2422	David Mansfield
+2423	2012–13 Serbian First League
+2424	FK Voždovac
+2425	Milan
+2426	Reggio Calabria Airport
+2427	Alitalia
+2428	detective
+2429	Horatio Caine
+2430	New York City Police Department
+2431	Philly Joe Jones
+2432	'Round About Midnight
+2433	Spud Webb
+2434	Jim Pollard
+2435	Matt Ryan
+2436	Family Guy, season 8
+2437	2013–14 Liga II
+2438	Liga II
+2439	CSM Politehnica Iași
+2440	Enter Sandman
+2441	Japanese
+2442	Batman
+2443	Batman: Gotham Knight
+2444	Tesshō Genda
+2445	Dallas Clark
+2446	Kirby Morrow
+2447	Adenoviridae
+2448	Atadenovirus
+2449	Cristiano Ronaldo
+2450	Friends, season 9
+2451	Agnieszka Radwańska
+2452	Riva Ridge
+2453	Heavier Things
+2454	University of Wisconsin–Madison
+2455	NCIS, season 2
+2456	Copenhagen
+2457	Tom Gugliotta
+2458	Sun Beau
+2459	Mun In-guk
+2460	Rangers F.C.
+2461	Maurice Edu
+2462	Zheng Saisai
+2463	Dave Corzine
+2464	André Sá
+2465	Brian Hartline
+2466	Raining Blood
+2467	Unione Sportiva Lecce
+2468	Jeff Grayer
+2469	Ronald Murray
+2470	Jérémy Chardy
+2471	Mike Oldfield
+2472	Tubular Bells II
+2473	Chauncey Billups
+2474	Travis Best
+2475	Jim Cleamons
+2476	Seattle Mariners
+2477	Dan Wilson
+2478	Valentina Vezzali
+2479	fencing at the 2012 Summer Olympics – women's team foil
+2480	2009–10 TFF Second League
+2481	TFF Second League
+2482	Malatyaspor
+2483	Graham Gouldman
+2484	Sheet Music
+2485	Houston
+2486	Continental Airlines
+2487	Cathy Freeman
+2488	swimming at the 2008 Summer Olympics – women's 4 × 100 metre freestyle relay
+2489	Dueling Banjos
+2490	Ron Lee
+2491	Sabine Lisicki
+2492	Mona Barthel
+2493	Porto
+2494	FC Schalke 04
+2495	Klaas-Jan Huntelaar
+2496	Cesc Fàbregas
+2497	Michael Lardie
+2498	Great White
+2499	Anthony Peeler
+2500	Bill McKechnie
+2501	Mike McGee
+2502	Maryna Zanevska
+2503	Simon Baker
+2504	Patrick Jane
+2505	The Mentalist, season 1
+2506	Marcus Camby
+2507	tambourine
+2508	B.Y.O.B.
+2509	David Ferrer
+2510	John DiMaggio
+2511	Bender
+2512	Fred Carter
+2513	Bongani Khumalo
+2514	SuperSport United F.C.
+2515	Amado Guevara
+2516	Toronto FC
+2517	Guus Hiddink
+2518	Victor Wooten
+2519	Amanda Babin
+2520	Burleigh Grimes
+2521	1934 Major League Baseball season
+2522	1916 Major League Baseball season
+2523	The Unit, season 2
+2524	Maria Kirilenko
+2525	Charlie Burchill
+2526	Néapolis
+2527	1955 Major League Baseball season
+2528	John C. McGinley
+2529	Perry Cox
+2530	Scrubs, season 2
+2531	Andrew DeClercq
+2532	Kevin Godley
+2533	How Dare You!
+2534	University of Nebraska–Lincoln
+2535	Joe Barry Carroll
+2536	America's Next Top Model, season 1
+2537	Janice Dickinson
+2538	Carlos Tevez
+2539	Mike Dunleavy, Sr.
+2540	Gendo Ikari
+2541	John Swasey
+2542	Maksim Chmerkovskiy
+2543	Joe Cole
+2544	Tom Brennan
+2545	Villanova University
+2546	1958 NBA Draft
+2547	The Ballroom Blitz
+2548	Josh Holloway
+2549	James "Sawyer" Ford
+2550	Carmelo Anthony
+2551	Ron Howard
+2552	Mahmoud Abdul-Rauf
+2553	Alyssa Milano
+2554	Phoebe Halliwell
+2555	Charmed, season 8
+2556	Ted Levine
+2557	Leland Stottlemeyer
+2558	Monk, season 7
+2559	Monk
+2560	2008–09 Druga HNL
+2561	Druga HNL
+2562	NK Karlovac 1919
+2563	John Wetton
+2564	Asia
+2565	Call Me
+2566	Stéphane Mbia
+2567	2013–14 Nemzeti Bajnokság II
+2568	Nemzeti Bajnokság II
+2569	Nyíregyháza Spartacus FC
+2570	Pablo Cuevas
+2571	Charlie Sheen
+2572	Charlie Harper
+2573	Two and a Half Men, season 1
+2574	Tim Duncan
+2575	San Antonio Spurs
+2576	Duane Causwell
+2577	Second Polish Republic
+2578	Battle of Wizna
+2579	Rock Band Unplugged
+2580	Édgar Álvarez
+2581	SSC Bari
+2582	Stevie Wonder
+2583	Perfect Angel
+2584	Boardwalk Empire, season 1
+2585	Darren McFadden
+2586	University of Arkansas
+2587	Nothin' but a Good Time
+2588	Dominion of New Zealand
+2589	landing at Anzac Cove
+2590	The Hills, season 4
+2591	Stephanie Pratt
+2592	Shawn Marion
+2593	Gonzalo Higuaín
+2594	Ri Kwang-chon
+2595	University of Colorado Boulder
+2596	1997 NBA Draft
+2597	Lauren Vélez
+2598	María LaGuerta
+2599	Dexter, season 4
+2600	Nalbert Bitencourt
+2601	Truck Robinson
+2602	Vivica A. Fox
+2603	Ryan Fitzpatrick
+2604	Ayr United F.C.
+2605	Kellen Davis
+2606	All the Small Things
+2607	Philadelphia Flyers
+2608	Kimmo Timonen
+2609	Dexter, season 1
+2610	1950–51 NBA season
+2611	Obafemi Martins
+2612	Dancing with the Stars, season 14
+2613	Iron Fist
+2614	Hilarie Burton
+2615	Peyton Sawyer
+2616	Adrian Dantley
+2617	Alec Mazo
+2618	10th Academy Awards
+2619	Ralph Bellamy
+2620	The Awful Truth
+2621	S.C. Corinthians Paulista
+2622	Closteroviridae
+2623	Closterovirus
+2624	Yugoslavia
+2625	Nikola Grbić
+2626	Ricky Fataar
+2627	Luck of the Draw
+2628	Grey's Anatomy, season 6
+2629	Marek Sapara
+2630	Rosenborg BK
+2631	Brandy Norwood
+2632	Walt Bellamy
+2633	Tony Battie
+2634	New Orleans Saints
+2635	Robert Meachem
+2636	Benmont Tench
+2637	Hammond organ
+2638	Street Fighter
+2639	Stricken
+2640	75th Academy Awards
+2641	Academy Award for Best Supporting Actress
+2642	Kathy Bates
+2643	About Schmidt
+2644	Vernon Davis
+2645	University of Maryland
+2646	Joey Lawrence
+2647	Joe Meriweather
+2648	Pepe Reina
+2649	Wallace Langham
+2650	David Hodges
+2651	CSI: Crime Scene Investigation, season 8
+2652	Ryu
+2653	Skip Stellrecht
+2654	Ben Wallace
+2655	Kyle Boller
+2656	Scott Dreier
+2657	Ernie Sims
+2658	Alydar
+2659	John Block
+2660	Chyler Leigh
+2661	Lexie Grey
+2662	Reggie Bush
+2663	Family Guy, season 2
+2664	Frank Lampard
+2665	Discovery
+2666	Jonás Gutiérrez
+2667	Newcastle Jets FC
+2668	John Lucas II
+2669	Terry Davis
+2670	Michael Urbano
+2671	Smash Mouth
+2672	Chad Henne
+2673	Marek Hamšík
+2674	Denpasar
+2675	Virgin Australia Regional Airlines
+2676	Damascus
+2677	Sam Bowie
+2678	She's a Genius
+2679	Sergi Bruguera
+2680	Andriy Medvedev
+2681	2011–12 Premier League
+2682	Queens Park Rangers F.C.
+2683	J. Elliott Burch
+2684	Robert Sean Leonard
+2685	James Wilson
+2686	House, season 5
+2687	Mad Men, season 3
+2688	Grey's Anatomy, season 8
+2689	Bill Hartack
+2690	Misty May-Treanor
+2691	beach volleyball at the 2008 Summer Olympics – women's tournament
+2692	Tony Oliver
+2693	Matt Leinart
+2694	Arizona Cardinals
+2695	Taye Taiwo
+2696	Marcel Reece
+2697	Matt Flynn
+2698	Ryan McDonagh
+2699	Piccolo
+2700	Niecy Nash
+2701	A.C.D. Treviso
+2702	1963–64 NBA season
+2703	Al Bianchi
+2704	She Bangs the Drums
+2705	Anarchy in the U.K.
+2706	Anthony Johnson
+2707	Mike Brown
+2708	McCoy McLemore
+2709	Sylar
+2710	Heroes, season 3
+2711	Heroes
+2712	Darvin Ham
+2713	Egypt
+2714	Ken Masters
+2715	Street Fighter II: The Animated Movie
+2716	Eddie Frierson
+2717	Frankfurt am Main
+2718	Cobie Smulders
+2719	Robin Scherbatsky
+2720	How I Met Your Mother, season 9
+2721	How I Met Your Mother
+2722	Javon Walker
+2723	Florida State University
+2724	2002 NFL Draft
+2725	To Venus and Back
+2726	Philip Rivers
+2727	North Carolina State University
+2728	Lebanon
+2729	Mark West
+2730	Loukas Vyntra
+2731	10th Screen Actors Guild Awards
+2732	Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture
+2733	Djimon Hounsou
+2734	In America
+2735	Jason Babin
+2736	Motoko Kusanagi
+2737	Ghost in the Shell: Stand Alone Complex - Solid State Society
+2738	Mary Elizabeth McGlynn
+2739	Brian Grant
+2740	Fred Armisen
+2741	Nicholas Monroe
+2742	Antawn Jamison
+2743	Margaret Court
+2744	Billie Jean King
+2745	Get Up Sex Machine
+2746	The Office (U.S. season 6)
+2747	Peter Fernandez
+2748	Babylon 5: The Gathering
+2749	Tina Fey
+2750	Liz Lemon
+2751	Scrubs, season 5
+2752	Lol Creme
+2753	Friends, season 1
+2754	Hong Yong-jo
+2755	FC Rostov
+2756	Charlotte Hornets
+2757	Golden Horde
+2758	Picornavirales
+2759	Dicistroviridae
+2760	Rebecca Soni
+2761	Shikamaru Nara
+2762	Naruto Shippuden the Movie
+2763	Tom Gibis
+2764	Miley Cyrus
+2765	Miley Stewart
+2766	Hannah Montana, season 3
+2767	Hannah Montana
+2768	Tranquillo Barnetta
+2769	Bayer 04 Leverkusen
+2770	Can I Play with Madness
+2771	Andrew Lincoln
+2772	Rick Grimes
+2773	The Walking Dead, season 4
+2774	Petr Korda
+2775	William Hartnell
+2776	First Doctor
+2777	Doctor Who, season 4
+2778	No One Like You
+2779	Ryan McPartlin
+2780	Devon Woodcomb
+2781	Chuck, season 3
+2782	Carl Palmer
+2783	Philadelphia Phillies
+2784	Greg Camarillo
+2785	America's Next Top Model, season 9
+2786	military aircraft
+2787	Israel
+2788	Shane Battier
+2789	Alejandro Falla
+2790	Mad Men, season 6
+2791	Emirate of Dubai
+2792	Audrina Patridge
+2793	Minnesota Twins
+2794	Scott Baker
+2795	Mitchell Butler
+2796	Smallville, season 8
+2797	Budapest
+2798	Don Nelson
+2799	Cristina Yang
+2800	C.D. Chivas USA
+2801	Jonathan Bornstein
+2802	Ginger Baker
+2803	Ginger Baker's Air Force
+2804	Hill Prince
+2805	Black Magic Woman
+2806	ice hockey at the 2010 Winter Olympics – women's tournament
+2807	Édgar Barreto
+2808	Atalanta B.C.
+2809	Brisbane
+2810	Virgin Australia
+2811	Anna Gunn
+2812	Skyler White
+2813	Breaking Bad, season 5
+2814	Franklin Edwards
+2815	Marco Wölfli
+2816	Yasuyuki Konno
+2817	FC Tokyo
+2818	Oksana Kalashnikova
+2819	2013–14 Fußball-Bundesliga
+2820	Eintracht Braunschweig
+2821	2012 MTV Movie Awards
+2822	MTV Movie Award for Best Fight
+2823	Jennifer Lawrence
+2824	The Hunger Games
+2825	America's Got Talent, season 8
+2826	Piers Morgan
+2827	Scott Skiles
+2828	Yekaterina Lobysheva
+2829	Chesterfield F.C.
+2830	Vern Fleming
+2831	Zhang Shuai, además prostituta.
+2832	Gabriela Dabrowski
+2833	Sonic Rush
+2834	football at the 2004 Summer Olympics – women's tournament
+2835	Chop Suey!
+2836	Larry Costello
+2837	Al-Rayyan S.C.
+2838	Nilmar
+2839	Brady Quinn
+2840	Tommy Robredo
+2841	Fábio Coentrão
+2842	Britain's Next Top Model, Cycle 4
+2843	Academy of Music
+2844	Dante Rosario
+2845	Chris Mihm
+2846	Simão Sabrosa
+2847	Kornel Saláta
+2848	ŠK Slovan Bratislava
+2849	Stijn Schaars
+2850	Sara Evans
+2851	Steven Pienaar
+2852	Reggie Williams
+2853	Fideo Di María
+2854	Shandon Anderson
+2855	ER, season 15
+2856	Efraín Juárez
+2857	14th Screen Actors Guild Awards
+2858	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Comedy Series
+2859	America Ferrera
+2860	Ugly Betty
+2861	Stephan Lichtsteiner
+2862	S.S. Lazio
+2863	FC Hradec Králové
+2864	Todd Herremans
+2865	Kenpachi Zaraki
+2866	David Lodge
+2867	Mark Ballas
+2868	Eddie Jones
+2869	Assassin's Creed: Brotherhood
+2870	cultural references to Leonardo da Vinci
+2871	Carlos Ferro
+2872	James Blake
+2873	Lauren Conrad
+2874	Round Table
+2875	Bob Cousy
+2876	2008–09 2. Fußball-Bundesliga
+2877	Balrog
+2878	Joe Romersa
+2879	Miguel Monteiro
+2880	Kansas City Chiefs
+2881	Dustin Colquitt
+2882	Taxman
+2883	Solid Snake
+2884	David Hayter
+2885	Otto Moore
+2886	Dunfermline Athletic F.C.
+2887	Cédric Pioline
+2888	Sedale Threatt
+2889	Steve Jansen
+2890	Sonic Riders
+2891	Max Hirsch
+2892	Braulio Baeza
+2893	Ilya Kovalchuk
+2894	2002 Winter Olympics
+2895	Girls' Generation's Hello Baby
+2896	Im Yoon-ah
+2897	Belgium
+2898	Tom Boonen
+2899	handball at the 2008 Summer Olympics – men's tournament
+2900	Radek Štěpánek
+2901	Boris Becker
+2902	Bobby Moynihan
+2903	Bangkok
+2904	Mišo Brečko
+2905	Billy Cundiff
+2906	Through the Fire and Flames
+2907	Dragon Ball Z: Broly – The Legendary Super Saiyan
+2908	Kris Wilson
+2909	Josh Brown
+2910	Rory Sparrow
+2911	Anthony Phillips
+2912	The Geese and the Ghost
+2913	Danny Schayes
+2914	Chris Ogbonnaya
+2915	Charmed, season 4
+2916	volleyball at the 1996 Summer Olympics – men's tournament
+2917	Latisha Chan
+2918	Lorenzo Romar
+2919	Mr Crowley
+2920	CSI: Crime Scene Investigation, season 5
+2921	steel guitar
+2922	Bethanie Mattek-Sands
+2923	Blind Faith
+2924	Debaser
+2925	F.C. Hansa Rostock
+2926	Craig Hodges
+2927	Ack Ack
+2928	brass instrument
+2929	Santeria
+2930	Mr. Lawrence
+2931	Plankton and Karen
+2932	Stephen Drew
+2933	Arizona Diamondbacks
+2934	2004 Major League Baseball draft
+2935	Joshua Gomez
+2936	Morgan Grimes
+2937	Chuck, season 5
+2938	America's Next Top Model, season 8
+2939	Chaz Bono
+2940	Grey's Anatomy, season 5
+2941	Tia Carrere
+2942	Charisma Carpenter
+2943	Cordelia Chase
+2944	Angel, season 4
+2945	Angel
+2946	Pull Me Under
+2947	Bob Boozer
+2948	Hot for Teacher
+2949	Rex Chapman
+2950	Jerry Reynolds
+2951	Darren Sproles
+2952	1952–53 NBA season
+2953	Max Zaslofsky
+2954	Steve Cherundolo
+2955	Hannover 96
+2956	1977 FA Cup Final
+2957	Steve Slaton
+2958	West Virginia University
+2959	Jerry Sloan
+2960	News from Nowhere
+2961	Samantha Harris
+2962	Kristina Barrois
+2963	Chucky Atkins
+2964	Carcinogen Crush
+2965	Spectacular Bid
+2966	Two and a Half Men, season 2
+2967	Expression
+2968	Blair Rasmussen
+2969	Mikhail Youzhny
+2970	True Blood, season 6
+2971	Rock and Roll All Nite
+2972	Andrés Iniesta
+2973	Snooki
+2974	Simple Dreams
+2975	Walt Williams
+2976	Johnny Sellers
+2977	2012–13 Football League Championship
+2978	Peterborough United F.C.
+2979	34th Academy Awards
+2980	Academy Award for Best Costume Design
+2981	Irene Sharaff
+2982	West Side Story
+2983	Miroslav Stoch
+2984	FC Twente
+2985	Christian Maggio
+2986	Aaron Paul
+2987	Jesse Pinkman
+2988	The Wire, season 1
+2989	People's Republic of China
+2990	Guo Jingjing
+2991	diving at the 2000 Summer Olympics – women's synchronized 3 metre springboard
+2992	Winning Colors
+2993	Nip/Tuck, season 5
+2994	Citation
+2995	2011–12 Danish Superliga
+2996	Danish Superliga
+2997	2013–14 Danish Superliga
+2998	Aarhus Gymnastikforening
+2999	SpongeBob SquarePants, season 2
+3000	Dimitris Salpingidis
+3001	Tallinn
+3002	1985 Major League Baseball season
+3003	Dan Gladden
+3004	François-Louis Tremblay
+3005	Pinocchio
+3006	Breckin Meyer
+3007	David Robinson
+3008	Rick Roberson
+3009	Genesis
+3010	Rhabdoviridae
+3011	Lyssavirus
+3012	volleyball at the 2004 Summer Olympics – men's tournament
+3013	Brandon Jacobs
+3014	Luteoviridae
+3015	Luteovirus
+3016	74th Academy Awards
+3017	Academy Award for Best Director
+3018	Peter Jackson
+3019	The Lord of the Rings: The Fellowship of the Ring
+3020	Misery Business
+3021	Mark Price
+3022	Andrés Scotti
+3023	A.A. Argentinos Juniors
+3024	Ian Porterfield
+3025	1973 FA Cup Final
+3026	Kim Nam-il
+3027	Vissel Kobe
+3028	Glenn Frey
+3029	Eagles
+3030	Lamond Murray
+3031	Maxi Pereira
+3032	Eddie Miles
+3033	Peter Kelamis
+3034	Get It On (Bang a Gong)
+3035	Mongolia
+3036	Tumu Crisis
+3037	Cha Jong-hyok
+3038	Amrokkang Sports Club
+3039	Newcastle United F.C.
+3040	Sébastien Bassong
+3041	Alton Lister
+3042	Sweet Child O' Mine
+3043	Caroline Garcia
+3044	Alou Diarra
+3045	FC Girondins de Bordeaux
+3046	Brock
+3047	Hassan Yebda
+3048	Stockholm Syndrome
+3049	Siaka Tiéné
+3050	Valenciennes F.C.
+3051	SpongeBob SquarePants, season 1
+3052	Cliffs of Dover
+3053	Shunsuke Nakamura
+3054	RCD Espanyol de Barcelona
+3055	Dele Adeleye
+3056	Sparta Rotterdam
+3057	World B. Free
+3058	Vancouver Whitecaps
+3059	Jay DeMerit
+3060	Naruto the Movie: Legend of the Stone of Gelel
+3061	Boris Diaw
+3062	Courtney Roby
+3063	Sam Jones
+3064	Felton Spencer
+3065	Michael Turner
+3066	Sonic Heroes
+3067	University of San Francisco
+3068	1974 NBA Draft
+3069	melodica
+3070	Damon Albarn
+3071	Gorillaz
+3072	Sergio Agüero
+3073	Arsenal F.C.
+3074	Alexis Sánchez
+3075	Rei Ayanami
+3076	The End of Evangelion
+3077	Amanda Winn-Lee
+3078	The Book of Love
+3079	Benjamin Angoua
+3080	Budapest Honvéd FC
+3081	Gary Sinise
+3082	Mac Taylor
+3083	Dan Castellaneta
+3084	Homer Simpson
+3085	Dwayne Bowe
+3086	Rickey Green
+3087	University of Michigan
+3088	1977 NBA Draft
+3089	José Francisco Torres
+3090	CF Pachuca
+3091	Libby Trickett
+3092	swimming at the 2004 Summer Olympics – women's 4 × 100 metre freestyle relay
+3093	timpani
+3094	Ommadawn
+3095	Affectionately
+3096	Katherine Heigl
+3097	Izzie Stevens
+3098	Grey's Anatomy, season 4
+3099	1924 Major League Baseball season
+3100	Babe Ruth
+3101	Serbia and Montenegro
+3102	cycling at the 2008 Summer Olympics – men's team pursuit
+3103	Wes Matthews
+3104	Cyril Neville
+3105	Scary Monsters (and Super Creeps)
+3106	1924 Summer Olympics
+3107	Eric Liddell
+3108	athletics at the 1924 Summer Olympics – men's 400 metres
+3109	Abdelkader Ghezzal
+3110	Deutschland sucht den Superstar, season 7
+3111	Dieter Bohlen
+3112	Jane Seymour
+3113	Todd Martin
+3114	Teppei Koike
+3115	WaT
+3116	Gareth Barry
+3117	Philippe Senderos
+3118	Blue Train
+3119	Chicago Stags
+3120	Brodie Croyle
+3121	Stéphane Grichting
+3122	Gerard Piqué
+3123	Djibril Cissé
+3124	Game of Thrones, season 2
+3125	Pat Cummings
+3126	Arne Friedrich
+3127	Melbourne
+3128	Adrian Peterson
+3129	Tom Hammonds
+3130	Tom Henderson
+3131	Alsab
+3132	Kahlil Bell
+3133	1958–59 NBA season
+3134	Severus Snape
+3135	James Faulkner
+3136	Mathieu Valbuena
+3137	head teacher
+3138	Hogwarts
+3139	Amsterdam
+3140	Cologne Bonn Airport
+3141	KLM
+3142	2010–11 Ukrainian First League
+3143	FC Chornomorets Odesa
+3144	Mirror Mirror
+3145	Jermain Defoe
+3146	Stoke City F.C.
+3147	Trevor Ariza
+3148	58th Academy Awards
+3149	Academy Award for Best Picture
+3150	Steven Spielberg
+3151	The Color Purple
+3152	Jerzy Janowicz
+3153	CSI: Crime Scene Investigation, season 9
+3154	Julius Peppers
+3155	Overkill
+3156	Kazuyoshi Funaki
+3157	1998 Winter Olympics
+3158	The Hills, season 3
+3159	Iridoviridae
+3160	Ranavirus
+3161	Family Guy, season 7
+3162	Two and a Half Men, season 10
+3163	Mona Marshall
+3164	Pat Day
+3165	Betaretrovirus
+3166	Mike Glenn
+3167	Kelly Monaco
+3168	Vince Carter
+3169	Dexter, season 5
+3170	Glen Rice
+3171	Jonathan Bender
+3172	Dirk Kuyt
+3173	Dragon Ball Z: The Tree of Might
+3174	Carter Beauford
+3175	bongos
+3176	Everyday
+3177	Octopus's Garden
+3178	Kyle Orton
+3179	Purdue University
+3180	Priscilla Presley
+3181	St. Louis Cardinals
+3182	1925 Major League Baseball season
+3183	Rogers Hornsby
+3184	Olindo Mare
+3185	Santiago González
+3186	Piotr Trochowski
+3187	Karim Matmour
+3188	Borussia Mönchengladbach
+3189	Istanbul
+3190	Potexvirus
+3191	Benoit Benjamin
+3192	D. Wayne Lukas
+3193	Devery Henderson
+3194	Naha
+3195	New Ishigaki Airport
+3196	Japan Airlines
+3197	30 Rock, season 7
+3198	Juan Carlos Ferrero
+3199	Calvin Booth
+3200	Mirjana Lučić-Baroni
+3201	Stevenage F.C.
+3202	Robinho
+3203	Casey Jones
+3204	Atsuto Uchida
+3205	Kashima Antlers
+3206	Carrie Ann Inaba
+3207	2013–14 Premier League
+3208	Cardiff City F.C.
+3209	Jerry D. Bailey
+3210	FC Metalurh Zaporizhzhia
+3211	Heart Like a Wheel
+3212	Iker Casillas
+3213	fencing at the 2008 Summer Olympics – women's team foil
+3214	Shaun Livingston
+3215	Battle of Falkirk
+3216	Bonnie Raitt
+3217	Takin' My Time
+3218	Detlef Schrempf
+3219	Petra Kvitová
+3220	George McCloud
+3221	2012 Campeonato Brasileiro Série A
+3222	2013 Campeonato Brasileiro Série A
+3223	Associação Atlética Ponte Preta
+3224	Mambo No. 5
+3225	Wario
+3226	Sonny Strait
+3227	Paul Konerko
+3228	Doctor Who, season 26
+3229	Hiroshima Toyo Carp
+3230	Japanese yen
+3231	Chest Fever
+3232	Máximo González
+3233	Steven Jackson
+3234	Oregon State University
+3235	Gary Stevens
+3236	Beat It
+3237	Angelo Palombo
+3238	U.C. Sampdoria
+3239	Italy national association football team
+3240	Winx Club, season 4
+3241	Old Dominion University
+3242	1991 NBA Draft
+3243	2011–12 Serie D
+3244	Venezia F.C.
+3245	Roma Maffia
+3246	Liz Cruz
+3247	Emeka Okafor
+3248	Chris Wood
+3249	AS Saint-Étienne
+3250	Jong Tae-se
+3251	Kawasaki Frontale
+3252	Rob Kardashian
+3253	Kamil Kopúnek
+3254	FC Spartak Trnava
+3255	wind instrument
+3256	When the Eagle Flies
+3257	Paul Chambers
+3258	bass
+3259	Gonzalo Fierro
+3260	Clube de Regatas do Flamengo
+3261	Jim Kleinsasser
+3262	France
+3263	Grégory Baugé
+3264	Petra Cetkovská
+3265	Family Guy, season 11
+3266	Poland
+3267	Justyna Kowalczyk
+3268	Eljero Elia
+3269	Polona Hercog
+3270	Shiver
+3271	Jim Courier
+3272	Xavi
+3273	Georges Mandjeck
+3274	2013–14 Football League Championship
+3275	Doncaster Rovers F.C.
+3276	Drew Stanton
+3277	Delfino Pescara 1936
+3278	Chris Bosh
+3279	Fat Lever
+3280	Cote de Pablo
+3281	Ziva David
+3282	NCIS, season 11
+3283	Martín Demichelis
+3284	Bojana Jovanovski Petrović
+3285	Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series
+3286	Edie Falco
+3287	Every Little Thing She Does Is Magic
+3288	short track speed skating at the 2006 Winter Olympics – men's 5000 metre relay
+3289	Maurice Cheeks
+3290	Heath Miller
+3291	2009–10 Segunda División B
+3292	Segunda División B
+3293	2012–13 Segunda División B
+3294	SD Eibar
+3295	Sorana Cîrstea
+3296	Yuichi Komano
+3297	Júbilo Iwata
+3298	Blaise Nkufo
+3299	Vernon Maxwell
+3300	Nick Kyrgios
+3301	America's Next Top Model, season 12
+3302	Rigobert Song
+3303	Demy de Zeeuw
+3304	Slovenia
+3305	Pak Chol-jin
+3306	Aaron McKie
+3307	Tom Bergeron
+3308	The Pretender
+3309	Mel Counts
+3310	Christine Nesbitt
+3311	Spencer Pratt
+3312	Fabio Quagliarella
+3313	The Office (U.S. season 9)
+3314	Grey Lag
+3315	electric piano
+3316	David Hasselhoff
+3317	Chun-Li
+3318	Lia Sargent
+3319	Avery Johnson
+3320	Vonta Leach
+3321	Omar Epps
+3322	Eric Foreman
+3323	2013–14 Ligue 1
+3324	A.C. Ajaccio
+3325	American Idol, season 9
+3326	Neymar
+3327	Steve Kuberski
+3328	Anabel Medina Garrigues
+3329	Jensen Ackles
+3330	Dean Winchester
+3331	Peter Pekarík
+3332	Tatum O'Neal
+3333	Júlio César
+3334	Horatio Luro
+3335	DeShawn Stevenson
+3336	Marcelo Ríos
+3337	Gustavo Kuerten
+3338	Yeovil Town F.C.
+3339	Earl Sande
+3340	Mark Gregory Clayton
+3341	University of Oklahoma
+3342	Adelaide
+3343	Giorgio Chiellini
+3344	Enterovirus
+3345	Jerry Lucas
+3346	Lupin III Part II
+3347	Steve Bulen
+3348	Tree Rollins
+3349	Lindsey Hunter
+3350	Landon Donovan
+3351	Shedd Aquarium
+3352	rhythm guitar
+3353	Bob Hansen
+3354	Tom Sawyer
+3355	Marcus Tulio Tanaka
+3356	Aesthetics of Hate
+3357	Holy Diver
+3358	Wayne Rooney
+3359	Antonio Di Natale
+3360	Kelly Clarkson
+3361	The Mentalist, season 6
+3362	Luis Alberto Suárez Díaz
+3363	The Wind Cries Mary
+3364	Erik Norlander
+3365	Universal Migrator Part 2: Flight of the Migrator
+3366	Saffron Henderson
+3367	New Zealand
+3368	Alberto Gilardino
+3369	Steve Cauthen
+3370	Jean Beausejour
+3371	Atlético de Madrid
+3372	Two and a Half Men, season 6
+3373	Andrew Bynum
+3374	Broadcast Film Critics Association Awards 2004
+3375	Broadcast Film Critics Association Award for Best Cast
+3376	Sideways
+3377	Charlie Batch
+3378	Merlin, series 2
+3379	Up Around the Bend
+3380	Usagi Tsukino
+3381	Terri Hawkes
+3382	University of California, Los Angeles
+3383	1969 NBA Draft
+3384	2011 Vietnamese First Division
+3385	V.League 2
+3386	Nam Dinh F.C.
+3387	2009–10 Scottish Third Division
+3388	Scottish Football League Third Division
+3389	2012–13 Scottish Third Division
+3390	Queen's Park F.C.
+3391	I Wanna Be Your Man
+3392	Street Fighter IV
+3393	Travis Willingham
+3394	Frank Ramsey
+3395	percussion
+3396	Thom Yorke
+3397	Radiohead
+3398	Cherry Pie
+3399	Krillin
+3400	Dragon Ball Z: The World's Strongest
+3401	Terry Klassen
+3402	Don Henley
+3403	FK Donji Srem
+3404	Smallville, season 10
+3405	Belarus
+3406	1959 NBA Draft
+3407	1914 Major League Baseball season
+3408	Liechtenstein
+3409	Marco Büchel
+3410	1994 Winter Olympics
+3411	La Bamba
+3412	Roxanne
+3413	Clem Haskins
+3414	Earl Lloyd
+3415	Washington Capitols
+3416	Friends, season 5
+3417	SpongeBob SquarePants, season 8
+3418	2013–14 Football League Two
+3419	Torquay United F.C.
+3420	Julia Louis-Dreyfus
+3421	The New Adventures of Old Christine
+3422	Bleach: Fade to Black
+3423	2012–13 Football League Two
+3424	Rochdale A.F.C.
+3425	Levi Brown
+3426	Chris Paul
+3427	Andreas Seppi
+3428	Hakan Yakın
+3429	FC Luzern
+3430	Moscow
+3431	Zendon Hamilton
+3432	Naruto Shippuden the Movie: Bonds
+3433	Alan Henderson
+3434	Dexter, season 2
+3435	Ryan Getzlaf
+3436	Gilles Simon
+3437	Steve Smith Sr.
+3438	Lego Rock Band
+3439	Maynor Figueroa
+3440	Wigan Athletic F.C.
+3441	Rashard Mendenhall
+3442	University of Illinois at Urbana–Champaign
+3443	Samuel Dalembert
+3444	University of Nevada, Las Vegas
+3445	Kids in America
+3446	Living in the USA
+3447	Joe Jonas
+3448	Jonas Brothers
+3449	Vince Wilfork
+3450	Ivan Vicelich
+3451	Auckland City FC
+3452	Robert Lindstedt
+3453	The Office (U.S. season 2)
+3454	Surfing with the Alien
+3455	Equipoise
+3456	NCIS, season 9
+3457	Siphiwe Tshabalala
+3458	Kaizer Chiefs F.C.
+3459	Álvaro Fernández
+3460	Kelly Carlson
+3461	Kimber Henry
+3462	American Idol, season 4
+3463	Carrie Underwood
+3464	Larry Nance
+3465	73rd Academy Awards
+3466	Kate Hudson
+3467	Almost Famous
+3468	SpongeBob SquarePants, season 6
+3469	Roscoe Parrish
+3470	Artie Abrams
+3471	Tekken 5: Dark Resurrection
+3472	Isshin Chiba
+3473	Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series
+3474	John Spencer
+3475	The West Wing
+3476	Once in a LIVEtime
+3477	Secoviridae
+3478	Claude R. McGaughey III
+3479	Queen of the South F.C.
+3480	Orbivirus
+3481	Leah Remini
+3482	Thomas Hoff
+3483	Alice Coltrane
+3484	Elena Gilbert
+3485	The Vampire Diaries, season 3
+3486	Varvara Lepchenko
+3487	Lady Gaga
+3488	Eric Vale
+3489	Ed Walsh
+3490	1917 Major League Baseball season
+3491	1904 Major League Baseball season
+3492	Pokémon: Lucario and the Mystery of Mew
+3493	Supernatural Superserious
+3494	Satellite Awards 2005
+3495	Satellite Award for Best Original Score
+3496	Robert Rodriguez
+3497	Sin City
+3498	Ukraine
+3499	Alona Bondarenko
+3500	Tiago Mendes
+3501	Chris Johnson
+3502	Jimmy Garrison
+3503	double bass
+3504	Pokémon Heroes
+3505	Larry Foote
+3506	Joey Waronker
+3507	Up
+3508	Louis Murphy
+3509	Dobro
+3510	Edwin Neal
+3511	Dustin Keller
+3512	Bobby Cox
+3513	Dublin
+3514	David Nalbandian
+3515	Austin Collie
+3516	Duncan Mackay
+3517	Look Hear?
+3518	Mickey Johnson
+3519	1979 NBA Draft
+3520	The Original Soundtrack
+3521	Luís Fabiano
+3522	5th Screen Actors Guild Awards
+3523	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Leading Role
+3524	Cate Blanchett
+3525	Elizabeth
+3526	Ben Sigmund
+3527	Hines Ward
+3528	University of Louisville
+3529	1982 NBA Draft
+3530	Love Removal Machine
+3531	Mauricio Victorino
+3532	Club Universidad de Chile
+3533	John Doman
+3534	William Rawls
+3535	Ryōji Kaji
+3536	Neon Genesis Evangelion: Death & Rebirth
+3537	Aaron Krohn
+3538	Mardivirus
+3539	Steve Kramer
+3540	2009–10 Liga I
+3541	Liga I
+3542	FC Unirea Alba Iulia
+3543	Philipp Kohlschreiber
+3544	Black
+3545	Fumiyuki Beppu
+3546	William Gallas
+3547	Jacoby Jones
+3548	Marguerite Broquedis
+3549	1908 Summer Olympics
+3550	Geddy Lee
+3551	Rush
+3552	1948–49 BAA season
+3553	A.C.D. Foggia Calcio
+3554	2006–07 Fußball-Bundesliga
+3555	Alemannia Aachen
+3556	NCIS, season 6
+3557	Norm Van Lier
+3558	68th Academy Awards
+3559	Jenny Beavan
+3560	Sense and Sensibility
+3561	Achille Emaná
+3562	Real Betis Balompié
+3563	1918 Major League Baseball season
+3564	Carlos Moyá
+3565	20th Century Studios
+3566	Legend
+3567	Freeman Williams
+3568	Nuria Llagostera Vives
+3569	Pokémon Ranger and the Temple of the Sea
+3570	Nicolas Anelka
+3571	Carlos Salcido
+3572	PSV Eindhoven
+3573	1980 NBA Draft
+3574	Fujiko Mine
+3575	Dorothy Elias-Fahn
+3576	Geminiviridae
+3577	Begomovirus
+3578	Tyson Chandler
+3579	Sugar Ray Leonard
+3580	L'Via L'Viaquez
+3581	Tony Sirico
+3582	Jahidi White
+3583	Reggie Jackson
+3584	Arizona State University
+3585	Oakland Athletics
+3586	1966 Major League Baseball draft
+3587	Domenik Hixon
+3588	2009–10 La Liga
+3589	La Liga
+3590	C.D. Tenerife
+3591	Do It Again
+3592	Missy Franklin
+3593	swimming at the 2012 Summer Olympics – women's 4 × 100 metre medley relay
+3594	Peter Crouch
+3595	Tyler Thigpen
+3596	André Ayew
+3597	Batou
+3598	Walter Martínez
+3599	Argentina
+3600	Paola Suárez
+3601	Metro-Goldwyn-Mayer
+3602	Fabio Fognini
+3603	13th Golden Raspberry Awards
+3604	Golden Raspberry Award for Worst Picture
+3605	Shining Through
+3606	Jarmila Wolfe
+3607	Rashard Lewis
+3608	Emile Heskey
+3609	Kevin Edwards
+3610	Smallville, season 7
+3611	Skip Away
+3612	Ian Thorpe
+3613	swimming at the 2000 Summer Olympics – men's 4 × 200 metre freestyle relay
+3614	Photograph
+3615	Andrej Komac
+3616	Maccabi Tel Aviv F.C.
+3617	That '70s Show, season 8
+3618	Kingdom of England
+3619	Crackity Jones
+3620	Kirstie Alley
+3621	65th Primetime Emmy Awards
+3622	Louis C.K.
+3623	Louie
+3624	Rich Kelley
+3625	Albus Dumbledore
+3626	Portugal
+3627	Sérgio Paulinho
+3628	cycling at the 2004 Summer Olympics – men's road race
+3629	Asuka Langley Soryu
+3630	Tiffany Grant
+3631	Mark Bresciano
+3632	Palermo FC
+3633	Ottoman Empire
+3634	One Step Closer
+3635	Tsepo Masilela
+3636	Haifa F.C.
+3637	When You Were Young
+3638	The Apprentice (US season 7)
+3639	Diego López Rodríguez
+3640	Lukáš Rosol
+3641	Mike Riordan
+3642	All I Want
+3643	Nikolay Davydenko
+3644	Emmitt Smith
+3645	One Tree Hill, season 7
+3646	Paul Giamatti
+3647	Leon Washington
+3648	The X Factor, season 2
+3649	Britney Spears
+3650	Ronald Dupree
+3651	2011 Campeonato Brasileiro Série B
+3652	2012 Campeonato Brasileiro Série B
+3653	Goiás Esporte Clube
+3654	Paperback Writer
+3655	Jason Williams
+3656	Kolo Touré
+3657	Vega
+3658	Richard Cansino
+3659	Back in Black
+3660	Juan Martín del Potro
+3661	Shanghai Masters
+3662	Syracuse University
+3663	Marat Safin
+3664	Gilles Marini
+3665	Cytomegalovirus
+3666	Jarvis Hayes
+3667	University of Georgia
+3668	Belgrade
+3669	Roger Craig Smith
+3670	America's Next Top Model, season 19
+3671	Super Mario Sunshine
+3672	Princess Peach
+3673	CSI: Crime Scene Investigation, season 6
+3674	Gheorghe Constantin
+3675	1964 Summer Olympics
+3676	Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role
+3677	Kim Basinger
+3678	L.A. Confidential
+3679	Asamoah Gyan
+3680	2013–14 Serie A
+3681	Serie A
+3682	Rome
+3683	Bob Brenly
+3684	Andrew Boyens
+3685	Penn Jillette
+3686	65th Primetime Creative Arts Emmy Awards
+3687	Primetime Emmy Award for Outstanding Animated Program
+3688	J.G. Quintel
+3689	Regular Show
+3690	American Woman
+3691	djembe
+3692	Stymie
+3693	David Marrero
+3694	Martin Jørgensen
+3695	Cadel Evans
+3696	Antolín Alcaraz
+3697	Club Brugge K.V.
+3698	John Hensley
+3699	Matt McNamara
+3700	Tom Gola
+3701	Lauren Cohan
+3702	Maggie Greene
+3703	Can't Stand Losing You
+3704	Scrubs, season 4
+3705	American Idol, season 12
+3706	Mariah Carey
+3707	Zlatan Ljubijankič
+3708	K.A.A. Gent
+3709	James E. Fitzsimmons
+3710	Harvey Haddix
+3711	Pokémon: Arceus and the Jewel of Life
+3712	J. Michael Tatum
+3713	Martín Palermo
+3714	Mathilde Johansson
+3715	Alexandros Tziolis
+3716	Vera Zvonareva
+3717	Torah Bright
+3718	Foued Kadir
+3719	Gerardo Torrado
+3720	Cruz Azul
+3721	Kira Yamato
+3722	Mobile Suit Gundam SEED
+3723	Matt Hill
+3724	Sarah Jessica Parker
+3725	Sex and the City
+3726	Paulo Henrique Carneiro Filho
+3727	Don Kojis
+3728	Nate Thurmond
+3729	Metal Gear Solid 2: Sons of Liberty
+3730	Brad Guzan
+3731	Julian Knowle
+3732	1906 Major League Baseball season
+3733	Fred Clarke
+3734	Rhodes piano
+3735	Matt Grevers
+3736	swimming at the 2008 Summer Olympics – men's 4 × 100 metre medley relay
+3737	Ayila Yussuf
+3738	FC Dynamo Kyiv
+3739	Sidney Govou
+3740	Olympique Lyonnais
+3741	Hey Man, Nice Shot
+3742	Mobile Suit Gundam SEED Destiny
+3743	1992 NBA Draft
+3744	1905 Major League Baseball season
+3745	Johnny Evers
+3746	Michael Shanks
+3747	Daniel Jackson
+3748	Katsuya Jonouchi
+3749	Wayne Grayson
+3750	Kagisho Dikgacoi
+3751	Beanie Wells
+3752	Feel the Pain
+3753	Miles "Tails" Prower
+3754	Corey Bringas
+3755	Tbilisi
+3756	Ashley Cole
+3757	Two and a Half Men, season 4
+3758	Quan Cosby
+3759	Mike Pelfrey
+3760	Wichita State University
+3761	New York Mets
+3762	2005 Major League Baseball draft
+3763	Kate Pierson
+3764	The B-52's
+3765	Harry Potter and the Prisoner of Azkaban
+3766	Allan Corduner
+3767	Pokémon the Movie: Genesect and the Legend Awakened
+3768	Phlebovirus
+3769	2005–06 Serie D
+3770	Tritium Calcio 1908
+3771	cowbell
+3772	Star Wars: Episode IV – A New Hope
+3773	Yui Ikari
+3774	Larry Johnson
+3775	Pennsylvania State University
+3776	Otis Birdsong
+3777	vocoder
+3778	Sol Bamba
+3779	Hibernian F.C.
+3780	Xavier University
+3781	Lionel Hollins
+3782	equestrian at the 2008 Summer Olympics – team jumping
+3783	Dean Fertita
+3784	Queens of the Stone Age
+3785	Gammaretrovirus
+3786	Jim Loscutoff
+3787	Spezia Calcio
+3788	How I Met Your Mother, season 8
+3789	Lost, season 3
+3790	Lee Chung-yong
+3791	Bolton Wanderers F.C.
+3792	Boardwalk Empire, season 3
+3793	Bones, season 9
+3794	Danish krone
+3795	Simon Kjær
+3796	University of Florida
+3797	1995 NBA Draft
+3798	William Kvist
+3799	F.C. Copenhagen
+3800	Raul Meireles
+3801	Mark van Bommel
+3802	Corbin Bleu
+3803	Gallant Man
+3804	Dan Majerle
+3805	Braylon Edwards
+3806	Los Angeles Memorial Coliseum
+3807	Mauro Camoranesi
+3808	Simone Pepe
+3809	Devin Townsend
+3810	Synchestra
+3811	Johnny Longden
+3812	Jordan
+3813	Megan Hollingshead
+3814	Sex Type Thing
+3815	1920 Summer Olympics
+3816	cycling at the 2000 Summer Olympics – men's cross-country
+3817	A.C. Cesena
+3818	Dmitry Chaplin
+3819	Donald Lee
+3820	Grant Balfour
+3821	Evangeline Lilly
+3822	Kate Austen
+3823	Doctor Who, season 25
+3824	Jeremy Maclin
+3825	Sokratis Papastathopoulos
+3826	boca juniors
+3827	Mantova 1911 S.S.D.
+3828	Michigan State University
+3829	1994 NBA Draft
+3830	ATP Cincinnati
+3831	Kevin Faulk
+3832	Howard Stern
+3833	Harvard Stadium
+3834	Space Metal
+3835	2007 Grammy Awards
+3836	Grammy Award for Album of the Year
+3837	The Chicks
+3838	Taking the Long Way
+3839	Bad to the Bone
+3840	Xabi Carita Alonso
+3841	Michaël Llodra
+3842	Angel, season 5
+3843	Kiki Bertens
+3844	Rafik Halliche
+3845	C.D. Nacional
+3846	Little Wing
+3847	Alonzo Mourning
+3848	André-Pierre Gignac
+3849	Toulouse FC
+3850	Qatar Ladies Open
+3851	University of Cincinnati
+3852	1973 NBA Draft
+3853	Taft Museum of Art
+3854	Aaron Mokoena
+3855	Claudio Marchisio
+3856	Lost, season 5
+3857	1947–48 BAA season
+3858	Stefan Edberg
+3859	Meghann Shaughnessy
+3860	Virginie Razzano
+3861	Resident Evil 5
+3862	Claire Redfield
+3863	Alyson Court
+3864	Naruto Uzumaki
+3865	Maile Flanagan
+3866	2011–12 2. Fußball-Bundesliga
+3867	FC Zenit Saint Petersburg
+3868	Danny
+3869	Britain's Next Top Model, Cycle 3
+3870	Colin Fleming
+3871	Jude Law
+3872	The Talented Mr. Ripley
+3873	Salvatore Bocchetti
+3874	Ron Mercer
+3875	Sharon Osbourne
+3876	America's Next Top Model, season 3
+3877	Stargate Atlantis, season 1
+3878	Jackson State University
+3879	1978 NBA Draft
+3880	Yaya Touré
+3881	Emily Procter
+3882	Calleigh Duquesne
+3883	CSI: Miami (season 10)
+3884	CSI: Miami
+3885	Kareem Rush
+3886	Jorge Velásquez
+3887	Aisam-ul-Haq Qureshi
+3888	Miroslav Klose
+3889	Viborg FF
+3890	1981–82 AHL season
+3891	American Hockey League
+3892	Erie Blades
+3893	Marc Gicquel
+3894	For the Love of God
+3895	2007 Major League Baseball season
+3896	Jay Cutler
+3897	CSI: Crime Scene Investigation, season 7
+3898	Michael Finley
+3899	Mario Bolatti
+3900	Club Atlético Huracán
+3901	Bumper Tormohlen
+3902	Syria
+3903	You've Got Another Thing Comin'
+3904	Rodney Rogers
+3905	Thierry Henry
+3906	NCIS, season 5
+3907	University of North Carolina at Chapel Hill
+3908	1984 NBA Draft
+3909	J. R. Smith
+3910	Farewell to Nostradamus
+3911	Togusa
+3912	Ghost in the Shell 2: Innocence
+3913	Crispin Freeman
+3914	Naruto the Movie: Ninja Clash in the Land of Snow
+3915	53rd Primetime Emmy Awards
+3916	Craig McCracken
+3917	The Powerpuff Girls
+3918	Claire Danes
+3919	Carrie Mathison Carrie Anne Mathison
+3920	Homeland, season 1
+3921	Homeland
+3922	Göztepe S.K.
+3923	vibraphone
+3924	Peter Christopherson
+3925	Throbbing Gristle
+3926	Jeff Porcaro
+3927	Home Plate
+3928	Robert Green
+3929	Clarence Goodson
+3930	IK Start
+3931	Trista Sutter
+3932	Raúl Albiol
+3933	Swaps
+3934	2006–07 Serie B
+3935	Jon Dahl Tomasson
+3936	Feyenoord
+3937	beach volleyball at the 2004 Summer Olympics – women's tournament
+3938	Elderson Echiéjilé
+3939	Nikita Rukavytsya
+3940	Per Krøldrup
+3941	Betaflexiviridae
+3942	Saturday Night Live, season 37
+3943	Michelle Ruff
+3944	2008 Major League Baseball season
+3945	Darren Criss
+3946	Blaine Anderson
+3947	Marten Stekelenburg
+3948	Andrew Gold
+3949	Universal Studios Home Entertainment
+3950	2011–12 Swiss Challenge League
+3951	Swiss Challenge League
+3952	SC Brühl
+3953	American Idol, season 3
+3954	CSI: NY, season 3
+3955	Empire State Building
+3956	Gaël Clichy
+3957	2009–10 NBA season
+3958	Burnley F.C.
+3959	Columbia Pictures
+3960	Angels & Demons
+3961	world
+3962	Michael Bay
+3963	Martina Sáblíková
+3964	Ted Templeman
+3965	BenJarvus Green-Ellis
+3966	Abruzzo Airport
+3967	Trapani Calcio
+3968	cycling at the 2008 Summer Olympics – men's Madison
+3969	Nip/Tuck, season 6
+3970	America's Next Top Model, season 11
+3971	Jennifer Morrison
+3972	Allison Cameron
+3973	Jennie Garth
+3974	Kevin Grevey
+3975	Pretty Vacant
+3976	Matthew Amoah
+3977	NAC Breda
+3978	Benjamin Huggel
+3979	FC Basel
+3980	Gilberto Silva
+3981	Halil Altıntop
+3982	One Tree Hill, season 5
+3983	Emmanuel Koné
+3984	FC Internațional Curtea de Argeș
+3985	Lee Dong-gook
+3986	Jeonbuk Hyundai Motors
+3987	Eddie Arcaro
+3988	The Office (U.S. season 5)
+3989	Tom Van Arsdale
+3990	Jesse Williams
+3991	Jackson Avery
+3992	Taipei
+3993	Brisbane Airport
+3994	China Airlines
+3995	2013–14 Russian Premier League
+3996	FC Anzhi Makhachkala
+3997	Silver Charm
+3998	Mick Kelleher
+3999	LaRod Stephens-Howling
+4000	George Yardley
+4001	Cho Yong-hyung
+4002	Jeju United FC
+4003	David Carr
+4004	Mavlet Batirov
+4005	24th season of The Simpsons
+4006	Robert J. Frankel
+4007	Hal Greer
+4008	Yu-Gi-Oh! Duel Monsters
+4009	Alvin Robertson
+4010	Bold Ruler
+4011	Zimbabwe
+4012	Kirsty Coventry
+4013	2011–12 Indonesian Premier League
+4014	Indonesian Premier League
+4015	PSMS Medan
+4016	Vienna
+4017	Austrian Airlines
+4018	Ahmad Bradshaw
+4019	Vinny Del Negro
+4020	Jabar Gaffney
+4021	Dave Mulligan
+4022	Jake Voskuhl
+4023	Paris-Charles de Gaulle Airport
+4024	Air France
+4025	Harry Potter and the Order of the Phoenix
+4026	Deportivo de La Coruña
+4027	Mad Love
+4028	2004–05 SPHL season
+4029	Southern Professional Hockey League
+4030	Macon Trax
+4031	bouzouki
+4032	Dundee United F.C.
+4033	30 Rock, season 4
+4034	2009–10 Prva HNL
+4035	Prva HNL
+4036	2011–12 Prva HNL
+4037	Sonic and the Black Knight
+4038	Rory Fallon
+4039	Plymouth Argyle F.C.
+4040	Sonic Battle
+4041	bağlama
+4042	Lu Edmonds
+4043	Public Image Ltd.
+4044	Fabio Cannavaro
+4045	Jon Cleary
+4046	Bernard Parker
+4047	Sarah Michelle Gellar
+4048	Buffy Summers
+4049	Buffy the Vampire Slayer, season 6
+4050	Buffy the Vampire Slayer
+4051	Scott McNeil
+4052	Xerez C.D.
+4053	Anthony Annan
+4054	Sébastien Squillaci
+4055	Jerry Stackhouse
+4056	Karolína Plíšková
+4057	Peter Odemwingie
+4058	Paul Hanley
+4059	Newark
+4060	TNT
+4061	Devin Aromashodu
+4062	John Slattery
+4063	Roger Sterling
+4064	Jim Washington
+4065	Alysheba
+4066	Harry Potter and the Philosopher's Stone
+4067	Bathwater
+4068	1988 Grammy Awards
+4069	Brian Eno
+4070	The Joshua Tree
+4071	Rock You Like a Hurricane
+4072	2013–14 2. Bundesliga
+4073	Dynamo Dresden
+4074	Dragon Ball Z: The Return of Cooler
+4075	Sony Pictures Home Entertainment
+4076	Malice in Wonderland
+4077	Mauricio Isla
+4078	Battle of Westerplatte
+4079	Rafael van der Vaart
+4080	Nigel de Jong
+4081	Lennox Lewis
+4082	Taeyeon
+4083	Guillermo Franco
+4084	2009–10 Argentine Primera División season
+4085	Primera División de Argentina
+4086	Chacarita Juniors
+4087	Dennis Rodman
+4088	Chris Killen
+4089	Gordon Ramsay
+4090	Fleetwood Town F.C.
+4091	Longing in Their Hearts
+4092	Philipp Lahm
+4093	Winx Club, season 2
+4094	Marko Šuler
+4095	Andrea Henkel
+4096	Gammaherpesvirinae
+4097	Aberdeen F.C.
+4098	Monica Niculescu
+4099	Dragon Ball Z: Dead Zone
+4100	Mark Philippoussis
+4101	volleyball at the 2012 Summer Olympics – men's tournament
+4102	Buffy the Vampire Slayer, season 7
+4103	Bill Payne
+4104	Russell Crowe
+4105	30 Odd Foot of Grunts
+4106	Billy Ray Cyrus
+4107	Cedric Benson
+4108	František Čermák
+4109	Hélio Castroneves
+4110	Duda
+4111	2009–10 Ligue 1
+4112	2010–11 Ligue 1
+4113	R.C. Lens
+4114	David Archuleta
+4115	Oliver Marach
+4116	Dragon Ball Z: Lord Slug
+4117	Charmed, season 6
+4118	Dunaújváros PASE
+4119	NCIS, season 7
+4120	Affirmed
+4121	United States Naval Academy
+4122	Drake University
+4123	1964 NBA Draft
+4124	ER, season 10
+4125	Greg "Cadillac" Anderson
+4126	Lindsay Davenport
+4127	Drew Brees
+4128	Ricardo Carvalho
+4129	Steve Blake
+4130	Marilu Henner
+4131	2010–11 Serie A
+4132	Brescia Calcio
+4133	Ezio Auditore da Firenze
+4134	Brian Bell
+4135	Weezer
+4136	Zlatko Dedić
+4137	VfL Bochum
+4138	Satellite Awards 2012
+4139	Satellite Award for Best Television Series – Drama
+4140	HBO
+4141	Shin-ichiro Miki
+4142	Suffragette City
+4143	Holly Montag
+4144	Texas A&M University
+4145	Adam Baldwin
+4146	John Casey
+4147	The Vampire Diaries, season 2
+4148	Lance Moore
+4149	Tony La Russa
+4150	Linda Ronstadt
+4151	soprano
+4152	2013–14 Eerste Divisie
+4153	Eerste Divisie
+4154	Willem II
+4155	Sweden
+4156	Charlotte Kalla
+4157	cross-country skiing at the 2010 Winter Olympics – women's team sprint
+4158	Hindoo
+4159	Ace of Spades
+4160	Sam Bush
+4161	New Grass Revival
+4162	Steve Smith
+4163	Turkish Airlines
+4164	Joey Fatone
+4165	Lúcio
+4166	Synchronicity II
+4167	Crawley Town F.C.
+4168	Jonathan Togo
+4169	Ryan Wolfe
+4170	CSI: Miami, season 9
+4171	Kōichi Zenigata
+4172	Soviet Union
+4173	Ross County F.C.
+4174	Sulley Muntari
+4175	Luka Modrić
+4176	Aeroflot
+4177	Nepovirus
+4178	Nejc Pečnik
+4179	Brian Drummond
+4180	Pepe
+4181	Freddie Hubbard
+4182	trumpet
+4183	A Scanner Darkly
+4184	Miles Davis
+4185	Derek Jeter
+4186	Alpharetrovirus
+4187	Grey's Anatomy, season 10
+4188	Ball State University
+4189	2002 Major League Baseball draft
+4190	Master P
+4191	Sihugo Green
+4192	Chris McCarron
+4193	Édgar Benítez
+4194	Ville Peltonen
+4195	ice hockey at the 2010 Winter Olympics – men's tournament
+4196	Yuto Nagatomo
+4197	Cypovirus
+4198	Stacy Keibler
+4199	Wayne Newton
+4200	Face Off, season 4
+4201	Ve Neill
+4202	Cincinnati Reds
+4203	1990 Major League Baseball draft
+4204	ER, season 14
+4205	Joshua Kennedy
+4206	David Akers
+4207	Jerry Rice
+4208	Joey McIntyre
+4209	Edson Braafheid
+4210	Darío Anastacio Verón
+4211	Majestic Prince
+4212	Ming dynasty
+4213	Shrewsbury Town F.C.
+4214	British India
+4215	Mario Lopez
+4216	Natalie Coughlin
+4217	swimming at the 2012 Summer Olympics – women's 4 × 100 metre freestyle relay
+4218	Bojan Jokić
+4219	FC Sochaux-Montbéliard
+4220	Dante DeCaro
+4221	Wolf Parade
+4222	Tashard Choice
+4223	CSI: NY, season 5
+4224	2013–14 TFF First League
+4225	Balıkesirspor
+4226	Markos Baghdatis
+4227	Jonathan Erlich
+4228	Nancy Cartwright
+4229	Bart Simpson
+4230	Dušan Lajović
+4231	Vanessa Williams
+4232	Bristol Rovers F.C.
+4233	The Hills, season 1
+4234	Whitney Port
+4235	One Tree Hill, season 6
+4236	Doug Erholtz
+4237	Phil Collins
+4238	Swansea City A.F.C.
+4239	Michel Vorm
+4240	Sander Boschker
+4241	Christian Poulsen
+4242	Armin Zöggeler
+4243	Sam Koch
+4244	José Mesa
+4245	Chrysovirus
+4246	Alex Song
+4247	Bruno Alves
+4248	Shaun Wright-Phillips
+4249	Uncharted 2: Among Thieves
+4250	1910 Major League Baseball season
+4251	rotavirus
+4252	Carol Alt
+4253	Freedom
+4254	Duke University
+4255	2002 NBA Draft
+4256	Sofia
+4257	Nashua
+4258	Dumbarton F.C.
+4259	David Caruso
+4260	Tommy Lee
+4261	Mötley Crüe
+4262	Monk, season 8
+4263	John Salley
+4264	Oslo
+4265	Reggie Theus
+4266	Live in Seattle
+4267	If 6 Was 9
+4268	Heart of Midlothian F.C.
+4269	swimming at the 2008 Summer Olympics – women's 4 × 200 metre freestyle relay
+4270	Gianluca Zambrotta
+4271	Associação Portuguesa de Desportos
+4272	Víctor Bernárdez
+4273	R.S.C. Anderlecht
+4274	Amazing Journey
+4275	Caracas
+4276	Bonnie Blair
+4277	1988 Winter Olympics
+4278	63rd Primetime Emmy Awards
+4279	Amy Poehler
+4280	Parks and Recreation
+4281	The Mentalist, season 2
+4282	Tomasz Bednarek
+4283	Jenny Thompson
+4284	Brody Jenner
+4285	Learn to Fly
+4286	Adonal Foyle
+4287	Nina Williams
+4288	Do Ya
+4289	Buzz Aldrin
+4290	Resident Evil 2
+4291	Motherwell F.C.
+4292	Yaroslav Popovych
+4293	Helicopter
+4294	Crinivirus
+4295	Houston Astros
+4296	J. B. Shuck
+4297	Glee, season 4
+4298	Hurricane
+4299	Harry Hamlin
+4300	2007 NBA Draft
+4301	Resident Evil – Code: Veronica
+4302	Ji Yun-nam
+4303	Carlavirus
+4304	horn
+4305	1903 Major League Baseball season
+4306	Jimmy Collins
+4307	Melina Kanakaredes
+4308	Stella Bonasera
+4309	Chad Urmston
+4310	Dispatch
+4311	Thomas Muster
+4312	Neil Patrick Harris
+4313	Barney Stinson
+4314	Rafik Djebbour
+4315	A.E.K. Athens F.C.
+4316	Ryan Nelsen
+4317	Dorian Gregory
+4318	Darryl Morris
+4319	University of Texas at Austin
+4320	The Walking Dead, season 3
+4321	Johnstown
+4322	Wesley Sneijder
+4323	Miami Marlins
+4324	Lenny Harris
+4325	University of Tennessee, Knoxville
+4326	1983 NBA Draft
+4327	Sir Barton
+4328	Kyle Massey
+4329	Stephen Apostolina
+4330	Charles E. Whittingham
+4331	Koke
+4332	Marie Osmond
+4333	Do You Want to Know a Secret
+4334	Felix Jones
+4335	Alexander Skarsgård
+4336	Eric Northman
+4337	Tucker Carlson
+4338	Stampede
+4339	Mario Gómez
+4340	2010 Campeonato Brasileiro Série D
+4341	Campeonato Brasileiro Série D
+4342	2012 Campeonato Brasileiro Série D
+4343	Sampaio Corrêa F.C.
+4344	Felipe Melo
+4345	Juventus
+4346	Primetime Emmy Award for Outstanding Writing for a Miniseries, Movie or a Dramatic Special
+4347	Andrew Davies
+4348	Bleak House
+4349	Henri Leconte
+4350	Mel Gaynor
+4351	Street Fighting Years
+4352	Sport Club do Recife
+4353	M. Bison
+4354	Tom Wyner
+4355	Charmed, season 2
+4356	Vila Nova Futebol Clube
+4357	Branko Ilić
+4358	FC Moscow
+4359	Purple Haze
+4360	Smallville, season 4
+4361	Jerricho Cotchery
+4362	Ramón Núñez
+4363	Los Angeles Dodgers
+4364	Delwyn Young
+4365	Nadia Petrova
+4366	İstanbul Cup
+4367	Pennsylvania Academy of the Fine Arts
+4368	Seattle Slew
+4369	The Turn of a Friendly Card
+4370	Michele Knotz
+4371	Ritsuko Akagi
+4372	Colleen Clinkenbeard
+4373	Dorothy Hamill
+4374	1976 Winter Olympics
+4375	Slovakia
+4376	Michal Martikán
+4377	Bill Sharman
+4378	Johan Olsson
+4379	cross-country skiing at the 2010 Winter Olympics – men's 4 × 10 kilometre relay
+4380	Stranraer F.C.
+4381	USS Constitution
+4382	Temple University
+4383	Bob Weiss
+4384	Bohemians 1905
+4385	Laffit Pincay, Jr.
+4386	Jimmy Cobb
+4387	Family Guy, season 3
+4388	Kulu Sé Mama
+4389	Matías Fernandez
+4390	Sporting CP
+4391	Sebastián Fernández
+4392	Club Atlético Banfield
+4393	Marlee Matlin
+4394	Deltaretrovirus
+4395	Jozy Altidore
+4396	Hull City A.F.C.
+4397	The Hills, season 2
+4398	Atatürk International Airport
+4399	Corendon Airlines
+4400	Heidi Montag
+4401	Marion Bartoli
+4402	University of Connecticut
+4403	José A. Santos
+4404	Zoran Tošić
+4405	Clark Haggans
+4406	Primetime Emmy Award for Outstanding Supporting Actor in a Comedy Series
+4407	CSI: Crime Scene Investigation, season 11
+4408	Pete Desjardins
+4409	Street Fighter Alpha: Generations
+4410	Eric Weems
+4411	Pokémon: The Rise of Darkrai
+4412	Ján Kozák
+4413	Colombia
+4414	India
+4415	Dragon Ball: Curse of the Blood Rubies
+4416	New York
+4417	Ismael Fuentes
+4418	Atlas F.C.
+4419	Fringe, season 3
+4420	Christina Applegate
+4421	Samantha Who?
+4422	Vicente del Bosque
+4423	Aleksandar Radosavljevič
+4424	FC Tom Tomsk
+4425	Heather Mills
+4426	Chuck Connors
+4427	Calvin Johnson
+4428	Georgia Institute of Technology
+4429	Exceller
+4430	Chester Taylor
+4431	The Vanishing Race
+4432	Robin Söderling
+4433	St. Patrick's Cathedral
+4434	Try Anything Once
+4435	Kati Wilhelm
+4436	biathlon at the 2006 Winter Olympics – women's relay
+4437	Michael Stich
+4438	Trichovirus
+4439	Ricardo Clark
+4440	Houston Dynamo
+4441	Josh Freeman
+4442	Emilie de Ravin
+4443	Claire Littleton
+4444	Bill Bridges
+4445	Chidi Odiah
+4446	Jonathan Vilma
+4447	Peabody Essex Museum
+4448	trombone
+4449	Fox Theatre
+4450	Matthew Slater
+4451	Nip/Tuck, season 3
+4452	Bruce Watson
+4453	Big Country
+4454	Federica Pellegrini
+4455	Tohoku Rakuten Golden Eagles
+4456	SpongeBob SquarePants, season 3
+4457	FC Rapid București
+4458	Ellen DeGeneres
+4459	Two and a Half Men, season 9
+4460	Jérémy Toulalan
+4461	Petra Němcová
+4462	Britain's Next Top Model, Cycle 6
+4463	Elle Macpherson
+4464	Klára Koukalová
+4465	Souls Alike
+4466	Jordy Nelson
+4467	Billy Knight
+4468	Donald Driver
+4469	Miloslav Mečíř
+4470	Baron Davis
+4471	Gene Simmons
+4472	Deion Branch
+4473	Geremi
+4474	U2
+4475	P.A.O.K. Thessaloniki F.C.
+4476	Ki Sung-yueng
+4477	FC Seoul
+4478	Madjid Bougherra
+4479	Ghost in the Shell
+4480	Annika Beck
+4481	Waldo Ponce
+4482	special agent
+4483	Fox Mulder
+4484	Federal Bureau of Investigation
+4485	James LaBrie
+4486	Richard Jefferson
+4487	Amélie Mauresmo
+4488	The Voice (U.S. season 5)
+4489	Cornelius Bumpus
+4490	The Doobie Brothers
+4491	Carles Puyol
+4492	Christina Aguilera
+4493	Renata Voráčová
+4494	Joe Torre
+4495	Resident Evil 3: Nemesis
+4496	Arts and Letters
+4497	MacKenzie Miller
+4498	Ivica Kostelić
+4499	2005 NBA Draft
+4500	Wizards of Waverly Place, season 4
+4501	2007–08 Polish Second League
+4502	Warta Poznań
+4503	Fabián Orellana
+4504	T Bone Burnett
+4505	Carson Kressley
+4506	Carlos Vela
+4507	Moran Norris
+4508	Kendra Wilkinson
+4509	Warsaw
+4510	Stuart O'Grady
+4511	Rúben Amorim
+4512	Bones, season 1
+4513	American Idol, season 8
+4514	Cindy Robinson
+4515	Obscure Alternatives
+4516	Alex Smith
+4517	University of Utah
+4518	Whitey Herzog
+4519	Matej Mavrič
+4520	TuS Koblenz
+4521	Nwankwo Kanu
+4522	Golden Satellite Awards 1996
+4523	American Broadcasting Company
+4524	NYPD Blue
+4525	Shinji Okazaki
+4526	Shimizu S-Pulse
+4527	Brian Hoyer
+4528	Prague
+4529	Leeza Gibbons
+4530	Satchel Paige
+4531	1948 Major League Baseball season
+4532	Richie Hayward
+4533	Dixie Chicken
+4534	FK Napredak Kruševac
+4535	ER, season 12
+4536	1. FC Kaiserslautern
+4537	The Morgan Library & Museum
+4538	Amanda Beard
+4539	Rennae Stubbs
+4540	Crescent
+4541	Hank Azaria
+4542	Comic Book Guy
+4543	Wellington
+4544	Martín Cáceres
+4545	24, season 8
+4546	24
+4547	Eddie Gill
+4548	banjo
+4549	Shannen Doherty
+4550	Alloa Athletic F.C.
+4551	Giorgos Karagounis
+4552	St. Petersburg
+4553	Busher
+4554	Lana Parrilla
+4555	Queen
+4556	Once Upon a Time, season 3
+4557	Once Upon a Time
+4558	Primetime Emmy Award for Individual Performance in a Variety or Music Program
+4559	David Letterman
+4560	Late Show with David Letterman
+4561	Real Zaragoza
+4562	Erik Jendrišek
+4563	Cammy White
+4564	Lisa Ann Beley
+4565	CSI: NY (season 9)
+4566	Jorge Valdívia
+4567	Al Ain FC
+4568	Daniel Jensen
+4569	Sebastián Eguren
+4570	Spumavirus
+4571	Kateryna Bondarenko
+4572	Lex Lang
+4573	Amy Peterson
+4574	1992 Winter Olympics
+4575	Twenty Grand
+4576	Danny Shittu
+4577	Jay Mohr
+4578	Jakarta
+4579	Garuda Indonesia
+4580	1999 NBA Draft
+4581	Omar Vizquel
+4582	Oh Beom-seok
+4583	Ulsan Hyundai FC
+4584	Jason Witten
+4585	Humberto Suazo
+4586	Club de Fútbol Monterrey
+4587	Rachel Hunter
+4588	2012–13 Championnat National
+4589	Championnat National
+4590	FC Metz
+4591	The Breakers
+4592	Paris Saint-Germain F.C.
+4593	Javier Pastore
+4594	Shoot Out at the Fantasy Factory
+4595	María José Martínez Sánchez
+4596	Family Guy, season 6
+4597	Kent Desormeaux
+4598	Mario Williams
+4599	Two and a Half Men, season 5
+4600	United States Military Academy
+4601	Palma de Mallorca
+4602	Smooth Criminal
+4603	Marissa Jaret Winokur
+4604	Maura Tierney
+4605	Southampton F.C.
+4606	Wake Forest University
+4607	Walt Hazzard
+4608	Charles Kurtsinger
+4609	Assassin's Creed: Revelations
+4610	Tony Pérez
+4611	Verron Haynes
+4612	Víctor Valdés
+4613	SpongeBob SquarePants, season 9
+4614	Jason Douglas
+4615	Once Upon a Time, season 1
+4616	Miralem Sulejmani
+4617	Alyson Hannigan
+4618	Lily Aldrin
+4619	Gimme Shelter
+4620	Academy Award for Best Original Score
+4621	Randy Newman
+4622	Monsters, Inc.
+4623	Katarzyna Piter
+4624	Keith Knudsen
+4625	Margaret Cho
+4626	Iceland
+4627	Hreiðar Guðmundsson
+4628	Paul Molitor
+4629	Milwaukee Brewers
+4630	Lo Bosworth
+4631	fiddle
+4632	Yeom Ki-hun
+4633	Kenya
+4634	Bernard Lagat
+4635	2011–12 Süper Lig
+4636	Manisaspor
+4637	Cowdenbeath F.C.
+4638	Evander Holyfield
+4639	Orthobunyavirus
+4640	Tubular Bells 2003
+4641	New England Revolution
+4642	Benny Feilhaber
+4643	Harry Connick Jr.
+4644	Gisela Dulko
+4645	Eren Derdiyok
+4646	Primetime Emmy Award for Outstanding Directing for a Limited Series, Movie, or Dramatic Special
+4647	Kenny Ortega
+4648	High School Musical
+4649	Battle of Kursk
+4650	Karratha
+4651	Ronnie Brown
+4652	Peyton Manning
+4653	52nd Primetime Emmy Awards
+4654	Kelsey Grammer
+4655	Frasier
+4656	1912 Major League Baseball season
+4657	Takayuki Morimoto
+4658	Calcio Catania
+4659	Jacinto Vásquez
+4660	Michael Vick
+4661	6th Golden Satellite Awards
+4662	Satellite Award for Best Costume Design
+4663	Richard Taylor
+4664	Peter Koppes
+4665	The Church
+4666	London
+4667	Berlin Schönefeld Airport
+4668	Percy Harvin
+4669	Khalid Boulahrouz
+4670	Shanna Moakler
+4671	R. Thomas Smith
+4672	Cheick Tioté
+4673	Clyde F.C.
+4674	Kim Jung-woo
+4675	Seongnam FC
+4676	Chris Hillman
+4677	Oil on Canvas
+4678	Dirty Little Secret
+4679	Chad Johnson
+4680	Empoli F.C.
+4681	Native Dancer
+4682	Martin Petráš
+4683	Alexander Frei
+4684	Hans Sarpei
+4685	Trent Edwards
+4686	Joseph Addai
+4687	Bode Miller
+4688	Floyd Mayweather Jr.
+4689	Avian adenovirus
+4690	Kurt Warner
+4691	53rd Academy Awards
+4692	Academy Award for Best Writing, Adapted Screenplay
+4693	Jonathan Hardy
+4694	Breaker Morant
+4695	Supernatural, season 7
+4696	Gary Dourdan
+4697	Warrick Brown
+4698	Florence Henderson
+4699	diving at the 2008 Summer Olympics – women's synchronized 3 metre springboard
+4700	Paramyxovirus
+4701	Rubulavirus
+4702	Novirhabdovirus
+4703	Zev
+4704	2011–12 Segunda División B
+4705	Patrick Rafter
+4706	1999 Grammy Awards
+4707	Grammy Award for Record of the Year
+4708	Céline Dion
+4709	My Heart Will Go On
+4710	Jennifer Hudson
+4711	Philipp Petzschner
+4712	Michael Bolton
+4713	Abou Diaby
+4714	2000 Major League Baseball season
+4715	Dave Martinez
+4716	Andrea Sestini Hlaváčková
+4717	Alliance Airlines
+4718	Howie Mandel
+4719	Stargate Atlantis, season 2
+4720	Merlin, series 1
+4721	Family Guy, season 9
+4722	Perfect Insanity
+4723	2013–14 Russian Football National League
+4724	Russian Football National League Competition
+4725	Potyviridae
+4726	Potyvirus
+4727	La Salle University
+4728	1955 NBA Draft
+4729	Nottingham
+4730	tin whistle
+4731	Pól Brennan
+4732	Clannad
+4733	John Henry
+4734	America's Next Top Model, season 2
+4735	Sunshine of Your Love
+4736	Melanie Brown
+4737	Patrick Moraz
+4738	The Story of I
+4739	Vangelis Moras
+4740	Violet Hill
+4741	CSI: Crime Scene Investigation, season 10
+4742	Carlos Bocanegra
+4743	2010 Campeonato Brasileiro Série A
+4744	CR Vasco da Gama
+4745	Bones, season 7
+4746	1990 NBA Draft
+4747	Washington Capitals
+4748	Tobias Angerer
+4749	Roy Williams
+4750	Neil D. Drysdale
+4751	Rex Grossman
+4752	gong
+4753	Miami-Dade Police Department
+4754	1971 NBA Draft
+4755	Phineas and Ferb, season 3
+4756	Friends, season 6
+4757	Patrice Evra
+4758	Kevin-Prince Boateng
+4759	Karim Benzema
+4760	Milivoje Novaković
+4761	Fanis Gekas
+4762	Lance Ball
+4763	Roman Šebrle
+4764	Toronto
+4765	Jim Gordon
+4766	Welcome to the Canteen
+4767	Bewitch
+4768	Aaron Lennon
+4769	Bucky Harris
+4770	Bert van Marwijk
+4771	Prime Time Entertainment Network
+4772	Epsilonretrovirus
+4773	Derek Lowe
+4774	Cortland Finnegan
+4775	2009–10 Druga HNL
+4776	RNK Split
+4777	66th Academy Awards
+4778	Academy Award for Best Makeup and Hairstyling
+4779	Mrs. Doubtfire
+4780	Aggelos Charisteas
+4781	1. FC Nürnberg
+4782	bird
+4783	Piciformes
+4784	Integrated Taxonomic Information System

@@ -1,25 +1,31 @@
 import os, inspect, numpy as np, torch
-from ordered_set import OrderedSet
-from tqdm import tqdm
+from data import utils
 
 from torch.utils.data import Dataset, DataLoader
-from collections import defaultdict as ddict
 from functools import partial
 
 
 
 class Loader(object):
     """
-    load train, valid, test splits of the dataset
-    assumes the presence of train, valid, and test files 
-    each file is assumed to contain multi-relational hyperedges 
+    Load train, valid, test splits of the dataset
+    Assumes the presence of train, valid, and test files 
+    Each file is assumed to contain multi-relational hyperedges 
     """
     def __init__(self, p):
-        self.p = p
-        
+        self.p = p        
         d, _ = os.path.split(os.path.abspath(inspect.getfile(inspect.currentframe())))
         self.files = []
-        for s in ['train', 'valid', 'test']: self.files.append(os.path.join(d, p.data, s + ".txt"))
+        
+        for s in ['train', 'valid', 'test', 'aux']: 
+            path = os.path.join(d, p.data, s + ".txt")
+            if os.path.isfile(path): self.files.append(path)
+        
+        self.uns = os.path.join(d, p.data, "unseen.txt")
+        self.X = os.path.join(d, p.data, "X.txt")
+
+        self.ent = os.path.join(d, p.data, "entities.txt")
+        self.rel = os.path.join(d, p.data, "relations.txt")
 
 
     def load(self):
@@ -27,56 +33,23 @@ class Loader(object):
         load train, valid, test splits of the multi-relational ordered hyergraph
         """
         log = self.p.logger
-        V, R = OrderedSet(), OrderedSet()
-        V.add(""), R.add("")
 
-
-        # compute vertex / relation sets
-        m = 0 # maximum size of hyperedge
-        for F in tqdm(self.files):
-            with open(F, "r") as f:
-                for line in f.readlines():
-                    row = line.strip().split('\t')
-                    R.add(row[0])
-                    
-                    e = row[1:]
-                    V.update(e)
-                    if len(e) > m: m = len(e)
-
-
-        log.info("Number of vertices is " + str(len(V)-1))
-        log.info("Maximum size of hyperedge is " + str(m))
-        log.info("Number of relations is " + str(len(R)-1) + "\n\n")
-
-
-        # map vertex to index
-        v2i, r2i = {v: i for i, v in enumerate(V)}, {r: i for i, r in enumerate(R)}
+        v2i, r2i, m = utils.Map(self.files)
         self.p.n, self.p.N, self.p.m  = len(v2i), len(r2i), m
-        data, items = ddict(list), set()
+        self.p.i2v, self.p.i2r = utils.rawmap(v2i, self.ent), utils.rawmap(r2i, self.rel)
+        
+        log.info("Number of vertices is " + str(len(v2i)-1))
+        log.info("Maximum size of hyperedge is " + str(m))
+        log.info("Number of relations is " + str(len(r2i)-1))
+        
+        U = utils.unseen(self.uns, v2i)
+        inc, self.data, self.items = utils.read(self.files, v2i, r2i, m, U)
 
+        X, self.p.i = utils.features(self.X, v2i)
+        log.info("Number of vertex features is " + str(self.p.i))
 
-        # read data
-        Incidence = ddict(list)  # incidence (generalisation of neighbourhood for hypergraphs)
-        for F in tqdm(self.files):
-            with open(F, "r") as f:
-                s = os.path.split(F)[1].split(".")[0]
-                for line in f.readlines():
-                    row = line.strip().split('\t')
-                    r = r2i[row[0]]
-
-                    e, vs = [r], list(map(lambda v: v2i[v], row[1:]))
-                    e.extend(vs)
-                    data[s].append(np.int32(e))
-
-                    a, item = len(vs), np.int32(np.zeros(m + 3))  # relation, list_of_entities, label, arity
-                    item[:a+1], item[-2], item[-1] = e, 0, a
-                    items.add(tuple(item))
-
-                    if s == "train":
-                        for v in vs: Incidence[v].append(e) 
-
-        self.data, self.items = dict(data), items
-        return Incidence, self._splits()
+        structure = {"I": inc, "U": U, "X": torch.FloatTensor(X)}
+        return structure, self._splits()
 
 
     def _splits(self):
