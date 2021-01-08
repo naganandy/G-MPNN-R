@@ -17,7 +17,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
   ```
 
   - `--data` denotes the dataset to use
-  - `--log` indicates whether to log results (and dump checkpoints)
+  - `--log` indicates whether to log results (and dump checkpoints for GMPNN)
   - `--agg` denotes the type of aggregation for GMPNN (max / mean / sum)
   - `--split` is the split number to use for MPNNR
 
