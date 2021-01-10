@@ -8,7 +8,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 
 ### Model Usage:
 
-- Please use requirements.txt to install dependencies. To start training, run the following in GMPNN or MPNN folder.
+- Please use requirements.txt to install dependencies. To start training, run the following in GMPNN or MPNNR folder.
 
   ```shell
   python gmpnn.py --data WP-IND --agg max --log False
@@ -25,7 +25,7 @@ Source code for NeurIPS 2020 paper: **Neural Message Passing for Multi-Relationa
 
 ### Citation:
 
-```bibtex
+```
 @incollection{gmpnnr_neurips20,
 author = {Naganand Yadati},
 title = {Neural Message Passing for Multi-Relational Ordered and Recursive Hypergraphs},
